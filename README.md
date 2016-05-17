@@ -1,2 +1,3 @@
-# world-currencies
-SQL Table for World Currencies (ISO 4217)
+World Currencies (ISO 4217) - SQL Table
+=======================================
+
