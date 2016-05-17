@@ -166,4 +166,4 @@ INSERT INTO `world_currencies` (`code`, `number`, `decimalplaces`, `name`, `symb
 
 ALTER TABLE `world_currencies`
   ADD PRIMARY KEY (`code`),
-  ADD UNIQUE(`number`);
+  ADD UNIQUE (`number`);
