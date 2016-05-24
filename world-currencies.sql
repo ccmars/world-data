@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS `world_currencies`;
 CREATE TABLE `world_currencies` (
   `code` varchar(3) NOT NULL,
   `number` smallint(3) NOT NULL,
