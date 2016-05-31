@@ -33,7 +33,7 @@ The currencies table contains the following data:
 
 > `[string]` **alpha3**: [Three-letter code](https://en.wikipedia.org/wiki/ISO_4217) of the currency
 
-> `[integer]` **decimals**: Number of digest after the decimal
+> `[integer]` **decimals**: Number of digits after the decimal
 
 > `[string]` **langEN**: English name of the currency
 
