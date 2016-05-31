@@ -7,11 +7,11 @@ CREATE TABLE `world_currencies` (
   `number` smallint(3) NOT NULL,
   `alpha3` varchar(3) NOT NULL,
   `decimals` tinyint(1) NOT NULL DEFAULT '2',
-  `name` varchar(39) NOT NULL,
+  `langEN` varchar(39) NOT NULL,
   `symbol` varchar(24) DEFAULT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='World Currencies (ISO 4217)';
 
-INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `name`, `symbol`) VALUES
+INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `symbol`) VALUES
 (784, 'AED', 2, 'United Arab Emirates dirham', '1583;46;1573'),
 (971, 'AFN', 2, 'Afghan afghani', '1547'),
 (8, 'ALL', 2, 'Albanian lek', '76;101;107'),

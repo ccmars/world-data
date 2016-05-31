@@ -35,7 +35,7 @@ The currencies table contains the following data:
 
 > `[integer]` **decimals**: Number of digest after the decimal
 
-> `[string]` **name**: English name of the currency
+> `[string]` **langEN**: English name of the currency
 
 > `[string]` **symbol**: Symbol of the currency in HTML decimal codes, separated by semi-colons (;) if the symbol consists of multiple characters; for example, turn the number 36 into `&#36;` to achieve a dollar symbol ($)
 
