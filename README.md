@@ -1,7 +1,7 @@
 World Data (ISO Standards) - SQL Tables
 =======================================
 
-Any developer that works with an international user base will eventually need to determine what country their users are from, what language they speak and read, and sometimes even what currency their users make purchases in. The best way to keep track of that information is to follow the standards set forth by the [International Organization for Standardization (ISO)](http://www.iso.org/), which have become universally accepted since their development in the 1960s and 1970s. The SQL queries compiled here will populate a database with tables containing with country, currency, and language data based on ISO standards.
+Any developer that works with an international user base will eventually need to determine what country their users are from, what language they speak and read, and sometimes even what currency their users make purchases in. The best way to keep track of that information is to follow the standards set forth by the [International Organization for Standardization (ISO)](http://www.iso.org/), which have become universally accepted since their development in the 1960s and 1970s. The SQL queries compiled here will populate a database with tables containing country, currency, and language data based on ISO standards.
 
 World Countries ([ISO 3166](http://www.iso.org/iso/home/standards/country_codes.htm))
 --------------------------
@@ -39,7 +39,7 @@ The currencies table contains the following data:
 
 > `[string]` **symbol_decimal**: Symbol of the currency in decimal [numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference) codes, separated by semi-colons (;) if the symbol consists of multiple characters. For example, in HTML, turn the number `36` into `&#36;` to output a dollar symbol ($).
 
-> `[string]` **symbol_hex**: Symbol of the currency in hexadecimal [numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference) codes, separated by semi-colons (;) if the symbol consists of multiple characters. For example, in HTML, turn the string `0024` into `&#x0024;` to output a dollar symbol ($). To acheive the same in JavaScript, use `\u0024`, and in CSS, use `\0024`.
+> `[string]` **symbol_hex**: Symbol of the currency in hexadecimal [numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference) codes, separated by semi-colons (;) if the symbol consists of multiple characters. For example, in HTML, turn the string `0024` into `&#x0024;` to output a dollar symbol ($). To achieve the same in JavaScript, use `\u0024`, and in CSS, use `\0024`.
 
 World Languages ([ISO 639](http://www.iso.org/iso/home/standards/language_codes.htm))
 -------------------------
