@@ -37,9 +37,9 @@ The currencies table contains the following data:
 
 > `[string]` **langEN**: English name of the currency
 
-> `[string]` **symbol_decimal**: Symbol of the currency in decimal numerical character reference codes, separated by semi-colons (;) if the symbol consists of multiple characters. For example, in HTML, turn the number `36` into `&#36;` to output a dollar symbol ($).
+> `[string]` **symbol_decimal**: Symbol of the currency in decimal [numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference) codes, separated by semi-colons (;) if the symbol consists of multiple characters. For example, in HTML, turn the number `36` into `&#36;` to output a dollar symbol ($).
 
-> `[string]` **symbol_hex**: Symbol of the currency in hex numerical character reference codes, separated by semi-colons (;) if the symbol consists of multiple characters. For example, in HTML, turn the string `0024` into `&#x0024;` to output a dollar symbol ($). To acheive the same in JavaScript, use `\u0024`, and in CSS, use `\0024`.
+> `[string]` **symbol_hex**: Symbol of the currency in hexadecimal [numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference) codes, separated by semi-colons (;) if the symbol consists of multiple characters. For example, in HTML, turn the string `0024` into `&#x0024;` to output a dollar symbol ($). To acheive the same in JavaScript, use `\u0024`, and in CSS, use `\0024`.
 
 World Languages ([ISO 639](http://www.iso.org/iso/home/standards/language_codes.htm))
 -------------------------
