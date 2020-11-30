@@ -1,5 +1,5 @@
 -- World Currencies (ISO 4217)
--- SQL Table | v2.0.0
+-- SQL Table | v2.0.1 (2021)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_currencies`;
@@ -36,7 +36,7 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `symbo
 (44, 'BSD', 2, 'Bahamian dollar', '36', '0024'),
 (64, 'BTN', 2, 'Bhutanese ngultrum', '78;117', '004E;0075'),
 (72, 'BWP', 2, 'Botswana pula', '80', '0050'),
-(974, 'BYR', 0, 'Belarusian ruble', '112;46', '0070;002E'),
+(933, 'BYN', 0, 'Belarusian ruble', '112;46', '0070;002E'),
 (84, 'BZD', 2, 'Belize dollar', '66;90;36', '0042;005A;0024'),
 (124, 'CAD', 2, 'Canadian dollar', '36', '0024'),
 (976, 'CDF', 2, 'Congolese franc', '70;67', '0046;0043'),
@@ -47,7 +47,7 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `symbo
 (188, 'CRC', 2, 'Costa Rican colon', '8353', '20A1'),
 (931, 'CUC', 2, 'Cuban convertible peso', '36', '0024'),
 (192, 'CUP', 2, 'Cuban peso', '8369', '20B1'),
-(132, 'CVE', 0, 'Cape Verde escudo', '36', '0024'),
+(132, 'CVE', 0, 'Cape Verdean escudo', '36', '0024'),
 (203, 'CZK', 2, 'Czech koruna', '75;269', '004B;010D'),
 (262, 'DJF', 0, 'Djiboutian franc', '70;100;106', '0046;0064;006A'),
 (208, 'DKK', 2, 'Danish krone', '107;114', '006B;0072'),
@@ -103,7 +103,7 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `symbo
 (104, 'MMK', 2, 'Burmese kyat', '75', '004B'),
 (496, 'MNT', 2, 'Mongolian tögrög', '8366', '20AE'),
 (446, 'MOP', 2, 'Macanese pataca', '77;79;80;36', '004D;004F;0050;0024'),
-(478, 'MRO', 1, 'Mauritanian ouguiya', '85;77', '0055;004D'),
+(929, 'MRU', 1, 'Mauritanian ouguiya', '85;77', '0055;004D'),
 (480, 'MUR', 2, 'Mauritian rupee', '8360', '20A8'),
 (462, 'MVR', 2, 'Maldivian rufiyaa', '45;1923', '002D;0783'),
 (454, 'MWK', 2, 'Malawian kwacha', '77;75', '004D;004B'),
@@ -118,7 +118,7 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `symbo
 (554, 'NZD', 2, 'New Zealand dollar', '36', '0024'),
 (512, 'OMR', 3, 'Omani rial', '65020', 'FDFC'),
 (590, 'PAB', 2, 'Panamanian balboa', '66;47;46', '0042;002F;002E'),
-(604, 'PEN', 2, 'Peruvian Sol', '83;47;46', '0053;002F;002E'),
+(604, 'PEN', 2, 'Peruvian sol', '83;47;46', '0053;002F;002E'),
 (598, 'PGK', 2, 'Papua New Guinean kina', '75', '004B'),
 (608, 'PHP', 2, 'Philippine peso', '8369', '20B1'),
 (586, 'PKR', 2, 'Pakistani rupee', '8360', '20A8'),
@@ -140,7 +140,7 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `symbo
 (706, 'SOS', 2, 'Somali shilling', '83', '0053'),
 (968, 'SRD', 2, 'Surinamese dollar', '36', '0024'),
 (728, 'SSP', 2, 'South Sudanese pound', '36', '0024'),
-(678, 'STD', 2, 'São Tomé and Príncipe dobra', '68;98', '0044;0062'),
+(930, 'STN', 2, 'São Tomé and Príncipe dobra', '68;98', '0044;0062'),
 (760, 'SYP', 2, 'Syrian pound', '163', '00A3'),
 (748, 'SZL', 2, 'Swazi lilangeni', '76', '004C'),
 (764, 'THB', 2, 'Thai baht', '3647', '0E3F'),
@@ -157,8 +157,8 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `symbo
 (840, 'USD', 2, 'United States dollar', '36', '0024'),
 (858, 'UYU', 2, 'Uruguayan peso', '36;85', '0024;0055'),
 (860, 'UZS', 2, 'Uzbekistan som', '1083;1074', '043B;0432'),
-(937, 'VEF', 2, 'Venezuelan bolívar', '66;115', '0042;0073'),
-(704, 'VND', 0, 'Vietnamese dong', '8363', '20AB'),
+(928, 'VES', 2, 'Venezuelan bolívar soberano', '66;115', '0042;0073'),
+(704, 'VND', 0, 'Vietnamese đồng', '8363', '20AB'),
 (548, 'VUV', 0, 'Vanuatu vatu', '86;84', '0056;0054'),
 (882, 'WST', 2, 'Samoan tala', '87;83;36', '0057;0053;0024'),
 (950, 'XAF', 0, 'CFA franc BEAC', NULL, NULL),
@@ -168,7 +168,9 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `symbo
 (999, 'XXX', 0, 'No currency', NULL, NULL),
 (886, 'YER', 2, 'Yemeni rial', '65020', 'FDFC'),
 (710, 'ZAR', 2, 'South African rand', '82', '0052'),
-(967, 'ZMW', 2, 'Zambian kwacha', '90;36', '005A;0024');
+(967, 'ZMW', 2, 'Zambian kwacha', '90;36', '005A;0024'),
+(222, 'SVC', 2, 'Salvadoran colón', '20A1', '8353'),
+(932, 'ZWL', 2, 'Zimbabwean dollar', '36', '0024');
 
 ALTER TABLE `world_currencies`
   ADD PRIMARY KEY (`number`),
