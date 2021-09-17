@@ -46,7 +46,7 @@ World Languages ([ISO 639](http://www.iso.org/iso/home/standards/language_codes.
 
 The languages table contains the following data:
 
-> `[string]` **alpha2**: [Two-letter code](https://en.wikipedia.org/wiki/ISO_639-2) of the language
+> `[string]` **alpha2**: [Two-letter code](https://en.wikipedia.org/wiki/ISO_639-1) of the language
 
 > `[string]` **langEN**: English name of the language
 
