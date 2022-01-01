@@ -1,5 +1,5 @@
 -- World Languages (ISO 639)
--- SQL Table | v1.0.1 (2021)
+-- SQL Table | v1.0.2 (2022)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_languages`;
@@ -27,7 +27,6 @@ INSERT INTO `world_languages` (`alpha2`, `langEN`, `langDE`, `langFR`, `langES`)
 ('ba', 'Bashkir', 'Baschkirisch', 'baskir', 'bachkir'),
 ('be', 'Belarusian', 'Weißrussisch', 'bielorruso', 'biélorusse'),
 ('bg', 'Bulgarian', 'Bulgarisch', 'búlgaro', 'bulgare'),
-('bh', 'Bihari', 'Bihari', 'bhojpurí', 'biharis'),
 ('bi', 'Bislama', 'Beach-la-mar', 'bislama', 'bichlamar'),
 ('bm', 'Bambara', 'Bambara-Sprache', 'bambara', 'bambara'),
 ('bn', 'Bengali', 'Bengali', 'bengalí', 'bengali'),
