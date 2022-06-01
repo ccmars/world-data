@@ -11,7 +11,7 @@ CREATE TABLE `world_languages` (
   `langES` varchar(48) NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='World Languages (ISO 639)';
 
-INSERT INTO `world_languages` (`alpha2`, `langEN`, `langDE`, `langFR`, `langES`) VALUES
+INSERT INTO `world_languages` (`alpha2`, `langEN`, `langDE`, `langES`, `langFR`) VALUES
 ('aa', 'Afar', 'Danakil-Sprache', 'afar', 'afar'),
 ('ab', 'Abkhazian', 'Abchasisch', 'abjaso', 'abkhaze'),
 ('ae', 'Avestan', 'Avestisch', 'avéstico', 'avestique'),
