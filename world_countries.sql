@@ -4,7 +4,7 @@
 
 DROP TABLE IF EXISTS `world_countries`;
 CREATE TABLE `world_countries` (
-  `number` smallint(3) NOT NULL,
+  `number` smallint NOT NULL,
   `alpha2` varchar(2) NOT NULL,
   `alpha3` varchar(3) NOT NULL,
   `langEN` varchar(64) NOT NULL,
@@ -13,7 +13,7 @@ CREATE TABLE `world_countries` (
   `langFR` varchar(64) NOT NULL,
   `langIT` varchar(64) NOT NULL,
   `tld` varchar(4) NOT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='World Countries (ISO 3166)';
+) ENGINE=MyISAM DEFAULT CHARSET=UTF8MB4 COMMENT='World Countries (ISO 3166)';
 
 INSERT INTO `world_countries` (`number`, `alpha2`, `alpha3`, `langEN`, `langDE`, `langES`, `langFR`, `langIT`, `tld`) VALUES
 (20, 'AD', 'AND', 'Andorra', 'Andorra', 'Andorra', 'Andorre', 'Andorra', '.ad'),

@@ -4,14 +4,14 @@
 
 DROP TABLE IF EXISTS `world_currencies`;
 CREATE TABLE `world_currencies` (
-  `number` smallint(3) NOT NULL,
+  `number` smallint NOT NULL,
   `alpha3` varchar(3) NOT NULL,
-  `decimals` tinyint(1) NOT NULL DEFAULT '2',
+  `decimals` tinyint NOT NULL DEFAULT '2',
   `langEN` varchar(39) NOT NULL,
   `langIT` varchar(39) NOT NULL,
   `symbol_decimal` varchar(24) DEFAULT NULL,
   `symbol_hex` varchar(24) DEFAULT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='World Currencies (ISO 4217)';
+) ENGINE=MyISAM DEFAULT CHARSET=UTF8MB4 COMMENT='World Currencies (ISO 4217)';
 
 INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langIT`, `symbol_decimal`, `symbol_hex`) VALUES
 (784, 'AED', 2, 'United Arab Emirates dirham', 'Dirham degli Emirati Arabi Uniti', '1583;46;1573', '062F;002E;0625'),

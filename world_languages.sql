@@ -1,5 +1,5 @@
 -- World Languages (ISO 639)
--- SQL Table | v1.0.3 (2022)
+-- SQL Table | v1.1.3 (2022)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_languages`;
@@ -10,7 +10,7 @@ CREATE TABLE `world_languages` (
   `langFR` varchar(48) NOT NULL,
   `langES` varchar(48) NOT NULL,
   `langIT` varchar(48) NOT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='World Languages (ISO 639)';
+) ENGINE=MyISAM DEFAULT CHARSET=UTF8MB4 COMMENT='World Languages (ISO 639)';
 
 INSERT INTO `world_languages` (`alpha2`, `langEN`, `langDE`, `langFR`, `langES`, `langIT`) VALUES
 ('aa', 'Afar', 'Danakil-Sprache', 'afar', 'afar', 'Afar'),
