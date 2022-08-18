@@ -22,6 +22,8 @@ The countries table contains the following data:
 
 > `[string]` **langFR**: French name of the country
 
+> `[string]` **langIT**: Italian name of the country
+
 > `[string]` **tld**: [Country code top-level domain (ccTLD)](https://en.wikipedia.org/wiki/Country_code_top-level_domain) of the country
 
 World Currencies ([ISO 4217](http://www.iso.org/iso/home/standards/currency_codes.htm))
@@ -36,6 +38,8 @@ The currencies table contains the following data:
 > `[integer]` **decimals**: Number of digits after the decimal
 
 > `[string]` **langEN**: English name of the currency
+
+> `[string]` **langIT**: Italian name of the currency
 
 > `[string]` **symbol_decimal**: Symbol of the currency in decimal [numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference) codes, separated by semi-colons (;) if the symbol consists of multiple characters. For example, in HTML, turn the number `36` into `&#36;` to output a dollar symbol ($).
 
@@ -55,3 +59,5 @@ The languages table contains the following data:
 > `[string]` **langES**: Spanish name of the language
 
 > `[string]` **langFR**: French name of the language
+
+> `[string]` **langIT**: Italian name of the language
