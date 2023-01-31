@@ -1,5 +1,5 @@
 -- World Currencies (ISO 4217)
--- SQL Table | v2.1.1 (2023)
+-- SQL Table | v2.1.2 (2023)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_currencies`;
