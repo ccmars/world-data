@@ -1,5 +1,5 @@
 -- World Currencies (ISO 4217)
--- SQL Table | v2.1.0 (2022)
+-- SQL Table | v2.1.1 (2023)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_currencies`;
@@ -43,7 +43,7 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (976, 'CDF', 2, 'Congolese franc', 'Franco congolese', '70;67', '0046;0043'),
 (756, 'CHF', 2, 'Swiss franc', 'Franco Svizzero', '67;72;70', '0043;0048;0046'),
 (152, 'CLP', 0, 'Chilean peso', 'Peso Cileno', '36', '0024'),
-(156, 'CNY', 2, 'Chinese yuan', 'Yuan Renminbi', '165', '00A5'),
+(156, 'CNY', 2, 'Renminbi', 'Yuan Renminbi', '165', '00A5'),
 (170, 'COP', 2, 'Colombian peso', 'Peso Colombiano', '36', '0024'),
 (188, 'CRC', 2, 'Costa Rican colon', 'Colón costaricano', '8353', '20A1'),
 (931, 'CUC', 2, 'Cuban convertible peso', 'Peso cubano convertibile', '36', '0024'),
@@ -70,7 +70,6 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (328, 'GYD', 2, 'Guyanese dollar', 'Dollaro della Guyana', '36', '0024'),
 (344, 'HKD', 2, 'Hong Kong dollar', 'Dollaro di Hong Kong', '36', '0024'),
 (340, 'HNL', 2, 'Honduran lempira', 'Lempira', '76', '004C'),
-(191, 'HRK', 2, 'Croatian kuna', 'Kuna', '107;110', '006B;006E'),
 (332, 'HTG', 2, 'Haitian gourde', 'Gourde', '71', '0047'),
 (348, 'HUF', 2, 'Hungarian forint', 'Fiorino', '70;116', '0046;0074'),
 (360, 'IDR', 2, 'Indonesian rupiah', 'Rupia', '82;112', '0052;0070'),
@@ -137,11 +136,13 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (752, 'SEK', 2, 'Swedish krona/kronor', 'Corona svedese', '107;114', '006B;0072'),
 (702, 'SGD', 2, 'Singapore dollar', 'Dollaro di Singapore', '36', '0024'),
 (654, 'SHP', 2, 'Saint Helena pound', 'Saint Helena Pound', '163', '00A3'),
-(694, 'SLL', 2, 'Sierra Leonean leone', 'Leone', '76;101', '004C;0065'),
+(925, 'SLE', 2, 'Sierra Leonean new leone', 'Nuovo leone', '76;101', '004C;0065'),
+(694, 'SLL', 2, 'Sierra Leonean old leone', 'Vecchia leone', '76;101', '004C;0065'),
 (706, 'SOS', 2, 'Somali shilling', 'Scellino somalo', '83', '0053'),
 (968, 'SRD', 2, 'Surinamese dollar', 'Dollaro del Suriname', '36', '0024'),
 (728, 'SSP', 2, 'South Sudanese pound', 'Sterlina sud-sudanese', '36', '0024'),
 (930, 'STN', 2, 'São Tomé and Príncipe dobra', 'Dobra di São Tomé e Principe', '68;98', '0044;0062'),
+(222, 'SVC', 2, 'Salvadoran colón', 'Colón Salvadoregno', '20A1', '8353'),
 (760, 'SYP', 2, 'Syrian pound', 'Sterlina siriana', '163', '00A3'),
 (748, 'SZL', 2, 'Swazi lilangeni', 'Lilangeni', '76', '004C'),
 (764, 'THB', 2, 'Thai baht', 'Baht', '3647', '0E3F'),
@@ -158,7 +159,8 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (840, 'USD', 2, 'United States dollar', 'Dollaro Americano', '36', '0024'),
 (858, 'UYU', 2, 'Uruguayan peso', 'Peso Uruguayo', '36;85', '0024;0055'),
 (860, 'UZS', 2, 'Uzbekistan som', 'Sum dell\'Uzbekistan', '1083;1074', '043B;0432'),
-(928, 'VES', 2, 'Venezuelan bolívar soberano', 'Bolívar Venezuelano', '66;115', '0042;0073'),
+(926, 'VED', 2, 'Venezuelan digital bolívar', 'Bolívar digitale venezuelano', '66;115', '0042;0073'),
+(928, 'VES', 2, 'Venezuelan sovereign bolívar', 'Bolívar sovrano venezuelano', '66;115', '0042;0073'),
 (704, 'VND', 0, 'Vietnamese đồng', 'Dong', '8363', '20AB'),
 (548, 'VUV', 0, 'Vanuatu vatu', 'Vatu', '86;84', '0056;0054'),
 (882, 'WST', 2, 'Samoan tala', 'Tala', '87;83;36', '0057;0053;0024'),
@@ -170,7 +172,6 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (886, 'YER', 2, 'Yemeni rial', 'Rial Yemenita', '65020', 'FDFC'),
 (710, 'ZAR', 2, 'South African rand', 'Rand', '82', '0052'),
 (967, 'ZMW', 2, 'Zambian kwacha', 'Kwacha dello Zambia', '90;36', '005A;0024'),
-(222, 'SVC', 2, 'Salvadoran colón', 'Colón Salvadoregno', '20A1', '8353'),
 (932, 'ZWL', 2, 'Zimbabwean dollar', 'Dollaro dello Zimbabwe', '36', '0024');
 
 ALTER TABLE `world_currencies`
