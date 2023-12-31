@@ -1,5 +1,5 @@
 -- World Countries (ISO 3166)
--- SQL Table | v1.1.0 (2023)
+-- SQL Table | v1.1.1 (2024)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_countries`;
@@ -30,7 +30,7 @@ INSERT INTO `world_countries` (`number`, `alpha2`, `alpha3`, `langEN`, `langDE`,
 (40, 'AT', 'AUT', 'Austria', 'Österreich', 'Austria', 'Autriche', 'Austria', '.at'),
 (36, 'AU', 'AUS', 'Australia', 'Australien', 'Australia', 'Australie', 'Australia', '.au'),
 (533, 'AW', 'ABW', 'Aruba', 'Aruba', 'Aruba', 'Aruba', 'Aruba', '.aw'),
-(248, 'AX', 'ALA', 'Åland Islands', 'Åland', 'Åland', 'Îles Åland', 'Isole Aland', '.ax'),
+(248, 'AX', 'ALA', 'Åland', 'Åland', 'Åland', 'Åland', 'Aland', '.ax'),
 (31, 'AZ', 'AZE', 'Azerbaijan', 'Aserbaidschan', 'Azerbaiyán', 'Azerbaïdjan', 'Azerbaigian', '.az'),
 (70, 'BA', 'BIH', 'Bosnia and Herzegovina', 'Bosnien und Herzegowina', 'Bosnia y Herzegovina', 'Bosnie-Herzégovine', 'Bosnia Erzegovina', '.ba'),
 (52, 'BB', 'BRB', 'Barbados', 'Barbados', 'Barbados', 'Barbade', 'Barbados', '.bb'),
@@ -59,7 +59,7 @@ INSERT INTO `world_countries` (`number`, `alpha2`, `alpha3`, `langEN`, `langDE`,
 (140, 'CF', 'CAF', 'Central African Republic', 'Zentralafrikanische Republik', 'República Centroafricana', 'République centrafricaine', 'Repubblica centrale africana', '.cf'),
 (178, 'CG', 'COG', 'Congo', 'Republik Kongo', 'República del Congo', 'République du Congo', 'Congo', '.cg'),
 (756, 'CH', 'CHE', 'Switzerland', 'Schweiz', 'Suiza', 'Suisse', 'Switzerland', '.ch'),
-(384, 'CI', 'CIV', 'Côte d\'Ivoire', 'Côte d\'Ivoire', 'Costa de Marfil', 'Côte d\'Ivoire', 'Costa d\'Avoire', '.ci'),
+(384, 'CI', 'CIV', 'Côte ''Ivoire', 'Côte ''Ivoire', 'Costa de Marfil', 'Côte ''Ivoire', 'Costa ''Avoire', '.ci'),
 (184, 'CK', 'COK', 'Cook Islands', 'Cookinseln', 'Islas Cook', 'Îles Cook', 'Isole Cook', '.ck'),
 (152, 'CL', 'CHL', 'Chile', 'Chile', 'Chile', 'Chili', 'Chile', '.cl'),
 (120, 'CM', 'CMR', 'Cameroon', 'Kamerun', 'Camerún', 'Cameroun', 'Camerun', '.cm'),
@@ -248,7 +248,7 @@ INSERT INTO `world_countries` (`number`, `alpha2`, `alpha3`, `langEN`, `langDE`,
 (804, 'UA', 'UKR', 'Ukraine', 'Ukraine', 'Ucrania', 'Ukraine', 'Ukraine', '.ua'),
 (800, 'UG', 'UGA', 'Uganda', 'Uganda', 'Uganda', 'Ouganda', 'Uganda', '.ug'),
 (581, 'UM', 'UMI', 'United States Minor Outlying Islands', 'Kleinere Inselbesitzungen der Vereinigten Staaten', 'Islas ultramarinas de Estados Unidos', 'Îles mineures éloignées des États-Unis', 'Isole periferiche minori degli Stati Uniti', '.um'),
-(840, 'US', 'USA', 'United States of America', 'Vereinigte Staaten von Amerika', 'Estados Unidos', 'États-Unis', 'Stati Uniti d\'America', '.us'),
+(840, 'US', 'USA', 'United States of America', 'Vereinigte Staaten von Amerika', 'Estados Unidos', 'États-Unis', 'Stati Uniti ''America', '.us'),
 (858, 'UY', 'URY', 'Uruguay', 'Uruguay', 'Uruguay', 'Uruguay', 'Uruguay', '.uy'),
 (860, 'UZ', 'UZB', 'Uzbekistan', 'Usbekistan', 'Uzbekistán', 'Ouzbékistan', 'Uzbekistan', '.uz'),
 (336, 'VA', 'VAT', 'Holy See', 'Heiliger Stuhl', 'Santa Sede', 'Saint-Siège', 'Santa Sede', '.va'),

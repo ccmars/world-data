@@ -1,5 +1,5 @@
 -- World Languages (ISO 639)
--- SQL Table | v1.1.0 (2023)
+-- SQL Table | v1.1.0 (2024)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_languages`;
