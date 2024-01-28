@@ -1,3 +1,6 @@
+# World Currencies (ISO 4217)
+# YAML | v3.0.0 (2024)
+# https://github.com/ccmars/world-data
 AED:
   alpha3: AED
   decimals: 2
