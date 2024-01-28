@@ -1,5 +1,5 @@
-[
-  {
+{
+  "aa": {
     "alpha2": "aa",
     "langEN": "Afar",
     "langDE": "Danakil-Sprache",
@@ -7,7 +7,7 @@
     "langES": "afar",
     "langIT": "Afar"
   },
-  {
+  "ab": {
     "alpha2": "ab",
     "langEN": "Abkhazian",
     "langDE": "Abchasisch",
@@ -15,7 +15,7 @@
     "langES": "abjaso",
     "langIT": "Abkhaz"
   },
-  {
+  "ae": {
     "alpha2": "ae",
     "langEN": "Avestan",
     "langDE": "Avestisch",
@@ -23,7 +23,7 @@
     "langES": "av\u00e9stico",
     "langIT": "Avestico"
   },
-  {
+  "af": {
     "alpha2": "af",
     "langEN": "Afrikaans",
     "langDE": "Afrikaans",
@@ -31,7 +31,7 @@
     "langES": "afrikaans",
     "langIT": "Afrikaans"
   },
-  {
+  "ak": {
     "alpha2": "ak",
     "langEN": "Akan",
     "langDE": "Akan-Sprache",
@@ -39,7 +39,7 @@
     "langES": "akano",
     "langIT": "Akan"
   },
-  {
+  "am": {
     "alpha2": "am",
     "langEN": "Amharic",
     "langDE": "Amharisch",
@@ -47,7 +47,7 @@
     "langES": "am\u00e1rico",
     "langIT": "Amarico"
   },
-  {
+  "an": {
     "alpha2": "an",
     "langEN": "Aragonese",
     "langDE": "Aragonesisch",
@@ -55,7 +55,7 @@
     "langES": "aragon\u00e9s",
     "langIT": "Aragonese"
   },
-  {
+  "ar": {
     "alpha2": "ar",
     "langEN": "Arabic",
     "langDE": "Arabisch",
@@ -63,7 +63,7 @@
     "langES": "\u00e1rabe",
     "langIT": "Arabo"
   },
-  {
+  "as": {
     "alpha2": "as",
     "langEN": "Assamese",
     "langDE": "Assamesisch",
@@ -71,7 +71,7 @@
     "langES": "asam\u00e9s",
     "langIT": "Assamese"
   },
-  {
+  "av": {
     "alpha2": "av",
     "langEN": "Avaric",
     "langDE": "Awarisch",
@@ -79,7 +79,7 @@
     "langES": "avar",
     "langIT": "Avaro"
   },
-  {
+  "ay": {
     "alpha2": "ay",
     "langEN": "Aymara",
     "langDE": "Aymar\u00e1-Sprache",
@@ -87,7 +87,7 @@
     "langES": "aimara",
     "langIT": "Aymara"
   },
-  {
+  "az": {
     "alpha2": "az",
     "langEN": "Azerbaijani",
     "langDE": "Aserbeidschanisch",
@@ -95,7 +95,7 @@
     "langES": "azer\u00ed",
     "langIT": "Azero"
   },
-  {
+  "ba": {
     "alpha2": "ba",
     "langEN": "Bashkir",
     "langDE": "Baschkirisch",
@@ -103,7 +103,7 @@
     "langES": "baskir",
     "langIT": "Bashkir"
   },
-  {
+  "be": {
     "alpha2": "be",
     "langEN": "Belarusian",
     "langDE": "Wei\u00dfrussisch",
@@ -111,7 +111,7 @@
     "langES": "bielorruso",
     "langIT": "Bielorusso"
   },
-  {
+  "bg": {
     "alpha2": "bg",
     "langEN": "Bulgarian",
     "langDE": "Bulgarisch",
@@ -119,7 +119,7 @@
     "langES": "b\u00falgaro",
     "langIT": "Bulgaro"
   },
-  {
+  "bi": {
     "alpha2": "bi",
     "langEN": "Bislama",
     "langDE": "Beach-la-mar",
@@ -127,7 +127,7 @@
     "langES": "bislama",
     "langIT": "Bislama"
   },
-  {
+  "bm": {
     "alpha2": "bm",
     "langEN": "Bambara",
     "langDE": "Bambara-Sprache",
@@ -135,7 +135,7 @@
     "langES": "bambara",
     "langIT": "Bambara"
   },
-  {
+  "bn": {
     "alpha2": "bn",
     "langEN": "Bengali",
     "langDE": "Bengali",
@@ -143,7 +143,7 @@
     "langES": "bengal\u00ed",
     "langIT": "Bengalese"
   },
-  {
+  "bo": {
     "alpha2": "bo",
     "langEN": "Tibetan",
     "langDE": "Tibetisch",
@@ -151,7 +151,7 @@
     "langES": "tibetano",
     "langIT": "Tibetano"
   },
-  {
+  "br": {
     "alpha2": "br",
     "langEN": "Breton",
     "langDE": "Bretonisch",
@@ -159,7 +159,7 @@
     "langES": "bret\u00f3n",
     "langIT": "Bretone"
   },
-  {
+  "bs": {
     "alpha2": "bs",
     "langEN": "Bosnian",
     "langDE": "Bosnisch",
@@ -167,7 +167,7 @@
     "langES": "bosnio",
     "langIT": "Bosniaco"
   },
-  {
+  "ca": {
     "alpha2": "ca",
     "langEN": "Catalan",
     "langDE": "Katalanisch",
@@ -175,7 +175,7 @@
     "langES": "catal\u00e1n",
     "langIT": "Catalano"
   },
-  {
+  "ce": {
     "alpha2": "ce",
     "langEN": "Chechen",
     "langDE": "Tschetschenisch",
@@ -183,7 +183,7 @@
     "langES": "checheno",
     "langIT": "Ceceno"
   },
-  {
+  "ch": {
     "alpha2": "ch",
     "langEN": "Chamorro",
     "langDE": "Chamorro-Sprache",
@@ -191,7 +191,7 @@
     "langES": "chamorro",
     "langIT": "Chamorro"
   },
-  {
+  "co": {
     "alpha2": "co",
     "langEN": "Corsican",
     "langDE": "Korsisch",
@@ -199,7 +199,7 @@
     "langES": "corso",
     "langIT": "Corso"
   },
-  {
+  "cr": {
     "alpha2": "cr",
     "langEN": "Cree",
     "langDE": "Cree-Sprache",
@@ -207,7 +207,7 @@
     "langES": "cree",
     "langIT": "Cree"
   },
-  {
+  "cs": {
     "alpha2": "cs",
     "langEN": "Czech",
     "langDE": "Tschechisch",
@@ -215,7 +215,7 @@
     "langES": "checo",
     "langIT": "Ceco"
   },
-  {
+  "cu": {
     "alpha2": "cu",
     "langEN": "Old Slavonic",
     "langDE": "Kirchenslawisch",
@@ -223,7 +223,7 @@
     "langES": "eslavo eclesi\u00e1stico antiguo",
     "langIT": "Antico slavo ecclesiastico"
   },
-  {
+  "cv": {
     "alpha2": "cv",
     "langEN": "Chuvash",
     "langDE": "Tschuwaschisch",
@@ -231,7 +231,7 @@
     "langES": "chuvasio",
     "langIT": "Ciuvascio"
   },
-  {
+  "cy": {
     "alpha2": "cy",
     "langEN": "Welsh",
     "langDE": "Kymrisch",
@@ -239,7 +239,7 @@
     "langES": "gal\u00e9s",
     "langIT": "Gallese"
   },
-  {
+  "da": {
     "alpha2": "da",
     "langEN": "Danish",
     "langDE": "D\u00e4nisch",
@@ -247,7 +247,7 @@
     "langES": "dan\u00e9s",
     "langIT": "Danese"
   },
-  {
+  "de": {
     "alpha2": "de",
     "langEN": "German",
     "langDE": "Deutsch",
@@ -255,7 +255,7 @@
     "langES": "alem\u00e1n",
     "langIT": "Tedesco"
   },
-  {
+  "dv": {
     "alpha2": "dv",
     "langEN": "Maldivian",
     "langDE": "Maledivisch",
@@ -263,7 +263,7 @@
     "langES": "maldivo",
     "langIT": "Divehi, Dhivehi, Maldiviano"
   },
-  {
+  "dz": {
     "alpha2": "dz",
     "langEN": "Dzongkha",
     "langDE": "Dzongkha",
@@ -271,7 +271,7 @@
     "langES": "dzongkha",
     "langIT": "Dzongkha"
   },
-  {
+  "ee": {
     "alpha2": "ee",
     "langEN": "Ewe",
     "langDE": "Ewe-Sprache",
@@ -279,7 +279,7 @@
     "langES": "ewe",
     "langIT": "Ewe"
   },
-  {
+  "el": {
     "alpha2": "el",
     "langEN": "Greek",
     "langDE": "Neugriechisch",
@@ -287,7 +287,7 @@
     "langES": "griego",
     "langIT": "Greco, moderno"
   },
-  {
+  "en": {
     "alpha2": "en",
     "langEN": "English",
     "langDE": "Englisch",
@@ -295,7 +295,7 @@
     "langES": "ingl\u00e9s",
     "langIT": "Inglese"
   },
-  {
+  "eo": {
     "alpha2": "eo",
     "langEN": "Esperanto",
     "langDE": "Esperanto",
@@ -303,7 +303,7 @@
     "langES": "esperanto",
     "langIT": "Esperanto"
   },
-  {
+  "es": {
     "alpha2": "es",
     "langEN": "Spanish",
     "langDE": "Spanisch",
@@ -311,7 +311,7 @@
     "langES": "espa\u00f1ol",
     "langIT": "Spagnolo, Castigliano"
   },
-  {
+  "et": {
     "alpha2": "et",
     "langEN": "Estonian",
     "langDE": "Estnisch",
@@ -319,7 +319,7 @@
     "langES": "estonio",
     "langIT": "Estone"
   },
-  {
+  "eu": {
     "alpha2": "eu",
     "langEN": "Basque",
     "langDE": "Baskisch",
@@ -327,7 +327,7 @@
     "langES": "vascuence",
     "langIT": "Basco"
   },
-  {
+  "fa": {
     "alpha2": "fa",
     "langEN": "Persian",
     "langDE": "Persisch",
@@ -335,7 +335,7 @@
     "langES": "persa",
     "langIT": "Persiano, F\u0101rs\u00ec"
   },
-  {
+  "ff": {
     "alpha2": "ff",
     "langEN": "Fulah",
     "langDE": "Ful",
@@ -343,7 +343,7 @@
     "langES": "fula",
     "langIT": "Fula, Fulah, Pulaar, Pular"
   },
-  {
+  "fi": {
     "alpha2": "fi",
     "langEN": "Finnish",
     "langDE": "Finnisch",
@@ -351,7 +351,7 @@
     "langES": "fin\u00e9s",
     "langIT": "Finlandese"
   },
-  {
+  "fj": {
     "alpha2": "fj",
     "langEN": "Fijian",
     "langDE": "Fidschi-Sprache",
@@ -359,7 +359,7 @@
     "langES": "fijiano",
     "langIT": "Figiano"
   },
-  {
+  "fo": {
     "alpha2": "fo",
     "langEN": "Faroese",
     "langDE": "F\u00e4r\u00f6isch",
@@ -367,7 +367,7 @@
     "langES": "fero\u00e9s",
     "langIT": "Faroese"
   },
-  {
+  "fr": {
     "alpha2": "fr",
     "langEN": "French",
     "langDE": "Franz\u00f6sisch",
@@ -375,7 +375,7 @@
     "langES": "franc\u00e9s",
     "langIT": "Francese"
   },
-  {
+  "fy": {
     "alpha2": "fy",
     "langEN": "Western Frisian",
     "langDE": "Friesisch",
@@ -383,7 +383,7 @@
     "langES": "fris\u00f3n",
     "langIT": "Frisone occidentale"
   },
-  {
+  "ga": {
     "alpha2": "ga",
     "langEN": "Irish",
     "langDE": "Irisch",
@@ -391,7 +391,7 @@
     "langES": "irland\u00e9s",
     "langIT": "Irlandese"
   },
-  {
+  "gd": {
     "alpha2": "gd",
     "langEN": "Gaelic",
     "langDE": "G\u00e4lisch-Schottisch",
@@ -399,7 +399,7 @@
     "langES": "ga\u00e9lico escoc\u00e9s",
     "langIT": "Gaelico scozzese"
   },
-  {
+  "gl": {
     "alpha2": "gl",
     "langEN": "Galician",
     "langDE": "Galicisch",
@@ -407,7 +407,7 @@
     "langES": "gallego",
     "langIT": "Galiziano"
   },
-  {
+  "gn": {
     "alpha2": "gn",
     "langEN": "Guarani",
     "langDE": "Guaran\u00ed-Sprache",
@@ -415,7 +415,7 @@
     "langES": "guaran\u00ed",
     "langIT": "Guaran\u00ed"
   },
-  {
+  "gu": {
     "alpha2": "gu",
     "langEN": "Gujarati",
     "langDE": "Gujarati-Sprache",
@@ -423,7 +423,7 @@
     "langES": "guyarat\u00ed",
     "langIT": "Gujarati"
   },
-  {
+  "gv": {
     "alpha2": "gv",
     "langEN": "Manx",
     "langDE": "Manx",
@@ -431,7 +431,7 @@
     "langES": "man\u00e9s",
     "langIT": "Mannese"
   },
-  {
+  "ha": {
     "alpha2": "ha",
     "langEN": "Hausa",
     "langDE": "Haussa-Sprache",
@@ -439,7 +439,7 @@
     "langES": "hausa",
     "langIT": "Hausa"
   },
-  {
+  "he": {
     "alpha2": "he",
     "langEN": "Hebrew",
     "langDE": "Hebr\u00e4isch",
@@ -447,7 +447,7 @@
     "langES": "hebreo",
     "langIT": "Ebraico (moderno)"
   },
-  {
+  "hi": {
     "alpha2": "hi",
     "langEN": "Hindi",
     "langDE": "Hindi",
@@ -455,7 +455,7 @@
     "langES": "hindi",
     "langIT": "Hindi"
   },
-  {
+  "ho": {
     "alpha2": "ho",
     "langEN": "Hiri Motu",
     "langDE": "Hiri-Motu",
@@ -463,7 +463,7 @@
     "langES": "hiri motu",
     "langIT": "Hiri Motu"
   },
-  {
+  "hr": {
     "alpha2": "hr",
     "langEN": "Croatian",
     "langDE": "Kroatisch",
@@ -471,7 +471,7 @@
     "langES": "croata",
     "langIT": "Croato"
   },
-  {
+  "ht": {
     "alpha2": "ht",
     "langEN": "Haitian",
     "langDE": "Ha\u00eftien",
@@ -479,7 +479,7 @@
     "langES": "haitiano",
     "langIT": "Creolo haitiano"
   },
-  {
+  "hu": {
     "alpha2": "hu",
     "langEN": "Hungarian",
     "langDE": "Ungarisch",
@@ -487,7 +487,7 @@
     "langES": "h\u00fangaro",
     "langIT": "Ungherese"
   },
-  {
+  "hy": {
     "alpha2": "hy",
     "langEN": "Armenian",
     "langDE": "Armenisch",
@@ -495,7 +495,7 @@
     "langES": "armenio",
     "langIT": "Armeno"
   },
-  {
+  "hz": {
     "alpha2": "hz",
     "langEN": "Herero",
     "langDE": "Herero-Sprache",
@@ -503,7 +503,7 @@
     "langES": "herero",
     "langIT": "Herero"
   },
-  {
+  "ia": {
     "alpha2": "ia",
     "langEN": "Interlingua",
     "langDE": "Interlingua",
@@ -511,7 +511,7 @@
     "langES": "interlingua",
     "langIT": "Interlingua"
   },
-  {
+  "id": {
     "alpha2": "id",
     "langEN": "Indonesian",
     "langDE": "Bahasa Indonesia",
@@ -519,7 +519,7 @@
     "langES": "indonesio",
     "langIT": "Indonesiano"
   },
-  {
+  "ie": {
     "alpha2": "ie",
     "langEN": "Interlingue",
     "langDE": "Interlingue",
@@ -527,7 +527,7 @@
     "langES": "occidental",
     "langIT": "Interlingue"
   },
-  {
+  "ig": {
     "alpha2": "ig",
     "langEN": "Igbo",
     "langDE": "Ibo-Sprache",
@@ -535,7 +535,7 @@
     "langES": "igbo",
     "langIT": "Igbo"
   },
-  {
+  "ii": {
     "alpha2": "ii",
     "langEN": "Sichuan Yi",
     "langDE": "Lalo-Sprache",
@@ -543,7 +543,7 @@
     "langES": "yi de Sichu\u00e1n",
     "langIT": "Nuosu"
   },
-  {
+  "ik": {
     "alpha2": "ik",
     "langEN": "Inupiaq",
     "langDE": "Inupik",
@@ -551,7 +551,7 @@
     "langES": "inupiaq",
     "langIT": "Inupiaq"
   },
-  {
+  "io": {
     "alpha2": "io",
     "langEN": "Ido",
     "langDE": "Ido",
@@ -559,7 +559,7 @@
     "langES": "ido",
     "langIT": "Ido"
   },
-  {
+  "is": {
     "alpha2": "is",
     "langEN": "Icelandic",
     "langDE": "Isl\u00e4ndisch",
@@ -567,7 +567,7 @@
     "langES": "island\u00e9s",
     "langIT": "Islandese"
   },
-  {
+  "it": {
     "alpha2": "it",
     "langEN": "Italian",
     "langDE": "Italienisch",
@@ -575,7 +575,7 @@
     "langES": "italiano",
     "langIT": "Italiano"
   },
-  {
+  "iu": {
     "alpha2": "iu",
     "langEN": "Inuktitut",
     "langDE": "Inuktitut",
@@ -583,7 +583,7 @@
     "langES": "inuktitut",
     "langIT": "Inuktitut"
   },
-  {
+  "ja": {
     "alpha2": "ja",
     "langEN": "Japanese",
     "langDE": "Japanisch",
@@ -591,7 +591,7 @@
     "langES": "japon\u00e9s",
     "langIT": "Giapponese"
   },
-  {
+  "jv": {
     "alpha2": "jv",
     "langEN": "Javanese",
     "langDE": "Javanisch",
@@ -599,7 +599,7 @@
     "langES": "javan\u00e9s",
     "langIT": "Giavanese"
   },
-  {
+  "ka": {
     "alpha2": "ka",
     "langEN": "Georgian",
     "langDE": "Georgisch",
@@ -607,7 +607,7 @@
     "langES": "georgiano",
     "langIT": "Georgiano"
   },
-  {
+  "kg": {
     "alpha2": "kg",
     "langEN": "Kongo",
     "langDE": "Kongo-Sprache",
@@ -615,7 +615,7 @@
     "langES": "kongo",
     "langIT": "Kikongo"
   },
-  {
+  "ki": {
     "alpha2": "ki",
     "langEN": "Kikuyu",
     "langDE": "Kikuyu-Sprache",
@@ -623,7 +623,7 @@
     "langES": "kikuyu",
     "langIT": "Kikuyu, Gikuyu"
   },
-  {
+  "kj": {
     "alpha2": "kj",
     "langEN": "Kwanyama",
     "langDE": "Kwanyama-Sprache",
@@ -631,7 +631,7 @@
     "langES": "kuanyama",
     "langIT": "Kuanyama"
   },
-  {
+  "kk": {
     "alpha2": "kk",
     "langEN": "Kazakh",
     "langDE": "Kasachisch",
@@ -639,7 +639,7 @@
     "langES": "kazajo",
     "langIT": "Kazaco"
   },
-  {
+  "kl": {
     "alpha2": "kl",
     "langEN": "Greenlandic",
     "langDE": "Gr\u00f6nl\u00e4ndisch",
@@ -647,7 +647,7 @@
     "langES": "groenland\u00e9s",
     "langIT": "Groenlandese"
   },
-  {
+  "km": {
     "alpha2": "km",
     "langEN": "Central Khmer",
     "langDE": "Kambodschanisch",
@@ -655,7 +655,7 @@
     "langES": "camboyano",
     "langIT": "Khmer"
   },
-  {
+  "kn": {
     "alpha2": "kn",
     "langEN": "Kannada",
     "langDE": "Kannada",
@@ -663,7 +663,7 @@
     "langES": "canar\u00e9s",
     "langIT": "Kannada"
   },
-  {
+  "ko": {
     "alpha2": "ko",
     "langEN": "Korean",
     "langDE": "Koreanisch",
@@ -671,7 +671,7 @@
     "langES": "coreano",
     "langIT": "Coreano"
   },
-  {
+  "kr": {
     "alpha2": "kr",
     "langEN": "Kanuri",
     "langDE": "Kanuri-Sprache",
@@ -679,7 +679,7 @@
     "langES": "kanuri",
     "langIT": "Kanuri"
   },
-  {
+  "ks": {
     "alpha2": "ks",
     "langEN": "Kashmiri",
     "langDE": "Kaschmiri",
@@ -687,7 +687,7 @@
     "langES": "cachemiro",
     "langIT": "Kashmiri"
   },
-  {
+  "ku": {
     "alpha2": "ku",
     "langEN": "Kurdish",
     "langDE": "Kurdisch",
@@ -695,7 +695,7 @@
     "langES": "kurdo",
     "langIT": "Curdo"
   },
-  {
+  "kv": {
     "alpha2": "kv",
     "langEN": "Komi",
     "langDE": "Komi-Sprache",
@@ -703,7 +703,7 @@
     "langES": "komi",
     "langIT": "Komi"
   },
-  {
+  "kw": {
     "alpha2": "kw",
     "langEN": "Cornish",
     "langDE": "Kornisch",
@@ -711,7 +711,7 @@
     "langES": "c\u00f3rnico",
     "langIT": "Cornico"
   },
-  {
+  "ky": {
     "alpha2": "ky",
     "langEN": "Kirghiz",
     "langDE": "Kirgisisch",
@@ -719,7 +719,7 @@
     "langES": "kirgu\u00eds",
     "langIT": "Chirghiso"
   },
-  {
+  "la": {
     "alpha2": "la",
     "langEN": "Latin",
     "langDE": "Latein",
@@ -727,7 +727,7 @@
     "langES": "lat\u00edn",
     "langIT": "Latino"
   },
-  {
+  "lb": {
     "alpha2": "lb",
     "langEN": "Luxembourgish",
     "langDE": "Luxemburgisch",
@@ -735,7 +735,7 @@
     "langES": "luxemburgu\u00e9s",
     "langIT": "Lussemburghese"
   },
-  {
+  "lg": {
     "alpha2": "lg",
     "langEN": "Ganda",
     "langDE": "Ganda-Sprache",
@@ -743,7 +743,7 @@
     "langES": "luganda",
     "langIT": "Luganda"
   },
-  {
+  "li": {
     "alpha2": "li",
     "langEN": "Limburgish",
     "langDE": "Limburgisch",
@@ -751,7 +751,7 @@
     "langES": "limburgu\u00e9s",
     "langIT": "Limburghese"
   },
-  {
+  "ln": {
     "alpha2": "ln",
     "langEN": "Lingala",
     "langDE": "Lingala",
@@ -759,7 +759,7 @@
     "langES": "lingala",
     "langIT": "Lingala"
   },
-  {
+  "lo": {
     "alpha2": "lo",
     "langEN": "Lao",
     "langDE": "Laotisch",
@@ -767,7 +767,7 @@
     "langES": "lao",
     "langIT": "Lao"
   },
-  {
+  "lt": {
     "alpha2": "lt",
     "langEN": "Lithuanian",
     "langDE": "Litauisch",
@@ -775,7 +775,7 @@
     "langES": "lituano",
     "langIT": "Lituano"
   },
-  {
+  "lu": {
     "alpha2": "lu",
     "langEN": "Luba-Katanga",
     "langDE": "Luba-Katanga-Sprache",
@@ -783,7 +783,7 @@
     "langES": "luba-katanga",
     "langIT": "Luba-Katanga"
   },
-  {
+  "lv": {
     "alpha2": "lv",
     "langEN": "Latvian",
     "langDE": "Lettisch",
@@ -791,7 +791,7 @@
     "langES": "let\u00f3n",
     "langIT": "Lettone"
   },
-  {
+  "mg": {
     "alpha2": "mg",
     "langEN": "Malagasy",
     "langDE": "Malagassi-Sprache",
@@ -799,7 +799,7 @@
     "langES": "malgache",
     "langIT": "Malgascio"
   },
-  {
+  "mh": {
     "alpha2": "mh",
     "langEN": "Marshallese",
     "langDE": "Marschallesisch",
@@ -807,7 +807,7 @@
     "langES": "marshal\u00e9s",
     "langIT": "Marshallese"
   },
-  {
+  "mi": {
     "alpha2": "mi",
     "langEN": "Maori",
     "langDE": "Maori-Sprache",
@@ -815,7 +815,7 @@
     "langES": "maor\u00ed",
     "langIT": "Maori"
   },
-  {
+  "mk": {
     "alpha2": "mk",
     "langEN": "Macedonian",
     "langDE": "Makedonisch",
@@ -823,7 +823,7 @@
     "langES": "macedonio",
     "langIT": "Macedone"
   },
-  {
+  "ml": {
     "alpha2": "ml",
     "langEN": "Malayalam",
     "langDE": "Malayalam",
@@ -831,7 +831,7 @@
     "langES": "malayalam",
     "langIT": "Malayalam"
   },
-  {
+  "mn": {
     "alpha2": "mn",
     "langEN": "Mongolian",
     "langDE": "Mongolisch",
@@ -839,7 +839,7 @@
     "langES": "mongol",
     "langIT": "Mongolo"
   },
-  {
+  "mr": {
     "alpha2": "mr",
     "langEN": "Marathi",
     "langDE": "Marathi",
@@ -847,7 +847,7 @@
     "langES": "marat\u00ed",
     "langIT": "Marathi"
   },
-  {
+  "ms": {
     "alpha2": "ms",
     "langEN": "Malay",
     "langDE": "Malaiisch",
@@ -855,7 +855,7 @@
     "langES": "malayo",
     "langIT": "Malese"
   },
-  {
+  "mt": {
     "alpha2": "mt",
     "langEN": "Maltese",
     "langDE": "Maltesisch",
@@ -863,7 +863,7 @@
     "langES": "malt\u00e9s",
     "langIT": "Maltese"
   },
-  {
+  "my": {
     "alpha2": "my",
     "langEN": "Burmese",
     "langDE": "Birmanisch",
@@ -871,7 +871,7 @@
     "langES": "birmano",
     "langIT": "Birmano"
   },
-  {
+  "na": {
     "alpha2": "na",
     "langEN": "Nauru",
     "langDE": "Nauruanisch",
@@ -879,7 +879,7 @@
     "langES": "nauruano",
     "langIT": "Nauruano"
   },
-  {
+  "nb": {
     "alpha2": "nb",
     "langEN": "Norwegian",
     "langDE": "Bokm\u00e5l",
@@ -887,7 +887,7 @@
     "langES": "noruego bokm\u00e5l",
     "langIT": "Norvegese"
   },
-  {
+  "nd": {
     "alpha2": "nd",
     "langEN": "North Ndebele",
     "langDE": "Ndebele-Sprache (Simbabwe)",
@@ -895,7 +895,7 @@
     "langES": "ndebele del norte",
     "langIT": "Ndebele del Nord"
   },
-  {
+  "ne": {
     "alpha2": "ne",
     "langEN": "Nepali",
     "langDE": "Nepali",
@@ -903,7 +903,7 @@
     "langES": "nepal\u00ed",
     "langIT": "Nepalese"
   },
-  {
+  "ng": {
     "alpha2": "ng",
     "langEN": "Ndonga",
     "langDE": "Ndonga",
@@ -911,7 +911,7 @@
     "langES": "ndonga",
     "langIT": "Ndonga"
   },
-  {
+  "nl": {
     "alpha2": "nl",
     "langEN": "Dutch",
     "langDE": "Niederl\u00e4ndisch",
@@ -919,7 +919,7 @@
     "langES": "neerland\u00e9s",
     "langIT": "Olandese"
   },
-  {
+  "nn": {
     "alpha2": "nn",
     "langEN": "Norwegian Nynorsk",
     "langDE": "Nynorsk",
@@ -927,7 +927,7 @@
     "langES": "nynorsk",
     "langIT": "Norvegese Nynorsk"
   },
-  {
+  "no": {
     "alpha2": "no",
     "langEN": "Norwegian",
     "langDE": "Norwegisch",
@@ -935,7 +935,7 @@
     "langES": "noruego",
     "langIT": "Norvegese"
   },
-  {
+  "nr": {
     "alpha2": "nr",
     "langEN": "South Ndebele",
     "langDE": "Ndebele-Sprache (Transvaal)",
@@ -943,7 +943,7 @@
     "langES": "ndebele del sur",
     "langIT": "Ndebele del Sud"
   },
-  {
+  "nv": {
     "alpha2": "nv",
     "langEN": "Navajo",
     "langDE": "Navajo-Sprache",
@@ -951,7 +951,7 @@
     "langES": "navajo",
     "langIT": "Navajo, Navaho"
   },
-  {
+  "ny": {
     "alpha2": "ny",
     "langEN": "Nyanja",
     "langDE": "Nyanja-Sprache",
@@ -959,7 +959,7 @@
     "langES": "chichewa",
     "langIT": "Nyanja"
   },
-  {
+  "oc": {
     "alpha2": "oc",
     "langEN": "Occitan",
     "langDE": "Okzitanisch",
@@ -967,7 +967,7 @@
     "langES": "occitano",
     "langIT": "Occitano"
   },
-  {
+  "oj": {
     "alpha2": "oj",
     "langEN": "Ojibwa",
     "langDE": "Ojibwa-Sprache",
@@ -975,7 +975,7 @@
     "langES": "ojibwa",
     "langIT": "Ojibwa"
   },
-  {
+  "om": {
     "alpha2": "om",
     "langEN": "Oromo",
     "langDE": "Galla-Sprache",
@@ -983,7 +983,7 @@
     "langES": "oromo",
     "langIT": "Oromo"
   },
-  {
+  "or": {
     "alpha2": "or",
     "langEN": "Oriya",
     "langDE": "Oriya-Sprache",
@@ -991,7 +991,7 @@
     "langES": "oriya",
     "langIT": "Oriya"
   },
-  {
+  "os": {
     "alpha2": "os",
     "langEN": "Ossetic",
     "langDE": "Ossetisch",
@@ -999,7 +999,7 @@
     "langES": "os\u00e9tico",
     "langIT": "Osseto"
   },
-  {
+  "pa": {
     "alpha2": "pa",
     "langEN": "Punjabi",
     "langDE": "Pandschabi-Sprache",
@@ -1007,7 +1007,7 @@
     "langES": "panyab\u00ed",
     "langIT": "Punjabi"
   },
-  {
+  "pi": {
     "alpha2": "pi",
     "langEN": "Pali",
     "langDE": "Pali",
@@ -1015,7 +1015,7 @@
     "langES": "pali",
     "langIT": "P\u0101li"
   },
-  {
+  "pl": {
     "alpha2": "pl",
     "langEN": "Polish",
     "langDE": "Polnisch",
@@ -1023,7 +1023,7 @@
     "langES": "polaco",
     "langIT": "Polacco"
   },
-  {
+  "ps": {
     "alpha2": "ps",
     "langEN": "Pashto",
     "langDE": "Paschtu",
@@ -1031,7 +1031,7 @@
     "langES": "pashto",
     "langIT": "Pashtu"
   },
-  {
+  "pt": {
     "alpha2": "pt",
     "langEN": "Portuguese",
     "langDE": "Portugiesisch",
@@ -1039,7 +1039,7 @@
     "langES": "portugu\u00e9s",
     "langIT": "Portoghese"
   },
-  {
+  "qu": {
     "alpha2": "qu",
     "langEN": "Quechua",
     "langDE": "Quechua-Sprache",
@@ -1047,7 +1047,7 @@
     "langES": "quechua",
     "langIT": "Quechua"
   },
-  {
+  "rm": {
     "alpha2": "rm",
     "langEN": "Romansh",
     "langDE": "R\u00e4toromanisch",
@@ -1055,7 +1055,7 @@
     "langES": "retorrom\u00e1nico",
     "langIT": "Romancio"
   },
-  {
+  "rn": {
     "alpha2": "rn",
     "langEN": "Rundi",
     "langDE": "Rundi-Sprache",
@@ -1063,7 +1063,7 @@
     "langES": "kirundi",
     "langIT": "Kirundi"
   },
-  {
+  "ro": {
     "alpha2": "ro",
     "langEN": "Romanian",
     "langDE": "Rum\u00e4nisch",
@@ -1071,7 +1071,7 @@
     "langES": "rumano",
     "langIT": "Rumeno"
   },
-  {
+  "ru": {
     "alpha2": "ru",
     "langEN": "Russian",
     "langDE": "Russisch",
@@ -1079,7 +1079,7 @@
     "langES": "ruso",
     "langIT": "Russo"
   },
-  {
+  "rw": {
     "alpha2": "rw",
     "langEN": "Kinyarwanda",
     "langDE": "Rwanda-Sprache",
@@ -1087,7 +1087,7 @@
     "langES": "ruand\u00e9s",
     "langIT": "Kinyarwanda"
   },
-  {
+  "sa": {
     "alpha2": "sa",
     "langEN": "Sanskrit",
     "langDE": "Sanskrit",
@@ -1095,7 +1095,7 @@
     "langES": "s\u00e1nscrito",
     "langIT": "Sanscrito"
   },
-  {
+  "sc": {
     "alpha2": "sc",
     "langEN": "Sardinian",
     "langDE": "Sardisch",
@@ -1103,7 +1103,7 @@
     "langES": "sardo",
     "langIT": "Sardo"
   },
-  {
+  "sd": {
     "alpha2": "sd",
     "langEN": "Sindhi",
     "langDE": "Sindhi-Sprache",
@@ -1111,7 +1111,7 @@
     "langES": "sindhi",
     "langIT": "Sindhi"
   },
-  {
+  "se": {
     "alpha2": "se",
     "langEN": "Northern Sami",
     "langDE": "Nordsaamisch",
@@ -1119,7 +1119,7 @@
     "langES": "sami septentrional",
     "langIT": "Sami settentrionale"
   },
-  {
+  "sg": {
     "alpha2": "sg",
     "langEN": "Sango",
     "langDE": "Sango-Sprache",
@@ -1127,7 +1127,7 @@
     "langES": "sango",
     "langIT": "Sango"
   },
-  {
+  "si": {
     "alpha2": "si",
     "langEN": "Sinhalese",
     "langDE": "Singhalesisch",
@@ -1135,7 +1135,7 @@
     "langES": "cingal\u00e9s",
     "langIT": "Singalese"
   },
-  {
+  "sk": {
     "alpha2": "sk",
     "langEN": "Slovak",
     "langDE": "Slowakisch",
@@ -1143,7 +1143,7 @@
     "langES": "eslovaco",
     "langIT": "Slovacco"
   },
-  {
+  "sl": {
     "alpha2": "sl",
     "langEN": "Slovenian",
     "langDE": "Slowenisch",
@@ -1151,7 +1151,7 @@
     "langES": "esloveno",
     "langIT": "Sloveno"
   },
-  {
+  "sm": {
     "alpha2": "sm",
     "langEN": "Samoan",
     "langDE": "Samoanisch",
@@ -1159,7 +1159,7 @@
     "langES": "samoano",
     "langIT": "Samoano"
   },
-  {
+  "sn": {
     "alpha2": "sn",
     "langEN": "Shona",
     "langDE": "Schona-Sprache",
@@ -1167,7 +1167,7 @@
     "langES": "shona",
     "langIT": "Shona"
   },
-  {
+  "so": {
     "alpha2": "so",
     "langEN": "Somali",
     "langDE": "Somali",
@@ -1175,7 +1175,7 @@
     "langES": "somal\u00ed",
     "langIT": "Somalo"
   },
-  {
+  "sq": {
     "alpha2": "sq",
     "langEN": "Albanian",
     "langDE": "Albanisch",
@@ -1183,7 +1183,7 @@
     "langES": "alban\u00e9s",
     "langIT": "Albanese"
   },
-  {
+  "sr": {
     "alpha2": "sr",
     "langEN": "Serbian",
     "langDE": "Serbisch",
@@ -1191,7 +1191,7 @@
     "langES": "serbio",
     "langIT": "Serbo"
   },
-  {
+  "ss": {
     "alpha2": "ss",
     "langEN": "Swati",
     "langDE": "Swasi-Sprache",
@@ -1199,7 +1199,7 @@
     "langES": "suazi",
     "langIT": "Swazi"
   },
-  {
+  "st": {
     "alpha2": "st",
     "langEN": "Southern Sotho",
     "langDE": "S\u00fcd-Sotho-Sprache",
@@ -1207,7 +1207,7 @@
     "langES": "sesotho",
     "langIT": "Sesotho del Sud"
   },
-  {
+  "su": {
     "alpha2": "su",
     "langEN": "Sundanese",
     "langDE": "Sundanesisch",
@@ -1215,7 +1215,7 @@
     "langES": "sundan\u00e9s",
     "langIT": "Sondanese"
   },
-  {
+  "sv": {
     "alpha2": "sv",
     "langEN": "Swedish",
     "langDE": "Schwedisch",
@@ -1223,7 +1223,7 @@
     "langES": "sueco",
     "langIT": "Svedese"
   },
-  {
+  "sw": {
     "alpha2": "sw",
     "langEN": "Swahili",
     "langDE": "Swahili",
@@ -1231,7 +1231,7 @@
     "langES": "suajili",
     "langIT": "Swahili"
   },
-  {
+  "ta": {
     "alpha2": "ta",
     "langEN": "Tamil",
     "langDE": "Tamil",
@@ -1239,7 +1239,7 @@
     "langES": "tamil",
     "langIT": "Tamil"
   },
-  {
+  "te": {
     "alpha2": "te",
     "langEN": "Telugu",
     "langDE": "Telugu-Sprache",
@@ -1247,7 +1247,7 @@
     "langES": "telug\u00fa",
     "langIT": "Telugu"
   },
-  {
+  "tg": {
     "alpha2": "tg",
     "langEN": "Tajik",
     "langDE": "Tadschikisch",
@@ -1255,7 +1255,7 @@
     "langES": "tayiko",
     "langIT": "Tagiko"
   },
-  {
+  "th": {
     "alpha2": "th",
     "langEN": "Thai",
     "langDE": "Thail\u00e4ndisch",
@@ -1263,7 +1263,7 @@
     "langES": "tailand\u00e9s",
     "langIT": "Thailandese"
   },
-  {
+  "ti": {
     "alpha2": "ti",
     "langEN": "Tigrinya",
     "langDE": "Tigrinja-Sprache",
@@ -1271,7 +1271,7 @@
     "langES": "tigri\u00f1a",
     "langIT": "Tigrino"
   },
-  {
+  "tk": {
     "alpha2": "tk",
     "langEN": "Turkmen",
     "langDE": "Turkmenisch",
@@ -1279,7 +1279,7 @@
     "langES": "turcomano",
     "langIT": "Turkmeno"
   },
-  {
+  "tl": {
     "alpha2": "tl",
     "langEN": "Tagalog",
     "langDE": "Tagalog",
@@ -1287,7 +1287,7 @@
     "langES": "tagalo",
     "langIT": "Tagalog"
   },
-  {
+  "tn": {
     "alpha2": "tn",
     "langEN": "Tswana",
     "langDE": "Tswana-Sprache",
@@ -1295,7 +1295,7 @@
     "langES": "setsuana",
     "langIT": "Tswana"
   },
-  {
+  "to": {
     "alpha2": "to",
     "langEN": "Tonga",
     "langDE": "Tongaisch",
@@ -1303,7 +1303,7 @@
     "langES": "tongano",
     "langIT": "Tongano"
   },
-  {
+  "tr": {
     "alpha2": "tr",
     "langEN": "Turkish",
     "langDE": "T\u00fcrkisch",
@@ -1311,7 +1311,7 @@
     "langES": "turco",
     "langIT": "Turco"
   },
-  {
+  "ts": {
     "alpha2": "ts",
     "langEN": "Tsonga",
     "langDE": "Tsonga-Sprache",
@@ -1319,7 +1319,7 @@
     "langES": "tsonga",
     "langIT": "Tsonga"
   },
-  {
+  "tt": {
     "alpha2": "tt",
     "langEN": "Tatar",
     "langDE": "Tatarisch",
@@ -1327,7 +1327,7 @@
     "langES": "t\u00e1rtaro",
     "langIT": "Tataro"
   },
-  {
+  "tw": {
     "alpha2": "tw",
     "langEN": "Twi",
     "langDE": "Twi-Sprache",
@@ -1335,7 +1335,7 @@
     "langES": "twi",
     "langIT": "Twi"
   },
-  {
+  "ty": {
     "alpha2": "ty",
     "langEN": "Tahitian",
     "langDE": "Tahitisch",
@@ -1343,7 +1343,7 @@
     "langES": "tahitiano",
     "langIT": "Tahitiano"
   },
-  {
+  "ug": {
     "alpha2": "ug",
     "langEN": "Uighur",
     "langDE": "Uigurisch",
@@ -1351,7 +1351,7 @@
     "langES": "uigur",
     "langIT": "Uiguro"
   },
-  {
+  "uk": {
     "alpha2": "uk",
     "langEN": "Ukrainian",
     "langDE": "Ukrainisch",
@@ -1359,7 +1359,7 @@
     "langES": "ucraniano",
     "langIT": "Ucraino"
   },
-  {
+  "ur": {
     "alpha2": "ur",
     "langEN": "Urdu",
     "langDE": "Urdu",
@@ -1367,7 +1367,7 @@
     "langES": "urdu",
     "langIT": "Urdu"
   },
-  {
+  "uz": {
     "alpha2": "uz",
     "langEN": "Uzbek",
     "langDE": "Usbekisch",
@@ -1375,7 +1375,7 @@
     "langES": "uzbeko",
     "langIT": "Usbeco"
   },
-  {
+  "ve": {
     "alpha2": "ve",
     "langEN": "Venda",
     "langDE": "Venda-Sprache",
@@ -1383,7 +1383,7 @@
     "langES": "venda",
     "langIT": "Venda"
   },
-  {
+  "vi": {
     "alpha2": "vi",
     "langEN": "Vietnamese",
     "langDE": "Vietnamesisch",
@@ -1391,7 +1391,7 @@
     "langES": "vietnamita",
     "langIT": "Vietnamita"
   },
-  {
+  "vo": {
     "alpha2": "vo",
     "langEN": "Volap\u00fck",
     "langDE": "Volap\u00fck",
@@ -1399,7 +1399,7 @@
     "langES": "volap\u00fck",
     "langIT": "Volap\u00fck"
   },
-  {
+  "wa": {
     "alpha2": "wa",
     "langEN": "Walloon",
     "langDE": "Wallonisch",
@@ -1407,7 +1407,7 @@
     "langES": "val\u00f3n",
     "langIT": "Vallone"
   },
-  {
+  "wo": {
     "alpha2": "wo",
     "langEN": "Wolof",
     "langDE": "Wolof-Sprache",
@@ -1415,7 +1415,7 @@
     "langES": "wolof",
     "langIT": "Wolof"
   },
-  {
+  "xh": {
     "alpha2": "xh",
     "langEN": "Xhosa",
     "langDE": "Xhosa-Sprache",
@@ -1423,7 +1423,7 @@
     "langES": "xhosa",
     "langIT": "Xhosa"
   },
-  {
+  "yi": {
     "alpha2": "yi",
     "langEN": "Yiddish",
     "langDE": "Jiddisch",
@@ -1431,7 +1431,7 @@
     "langES": "yiddish",
     "langIT": "Yiddish"
   },
-  {
+  "yo": {
     "alpha2": "yo",
     "langEN": "Yoruba",
     "langDE": "Yoruba-Sprache",
@@ -1439,7 +1439,7 @@
     "langES": "yoruba",
     "langIT": "Yoruba"
   },
-  {
+  "za": {
     "alpha2": "za",
     "langEN": "Zhuang",
     "langDE": "Zhuang",
@@ -1447,7 +1447,7 @@
     "langES": "zhuang",
     "langIT": "Zhuang"
   },
-  {
+  "zh": {
     "alpha2": "zh",
     "langEN": "Chinese",
     "langDE": "Chinesisch",
@@ -1455,7 +1455,7 @@
     "langES": "chino",
     "langIT": "Cinese"
   },
-  {
+  "zu": {
     "alpha2": "zu",
     "langEN": "Zulu",
     "langDE": "Zulu-Sprache",
@@ -1463,4 +1463,4 @@
     "langES": "zul\u00fa",
     "langIT": "Zulu"
   }
-]
+}

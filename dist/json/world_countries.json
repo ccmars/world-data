@@ -1,5 +1,5 @@
-[
-  {
+{
+  "AD": {
     "number": 20,
     "alpha2": "AD",
     "alpha3": "AND",
@@ -10,7 +10,7 @@
     "langIT": "Andorra",
     "tld": ".ad"
   },
-  {
+  "AE": {
     "number": 784,
     "alpha2": "AE",
     "alpha3": "ARE",
@@ -21,7 +21,7 @@
     "langIT": "Emirati Arabi Uniti",
     "tld": ".ae"
   },
-  {
+  "AF": {
     "number": 4,
     "alpha2": "AF",
     "alpha3": "AFG",
@@ -32,7 +32,7 @@
     "langIT": "Afghanistan",
     "tld": ".af"
   },
-  {
+  "AG": {
     "number": 28,
     "alpha2": "AG",
     "alpha3": "ATG",
@@ -43,7 +43,7 @@
     "langIT": "Antigua e Barbuda",
     "tld": ".ag"
   },
-  {
+  "AI": {
     "number": 660,
     "alpha2": "AI",
     "alpha3": "AIA",
@@ -54,7 +54,7 @@
     "langIT": "Anguilla",
     "tld": ".ai"
   },
-  {
+  "AL": {
     "number": 8,
     "alpha2": "AL",
     "alpha3": "ALB",
@@ -65,7 +65,7 @@
     "langIT": "Albania",
     "tld": ".al"
   },
-  {
+  "AM": {
     "number": 51,
     "alpha2": "AM",
     "alpha3": "ARM",
@@ -76,7 +76,7 @@
     "langIT": "Armenia",
     "tld": ".am"
   },
-  {
+  "AO": {
     "number": 24,
     "alpha2": "AO",
     "alpha3": "AGO",
@@ -87,7 +87,7 @@
     "langIT": "Angola",
     "tld": ".ao"
   },
-  {
+  "AQ": {
     "number": 10,
     "alpha2": "AQ",
     "alpha3": "ATA",
@@ -98,7 +98,7 @@
     "langIT": "Antartide",
     "tld": ".aq"
   },
-  {
+  "AR": {
     "number": 32,
     "alpha2": "AR",
     "alpha3": "ARG",
@@ -109,7 +109,7 @@
     "langIT": "Argentina",
     "tld": ".ar"
   },
-  {
+  "AS": {
     "number": 16,
     "alpha2": "AS",
     "alpha3": "ASM",
@@ -120,7 +120,7 @@
     "langIT": "Samoa americane",
     "tld": ".as"
   },
-  {
+  "AT": {
     "number": 40,
     "alpha2": "AT",
     "alpha3": "AUT",
@@ -131,7 +131,7 @@
     "langIT": "Austria",
     "tld": ".at"
   },
-  {
+  "AU": {
     "number": 36,
     "alpha2": "AU",
     "alpha3": "AUS",
@@ -142,7 +142,7 @@
     "langIT": "Australia",
     "tld": ".au"
   },
-  {
+  "AW": {
     "number": 533,
     "alpha2": "AW",
     "alpha3": "ABW",
@@ -153,7 +153,7 @@
     "langIT": "Aruba",
     "tld": ".aw"
   },
-  {
+  "AX": {
     "number": 248,
     "alpha2": "AX",
     "alpha3": "ALA",
@@ -164,7 +164,7 @@
     "langIT": "Aland",
     "tld": ".ax"
   },
-  {
+  "AZ": {
     "number": 31,
     "alpha2": "AZ",
     "alpha3": "AZE",
@@ -175,7 +175,7 @@
     "langIT": "Azerbaigian",
     "tld": ".az"
   },
-  {
+  "BA": {
     "number": 70,
     "alpha2": "BA",
     "alpha3": "BIH",
@@ -186,7 +186,7 @@
     "langIT": "Bosnia Erzegovina",
     "tld": ".ba"
   },
-  {
+  "BB": {
     "number": 52,
     "alpha2": "BB",
     "alpha3": "BRB",
@@ -197,7 +197,7 @@
     "langIT": "Barbados",
     "tld": ".bb"
   },
-  {
+  "BD": {
     "number": 50,
     "alpha2": "BD",
     "alpha3": "BGD",
@@ -208,7 +208,7 @@
     "langIT": "Bangladesh",
     "tld": ".bd"
   },
-  {
+  "BE": {
     "number": 56,
     "alpha2": "BE",
     "alpha3": "BEL",
@@ -219,7 +219,7 @@
     "langIT": "Belgio",
     "tld": ".be"
   },
-  {
+  "BF": {
     "number": 854,
     "alpha2": "BF",
     "alpha3": "BFA",
@@ -230,7 +230,7 @@
     "langIT": "Burkina Faso",
     "tld": ".bf"
   },
-  {
+  "BG": {
     "number": 100,
     "alpha2": "BG",
     "alpha3": "BGR",
@@ -241,7 +241,7 @@
     "langIT": "Bulgaria",
     "tld": ".bg"
   },
-  {
+  "BH": {
     "number": 48,
     "alpha2": "BH",
     "alpha3": "BHR",
@@ -252,7 +252,7 @@
     "langIT": "Bahrein",
     "tld": ".bh"
   },
-  {
+  "BI": {
     "number": 108,
     "alpha2": "BI",
     "alpha3": "BDI",
@@ -263,7 +263,7 @@
     "langIT": "Burundi",
     "tld": ".bi"
   },
-  {
+  "BJ": {
     "number": 204,
     "alpha2": "BJ",
     "alpha3": "BEN",
@@ -274,7 +274,7 @@
     "langIT": "Benin",
     "tld": ".bj"
   },
-  {
+  "BL": {
     "number": 652,
     "alpha2": "BL",
     "alpha3": "BLM",
@@ -285,7 +285,7 @@
     "langIT": "San Bartolomeo",
     "tld": ".bl"
   },
-  {
+  "BM": {
     "number": 60,
     "alpha2": "BM",
     "alpha3": "BMU",
@@ -296,7 +296,7 @@
     "langIT": "Bermuda",
     "tld": ".bm"
   },
-  {
+  "BN": {
     "number": 96,
     "alpha2": "BN",
     "alpha3": "BRN",
@@ -307,7 +307,7 @@
     "langIT": "Brunei",
     "tld": ".bn"
   },
-  {
+  "BO": {
     "number": 68,
     "alpha2": "BO",
     "alpha3": "BOL",
@@ -318,7 +318,7 @@
     "langIT": "Bolivia",
     "tld": ".bo"
   },
-  {
+  "BQ": {
     "number": 535,
     "alpha2": "BQ",
     "alpha3": "BES",
@@ -329,7 +329,7 @@
     "langIT": "Bonaire, Sint Eustatius e Saba",
     "tld": ".bq"
   },
-  {
+  "BR": {
     "number": 76,
     "alpha2": "BR",
     "alpha3": "BRA",
@@ -340,7 +340,7 @@
     "langIT": "Brasile",
     "tld": ".br"
   },
-  {
+  "BS": {
     "number": 44,
     "alpha2": "BS",
     "alpha3": "BHS",
@@ -351,7 +351,7 @@
     "langIT": "Bahamas",
     "tld": ".bs"
   },
-  {
+  "BT": {
     "number": 64,
     "alpha2": "BT",
     "alpha3": "BTN",
@@ -362,7 +362,7 @@
     "langIT": "Bhutan",
     "tld": ".bt"
   },
-  {
+  "BV": {
     "number": 74,
     "alpha2": "BV",
     "alpha3": "BVT",
@@ -373,7 +373,7 @@
     "langIT": "Isola Bouvet",
     "tld": ".bv"
   },
-  {
+  "BW": {
     "number": 72,
     "alpha2": "BW",
     "alpha3": "BWA",
@@ -384,7 +384,7 @@
     "langIT": "Botswana",
     "tld": ".bw"
   },
-  {
+  "BY": {
     "number": 112,
     "alpha2": "BY",
     "alpha3": "BLR",
@@ -395,7 +395,7 @@
     "langIT": "Bielorussia",
     "tld": ".by"
   },
-  {
+  "BZ": {
     "number": 84,
     "alpha2": "BZ",
     "alpha3": "BLZ",
@@ -406,7 +406,7 @@
     "langIT": "Belize",
     "tld": ".bz"
   },
-  {
+  "CA": {
     "number": 124,
     "alpha2": "CA",
     "alpha3": "CAN",
@@ -417,7 +417,7 @@
     "langIT": "Canada",
     "tld": ".ca"
   },
-  {
+  "CC": {
     "number": 166,
     "alpha2": "CC",
     "alpha3": "CCK",
@@ -428,7 +428,7 @@
     "langIT": "Isole Cocos (Keeling)",
     "tld": ".cc"
   },
-  {
+  "CD": {
     "number": 180,
     "alpha2": "CD",
     "alpha3": "COD",
@@ -439,7 +439,7 @@
     "langIT": "Repubblica Democratica del Congo",
     "tld": ".cd"
   },
-  {
+  "CF": {
     "number": 140,
     "alpha2": "CF",
     "alpha3": "CAF",
@@ -450,7 +450,7 @@
     "langIT": "Repubblica centrale africana",
     "tld": ".cf"
   },
-  {
+  "CG": {
     "number": 178,
     "alpha2": "CG",
     "alpha3": "COG",
@@ -461,7 +461,7 @@
     "langIT": "Congo",
     "tld": ".cg"
   },
-  {
+  "CH": {
     "number": 756,
     "alpha2": "CH",
     "alpha3": "CHE",
@@ -472,7 +472,7 @@
     "langIT": "Switzerland",
     "tld": ".ch"
   },
-  {
+  "CI": {
     "number": 384,
     "alpha2": "CI",
     "alpha3": "CIV",
@@ -483,7 +483,7 @@
     "langIT": "Costa 'Avoire",
     "tld": ".ci"
   },
-  {
+  "CK": {
     "number": 184,
     "alpha2": "CK",
     "alpha3": "COK",
@@ -494,7 +494,7 @@
     "langIT": "Isole Cook",
     "tld": ".ck"
   },
-  {
+  "CL": {
     "number": 152,
     "alpha2": "CL",
     "alpha3": "CHL",
@@ -505,7 +505,7 @@
     "langIT": "Chile",
     "tld": ".cl"
   },
-  {
+  "CM": {
     "number": 120,
     "alpha2": "CM",
     "alpha3": "CMR",
@@ -516,7 +516,7 @@
     "langIT": "Camerun",
     "tld": ".cm"
   },
-  {
+  "CN": {
     "number": 156,
     "alpha2": "CN",
     "alpha3": "CHN",
@@ -527,7 +527,7 @@
     "langIT": "Cina",
     "tld": ".cn"
   },
-  {
+  "CO": {
     "number": 170,
     "alpha2": "CO",
     "alpha3": "COL",
@@ -538,7 +538,7 @@
     "langIT": "Colombia",
     "tld": ".co"
   },
-  {
+  "CR": {
     "number": 188,
     "alpha2": "CR",
     "alpha3": "CRI",
@@ -549,7 +549,7 @@
     "langIT": "Costa Rica",
     "tld": ".cr"
   },
-  {
+  "CU": {
     "number": 192,
     "alpha2": "CU",
     "alpha3": "CUB",
@@ -560,7 +560,7 @@
     "langIT": "Cuba",
     "tld": ".cu"
   },
-  {
+  "CV": {
     "number": 132,
     "alpha2": "CV",
     "alpha3": "CPV",
@@ -571,7 +571,7 @@
     "langIT": "Capo Verde",
     "tld": ".cv"
   },
-  {
+  "CW": {
     "number": 531,
     "alpha2": "CW",
     "alpha3": "CUW",
@@ -582,7 +582,7 @@
     "langIT": "Curacao",
     "tld": ".cw"
   },
-  {
+  "CX": {
     "number": 162,
     "alpha2": "CX",
     "alpha3": "CXR",
@@ -593,7 +593,7 @@
     "langIT": "Isola di Natale",
     "tld": ".cx"
   },
-  {
+  "CY": {
     "number": 196,
     "alpha2": "CY",
     "alpha3": "CYP",
@@ -604,7 +604,7 @@
     "langIT": "Cipro",
     "tld": ".cy"
   },
-  {
+  "CZ": {
     "number": 203,
     "alpha2": "CZ",
     "alpha3": "CZE",
@@ -615,7 +615,7 @@
     "langIT": "Cechia",
     "tld": ".cz"
   },
-  {
+  "DE": {
     "number": 276,
     "alpha2": "DE",
     "alpha3": "DEU",
@@ -626,7 +626,7 @@
     "langIT": "Germania",
     "tld": ".de"
   },
-  {
+  "DJ": {
     "number": 262,
     "alpha2": "DJ",
     "alpha3": "DJI",
@@ -637,7 +637,7 @@
     "langIT": "Djibouti",
     "tld": ".dj"
   },
-  {
+  "DK": {
     "number": 208,
     "alpha2": "DK",
     "alpha3": "DNK",
@@ -648,7 +648,7 @@
     "langIT": "Danimarca",
     "tld": ".dk"
   },
-  {
+  "DM": {
     "number": 212,
     "alpha2": "DM",
     "alpha3": "DMA",
@@ -659,7 +659,7 @@
     "langIT": "Dominica",
     "tld": ".dm"
   },
-  {
+  "DO": {
     "number": 214,
     "alpha2": "DO",
     "alpha3": "DOM",
@@ -670,7 +670,7 @@
     "langIT": "Repubblica Dominicana",
     "tld": ".do"
   },
-  {
+  "DZ": {
     "number": 12,
     "alpha2": "DZ",
     "alpha3": "DZA",
@@ -681,7 +681,7 @@
     "langIT": "Algeria",
     "tld": ".dz"
   },
-  {
+  "EC": {
     "number": 218,
     "alpha2": "EC",
     "alpha3": "ECU",
@@ -692,7 +692,7 @@
     "langIT": "Ecuador",
     "tld": ".ec"
   },
-  {
+  "EE": {
     "number": 233,
     "alpha2": "EE",
     "alpha3": "EST",
@@ -703,7 +703,7 @@
     "langIT": "Estonia",
     "tld": ".ee"
   },
-  {
+  "EG": {
     "number": 818,
     "alpha2": "EG",
     "alpha3": "EGY",
@@ -714,7 +714,7 @@
     "langIT": "Egitto",
     "tld": ".eg"
   },
-  {
+  "EH": {
     "number": 732,
     "alpha2": "EH",
     "alpha3": "ESH",
@@ -725,7 +725,7 @@
     "langIT": "Sahara occidentale",
     "tld": ".eh"
   },
-  {
+  "ER": {
     "number": 232,
     "alpha2": "ER",
     "alpha3": "ERI",
@@ -736,7 +736,7 @@
     "langIT": "Eritrea",
     "tld": ".er"
   },
-  {
+  "ES": {
     "number": 724,
     "alpha2": "ES",
     "alpha3": "ESP",
@@ -747,7 +747,7 @@
     "langIT": "Spagna",
     "tld": ".es"
   },
-  {
+  "ET": {
     "number": 231,
     "alpha2": "ET",
     "alpha3": "ETH",
@@ -758,7 +758,7 @@
     "langIT": "Etiopia",
     "tld": ".et"
   },
-  {
+  "FI": {
     "number": 246,
     "alpha2": "FI",
     "alpha3": "FIN",
@@ -769,7 +769,7 @@
     "langIT": "Finlandia",
     "tld": ".fi"
   },
-  {
+  "FJ": {
     "number": 242,
     "alpha2": "FJ",
     "alpha3": "FJI",
@@ -780,7 +780,7 @@
     "langIT": "Figi",
     "tld": ".fj"
   },
-  {
+  "FK": {
     "number": 238,
     "alpha2": "FK",
     "alpha3": "FLK",
@@ -791,7 +791,7 @@
     "langIT": "Isole Falkland",
     "tld": ".fk"
   },
-  {
+  "FM": {
     "number": 583,
     "alpha2": "FM",
     "alpha3": "FSM",
@@ -802,7 +802,7 @@
     "langIT": "Micronesia",
     "tld": ".fm"
   },
-  {
+  "FO": {
     "number": 234,
     "alpha2": "FO",
     "alpha3": "FRO",
@@ -813,7 +813,7 @@
     "langIT": "Isole Faroe",
     "tld": ".fo"
   },
-  {
+  "FR": {
     "number": 250,
     "alpha2": "FR",
     "alpha3": "FRA",
@@ -824,7 +824,7 @@
     "langIT": "Francia",
     "tld": ".fr"
   },
-  {
+  "GA": {
     "number": 266,
     "alpha2": "GA",
     "alpha3": "GAB",
@@ -835,7 +835,7 @@
     "langIT": "Gabon",
     "tld": ".ga"
   },
-  {
+  "GB": {
     "number": 826,
     "alpha2": "GB",
     "alpha3": "GBR",
@@ -846,7 +846,7 @@
     "langIT": "Regno Unito",
     "tld": ".uk"
   },
-  {
+  "GD": {
     "number": 308,
     "alpha2": "GD",
     "alpha3": "GRD",
@@ -857,7 +857,7 @@
     "langIT": "Grenada",
     "tld": ".gd"
   },
-  {
+  "GE": {
     "number": 268,
     "alpha2": "GE",
     "alpha3": "GEO",
@@ -868,7 +868,7 @@
     "langIT": "Georgia",
     "tld": ".ge"
   },
-  {
+  "GF": {
     "number": 254,
     "alpha2": "GF",
     "alpha3": "GUF",
@@ -879,7 +879,7 @@
     "langIT": "Guiana francese",
     "tld": ".gf"
   },
-  {
+  "GG": {
     "number": 831,
     "alpha2": "GG",
     "alpha3": "GGY",
@@ -890,7 +890,7 @@
     "langIT": "Guernsey",
     "tld": ".gg"
   },
-  {
+  "GH": {
     "number": 288,
     "alpha2": "GH",
     "alpha3": "GHA",
@@ -901,7 +901,7 @@
     "langIT": "Ghana",
     "tld": ".gh"
   },
-  {
+  "GI": {
     "number": 292,
     "alpha2": "GI",
     "alpha3": "GIB",
@@ -912,7 +912,7 @@
     "langIT": "Gibilterra",
     "tld": ".gi"
   },
-  {
+  "GL": {
     "number": 304,
     "alpha2": "GL",
     "alpha3": "GRL",
@@ -923,7 +923,7 @@
     "langIT": "Groenlandia",
     "tld": ".gl"
   },
-  {
+  "GM": {
     "number": 270,
     "alpha2": "GM",
     "alpha3": "GMB",
@@ -934,7 +934,7 @@
     "langIT": "Gambia",
     "tld": ".gm"
   },
-  {
+  "GN": {
     "number": 324,
     "alpha2": "GN",
     "alpha3": "GIN",
@@ -945,7 +945,7 @@
     "langIT": "Guinea",
     "tld": ".gn"
   },
-  {
+  "GP": {
     "number": 312,
     "alpha2": "GP",
     "alpha3": "GLP",
@@ -956,7 +956,7 @@
     "langIT": "Guadeloupe",
     "tld": ".gp"
   },
-  {
+  "GQ": {
     "number": 226,
     "alpha2": "GQ",
     "alpha3": "GNQ",
@@ -967,7 +967,7 @@
     "langIT": "Guinea Equatoriale",
     "tld": ".gq"
   },
-  {
+  "GR": {
     "number": 300,
     "alpha2": "GR",
     "alpha3": "GRC",
@@ -978,7 +978,7 @@
     "langIT": "Grecia",
     "tld": ".gr"
   },
-  {
+  "GS": {
     "number": 239,
     "alpha2": "GS",
     "alpha3": "SGS",
@@ -989,7 +989,7 @@
     "langIT": "Georgia del Sud e Isole Sandwich Australi",
     "tld": ".gs"
   },
-  {
+  "GT": {
     "number": 320,
     "alpha2": "GT",
     "alpha3": "GTM",
@@ -1000,7 +1000,7 @@
     "langIT": "Guatemala",
     "tld": ".gt"
   },
-  {
+  "GU": {
     "number": 316,
     "alpha2": "GU",
     "alpha3": "GUM",
@@ -1011,7 +1011,7 @@
     "langIT": "Guam",
     "tld": ".gu"
   },
-  {
+  "GW": {
     "number": 624,
     "alpha2": "GW",
     "alpha3": "GNB",
@@ -1022,7 +1022,7 @@
     "langIT": "Guinea-Bissau",
     "tld": ".gw"
   },
-  {
+  "GY": {
     "number": 328,
     "alpha2": "GY",
     "alpha3": "GUY",
@@ -1033,7 +1033,7 @@
     "langIT": "Guyana",
     "tld": ".gy"
   },
-  {
+  "HK": {
     "number": 344,
     "alpha2": "HK",
     "alpha3": "HKG",
@@ -1044,7 +1044,7 @@
     "langIT": "Hong Kong",
     "tld": ".hk"
   },
-  {
+  "HM": {
     "number": 334,
     "alpha2": "HM",
     "alpha3": "HMD",
@@ -1055,7 +1055,7 @@
     "langIT": "Isole Heard e McDonald",
     "tld": ".hm"
   },
-  {
+  "HN": {
     "number": 340,
     "alpha2": "HN",
     "alpha3": "HND",
@@ -1066,7 +1066,7 @@
     "langIT": "Honduras",
     "tld": ".hn"
   },
-  {
+  "HR": {
     "number": 191,
     "alpha2": "HR",
     "alpha3": "HRV",
@@ -1077,7 +1077,7 @@
     "langIT": "Croazia",
     "tld": ".hr"
   },
-  {
+  "HT": {
     "number": 332,
     "alpha2": "HT",
     "alpha3": "HTI",
@@ -1088,7 +1088,7 @@
     "langIT": "Haiti",
     "tld": ".ht"
   },
-  {
+  "HU": {
     "number": 348,
     "alpha2": "HU",
     "alpha3": "HUN",
@@ -1099,7 +1099,7 @@
     "langIT": "Ungheria",
     "tld": ".hu"
   },
-  {
+  "ID": {
     "number": 360,
     "alpha2": "ID",
     "alpha3": "IDN",
@@ -1110,7 +1110,7 @@
     "langIT": "Indonesia",
     "tld": ".id"
   },
-  {
+  "IE": {
     "number": 372,
     "alpha2": "IE",
     "alpha3": "IRL",
@@ -1121,7 +1121,7 @@
     "langIT": "Irlanda",
     "tld": ".ie"
   },
-  {
+  "IL": {
     "number": 376,
     "alpha2": "IL",
     "alpha3": "ISR",
@@ -1132,7 +1132,7 @@
     "langIT": "Israele",
     "tld": ".il"
   },
-  {
+  "IM": {
     "number": 833,
     "alpha2": "IM",
     "alpha3": "IMN",
@@ -1143,7 +1143,7 @@
     "langIT": "Isola di Man",
     "tld": ".im"
   },
-  {
+  "IN": {
     "number": 356,
     "alpha2": "IN",
     "alpha3": "IND",
@@ -1154,7 +1154,7 @@
     "langIT": "India",
     "tld": ".in"
   },
-  {
+  "IO": {
     "number": 86,
     "alpha2": "IO",
     "alpha3": "IOT",
@@ -1165,7 +1165,7 @@
     "langIT": "Territorio britannico dell'Oceano Indiano",
     "tld": ".io"
   },
-  {
+  "IQ": {
     "number": 368,
     "alpha2": "IQ",
     "alpha3": "IRQ",
@@ -1176,7 +1176,7 @@
     "langIT": "Iraq",
     "tld": ".iq"
   },
-  {
+  "IR": {
     "number": 364,
     "alpha2": "IR",
     "alpha3": "IRN",
@@ -1187,7 +1187,7 @@
     "langIT": "Iran",
     "tld": ".ir"
   },
-  {
+  "IS": {
     "number": 352,
     "alpha2": "IS",
     "alpha3": "ISL",
@@ -1198,7 +1198,7 @@
     "langIT": "Islanda",
     "tld": ".is"
   },
-  {
+  "IT": {
     "number": 380,
     "alpha2": "IT",
     "alpha3": "ITA",
@@ -1209,7 +1209,7 @@
     "langIT": "Italia",
     "tld": ".it"
   },
-  {
+  "JE": {
     "number": 832,
     "alpha2": "JE",
     "alpha3": "JEY",
@@ -1220,7 +1220,7 @@
     "langIT": "Maglia",
     "tld": ".je"
   },
-  {
+  "JM": {
     "number": 388,
     "alpha2": "JM",
     "alpha3": "JAM",
@@ -1231,7 +1231,7 @@
     "langIT": "Giamaica",
     "tld": ".jm"
   },
-  {
+  "JO": {
     "number": 400,
     "alpha2": "JO",
     "alpha3": "JOR",
@@ -1242,7 +1242,7 @@
     "langIT": "Giordania",
     "tld": ".jo"
   },
-  {
+  "JP": {
     "number": 392,
     "alpha2": "JP",
     "alpha3": "JPN",
@@ -1253,7 +1253,7 @@
     "langIT": "Giappone",
     "tld": ".jp"
   },
-  {
+  "KE": {
     "number": 404,
     "alpha2": "KE",
     "alpha3": "KEN",
@@ -1264,7 +1264,7 @@
     "langIT": "Kenya",
     "tld": ".ke"
   },
-  {
+  "KG": {
     "number": 417,
     "alpha2": "KG",
     "alpha3": "KGZ",
@@ -1275,7 +1275,7 @@
     "langIT": "Kirghizistan",
     "tld": ".kg"
   },
-  {
+  "KH": {
     "number": 116,
     "alpha2": "KH",
     "alpha3": "KHM",
@@ -1286,7 +1286,7 @@
     "langIT": "Cambogia",
     "tld": ".kh"
   },
-  {
+  "KI": {
     "number": 296,
     "alpha2": "KI",
     "alpha3": "KIR",
@@ -1297,7 +1297,7 @@
     "langIT": "Kiribati",
     "tld": ".ki"
   },
-  {
+  "KM": {
     "number": 174,
     "alpha2": "KM",
     "alpha3": "COM",
@@ -1308,7 +1308,7 @@
     "langIT": "Comore",
     "tld": ".km"
   },
-  {
+  "KN": {
     "number": 659,
     "alpha2": "KN",
     "alpha3": "KNA",
@@ -1319,7 +1319,7 @@
     "langIT": "Saint Kitts e Nevis",
     "tld": ".kn"
   },
-  {
+  "KP": {
     "number": 408,
     "alpha2": "KP",
     "alpha3": "PRK",
@@ -1330,7 +1330,7 @@
     "langIT": "Corea del nord",
     "tld": ".kp"
   },
-  {
+  "KR": {
     "number": 410,
     "alpha2": "KR",
     "alpha3": "KOR",
@@ -1341,7 +1341,7 @@
     "langIT": "Corea del Sud",
     "tld": ".kr"
   },
-  {
+  "KW": {
     "number": 414,
     "alpha2": "KW",
     "alpha3": "KWT",
@@ -1352,7 +1352,7 @@
     "langIT": "Kuwait",
     "tld": ".kw"
   },
-  {
+  "KY": {
     "number": 136,
     "alpha2": "KY",
     "alpha3": "CYM",
@@ -1363,7 +1363,7 @@
     "langIT": "Isole Cayman",
     "tld": ".ky"
   },
-  {
+  "KZ": {
     "number": 398,
     "alpha2": "KZ",
     "alpha3": "KAZ",
@@ -1374,7 +1374,7 @@
     "langIT": "Kazakistan",
     "tld": ".kz"
   },
-  {
+  "LA": {
     "number": 418,
     "alpha2": "LA",
     "alpha3": "LAO",
@@ -1385,7 +1385,7 @@
     "langIT": "Laos",
     "tld": ".la"
   },
-  {
+  "LB": {
     "number": 422,
     "alpha2": "LB",
     "alpha3": "LBN",
@@ -1396,7 +1396,7 @@
     "langIT": "Libano",
     "tld": ".lb"
   },
-  {
+  "LC": {
     "number": 662,
     "alpha2": "LC",
     "alpha3": "LCA",
@@ -1407,7 +1407,7 @@
     "langIT": "Santa Lucia",
     "tld": ".lc"
   },
-  {
+  "LI": {
     "number": 438,
     "alpha2": "LI",
     "alpha3": "LIE",
@@ -1418,7 +1418,7 @@
     "langIT": "Liechtenstein",
     "tld": ".li"
   },
-  {
+  "LK": {
     "number": 144,
     "alpha2": "LK",
     "alpha3": "LKA",
@@ -1429,7 +1429,7 @@
     "langIT": "Sri Lanka",
     "tld": ".lk"
   },
-  {
+  "LR": {
     "number": 430,
     "alpha2": "LR",
     "alpha3": "LBR",
@@ -1440,7 +1440,7 @@
     "langIT": "Liberia",
     "tld": ".lr"
   },
-  {
+  "LS": {
     "number": 426,
     "alpha2": "LS",
     "alpha3": "LSO",
@@ -1451,7 +1451,7 @@
     "langIT": "Lesotho",
     "tld": ".ls"
   },
-  {
+  "LT": {
     "number": 440,
     "alpha2": "LT",
     "alpha3": "LTU",
@@ -1462,7 +1462,7 @@
     "langIT": "Lituania",
     "tld": ".lt"
   },
-  {
+  "LU": {
     "number": 442,
     "alpha2": "LU",
     "alpha3": "LUX",
@@ -1473,7 +1473,7 @@
     "langIT": "Lussemburgo",
     "tld": ".lu"
   },
-  {
+  "LV": {
     "number": 428,
     "alpha2": "LV",
     "alpha3": "LVA",
@@ -1484,7 +1484,7 @@
     "langIT": "Lettonia",
     "tld": ".lv"
   },
-  {
+  "LY": {
     "number": 434,
     "alpha2": "LY",
     "alpha3": "LBY",
@@ -1495,7 +1495,7 @@
     "langIT": "Libia",
     "tld": ".ly"
   },
-  {
+  "MA": {
     "number": 504,
     "alpha2": "MA",
     "alpha3": "MAR",
@@ -1506,7 +1506,7 @@
     "langIT": "Marocco",
     "tld": ".ma"
   },
-  {
+  "MC": {
     "number": 492,
     "alpha2": "MC",
     "alpha3": "MCO",
@@ -1517,7 +1517,7 @@
     "langIT": "Monaco",
     "tld": ".mc"
   },
-  {
+  "MD": {
     "number": 498,
     "alpha2": "MD",
     "alpha3": "MDA",
@@ -1528,7 +1528,7 @@
     "langIT": "Moldavia",
     "tld": ".md"
   },
-  {
+  "ME": {
     "number": 499,
     "alpha2": "ME",
     "alpha3": "MNE",
@@ -1539,7 +1539,7 @@
     "langIT": "Montenegro",
     "tld": ".me"
   },
-  {
+  "MF": {
     "number": 663,
     "alpha2": "MF",
     "alpha3": "MAF",
@@ -1550,7 +1550,7 @@
     "langIT": "San Martin",
     "tld": ".mf"
   },
-  {
+  "MG": {
     "number": 450,
     "alpha2": "MG",
     "alpha3": "MDG",
@@ -1561,7 +1561,7 @@
     "langIT": "Madagascar",
     "tld": ".mg"
   },
-  {
+  "MH": {
     "number": 584,
     "alpha2": "MH",
     "alpha3": "MHL",
@@ -1572,7 +1572,7 @@
     "langIT": "Isole Marshall",
     "tld": ".mh"
   },
-  {
+  "MK": {
     "number": 807,
     "alpha2": "MK",
     "alpha3": "MKD",
@@ -1583,7 +1583,7 @@
     "langIT": "Macedonia settentrionale",
     "tld": ".mk"
   },
-  {
+  "ML": {
     "number": 466,
     "alpha2": "ML",
     "alpha3": "MLI",
@@ -1594,7 +1594,7 @@
     "langIT": "Mali",
     "tld": ".ml"
   },
-  {
+  "MM": {
     "number": 104,
     "alpha2": "MM",
     "alpha3": "MMR",
@@ -1605,7 +1605,7 @@
     "langIT": "Myanmar",
     "tld": ".mm"
   },
-  {
+  "MN": {
     "number": 496,
     "alpha2": "MN",
     "alpha3": "MNG",
@@ -1616,7 +1616,7 @@
     "langIT": "Mongolia",
     "tld": ".mn"
   },
-  {
+  "MO": {
     "number": 446,
     "alpha2": "MO",
     "alpha3": "MAC",
@@ -1627,7 +1627,7 @@
     "langIT": "Macao",
     "tld": ".mo"
   },
-  {
+  "MP": {
     "number": 580,
     "alpha2": "MP",
     "alpha3": "MNP",
@@ -1638,7 +1638,7 @@
     "langIT": "Isole Marianne settentrionali",
     "tld": ".mp"
   },
-  {
+  "MQ": {
     "number": 474,
     "alpha2": "MQ",
     "alpha3": "MTQ",
@@ -1649,7 +1649,7 @@
     "langIT": "Martinica",
     "tld": ".mq"
   },
-  {
+  "MR": {
     "number": 478,
     "alpha2": "MR",
     "alpha3": "MRT",
@@ -1660,7 +1660,7 @@
     "langIT": "Mauritania",
     "tld": ".mr"
   },
-  {
+  "MS": {
     "number": 500,
     "alpha2": "MS",
     "alpha3": "MSR",
@@ -1671,7 +1671,7 @@
     "langIT": "Montserrat",
     "tld": ".ms"
   },
-  {
+  "MT": {
     "number": 470,
     "alpha2": "MT",
     "alpha3": "MLT",
@@ -1682,7 +1682,7 @@
     "langIT": "Malta",
     "tld": ".mt"
   },
-  {
+  "MU": {
     "number": 480,
     "alpha2": "MU",
     "alpha3": "MUS",
@@ -1693,7 +1693,7 @@
     "langIT": "Mauritius",
     "tld": ".mu"
   },
-  {
+  "MV": {
     "number": 462,
     "alpha2": "MV",
     "alpha3": "MDV",
@@ -1704,7 +1704,7 @@
     "langIT": "Maldive",
     "tld": ".mv"
   },
-  {
+  "MW": {
     "number": 454,
     "alpha2": "MW",
     "alpha3": "MWI",
@@ -1715,7 +1715,7 @@
     "langIT": "Malawi",
     "tld": ".mw"
   },
-  {
+  "MX": {
     "number": 484,
     "alpha2": "MX",
     "alpha3": "MEX",
@@ -1726,7 +1726,7 @@
     "langIT": "Messico",
     "tld": ".mx"
   },
-  {
+  "MY": {
     "number": 458,
     "alpha2": "MY",
     "alpha3": "MYS",
@@ -1737,7 +1737,7 @@
     "langIT": "Malaysia",
     "tld": ".my"
   },
-  {
+  "MZ": {
     "number": 508,
     "alpha2": "MZ",
     "alpha3": "MOZ",
@@ -1748,7 +1748,7 @@
     "langIT": "Mozambico",
     "tld": ".mz"
   },
-  {
+  "NA": {
     "number": 516,
     "alpha2": "NA",
     "alpha3": "NAM",
@@ -1759,7 +1759,7 @@
     "langIT": "Namibia",
     "tld": ".na"
   },
-  {
+  "NC": {
     "number": 540,
     "alpha2": "NC",
     "alpha3": "NCL",
@@ -1770,7 +1770,7 @@
     "langIT": "Nuova Caledonia",
     "tld": ".nc"
   },
-  {
+  "NE": {
     "number": 562,
     "alpha2": "NE",
     "alpha3": "NER",
@@ -1781,7 +1781,7 @@
     "langIT": "Niger",
     "tld": ".ne"
   },
-  {
+  "NF": {
     "number": 574,
     "alpha2": "NF",
     "alpha3": "NFK",
@@ -1792,7 +1792,7 @@
     "langIT": "Norfolk Island",
     "tld": ".nf"
   },
-  {
+  "NG": {
     "number": 566,
     "alpha2": "NG",
     "alpha3": "NGA",
@@ -1803,7 +1803,7 @@
     "langIT": "Nigeria",
     "tld": ".ng"
   },
-  {
+  "NI": {
     "number": 558,
     "alpha2": "NI",
     "alpha3": "NIC",
@@ -1814,7 +1814,7 @@
     "langIT": "Nicaragua",
     "tld": ".ni"
   },
-  {
+  "NL": {
     "number": 528,
     "alpha2": "NL",
     "alpha3": "NLD",
@@ -1825,7 +1825,7 @@
     "langIT": "Olanda",
     "tld": ".nl"
   },
-  {
+  "NO": {
     "number": 578,
     "alpha2": "NO",
     "alpha3": "NOR",
@@ -1836,7 +1836,7 @@
     "langIT": "Norvegia",
     "tld": ".no"
   },
-  {
+  "NP": {
     "number": 524,
     "alpha2": "NP",
     "alpha3": "NPL",
@@ -1847,7 +1847,7 @@
     "langIT": "Nepal",
     "tld": ".np"
   },
-  {
+  "NR": {
     "number": 520,
     "alpha2": "NR",
     "alpha3": "NRU",
@@ -1858,7 +1858,7 @@
     "langIT": "Nauru",
     "tld": ".nr"
   },
-  {
+  "NU": {
     "number": 570,
     "alpha2": "NU",
     "alpha3": "NIU",
@@ -1869,7 +1869,7 @@
     "langIT": "Niue",
     "tld": ".nu"
   },
-  {
+  "NZ": {
     "number": 554,
     "alpha2": "NZ",
     "alpha3": "NZL",
@@ -1880,7 +1880,7 @@
     "langIT": "Nuova Zelanda",
     "tld": ".nz"
   },
-  {
+  "OM": {
     "number": 512,
     "alpha2": "OM",
     "alpha3": "OMN",
@@ -1891,7 +1891,7 @@
     "langIT": "Oman",
     "tld": ".om"
   },
-  {
+  "PA": {
     "number": 591,
     "alpha2": "PA",
     "alpha3": "PAN",
@@ -1902,7 +1902,7 @@
     "langIT": "Panama",
     "tld": ".pa"
   },
-  {
+  "PE": {
     "number": 604,
     "alpha2": "PE",
     "alpha3": "PER",
@@ -1913,7 +1913,7 @@
     "langIT": "Per\u00f9",
     "tld": ".pe"
   },
-  {
+  "PF": {
     "number": 258,
     "alpha2": "PF",
     "alpha3": "PYF",
@@ -1924,7 +1924,7 @@
     "langIT": "Polinesia francese",
     "tld": ".pf"
   },
-  {
+  "PG": {
     "number": 598,
     "alpha2": "PG",
     "alpha3": "PNG",
@@ -1935,7 +1935,7 @@
     "langIT": "Papua Nuova Guinea",
     "tld": ".pg"
   },
-  {
+  "PH": {
     "number": 608,
     "alpha2": "PH",
     "alpha3": "PHL",
@@ -1946,7 +1946,7 @@
     "langIT": "Philippines",
     "tld": ".ph"
   },
-  {
+  "PK": {
     "number": 586,
     "alpha2": "PK",
     "alpha3": "PAK",
@@ -1957,7 +1957,7 @@
     "langIT": "Pakistan",
     "tld": ".pk"
   },
-  {
+  "PL": {
     "number": 616,
     "alpha2": "PL",
     "alpha3": "POL",
@@ -1968,7 +1968,7 @@
     "langIT": "Polonia",
     "tld": ".pl"
   },
-  {
+  "PM": {
     "number": 666,
     "alpha2": "PM",
     "alpha3": "SPM",
@@ -1979,7 +1979,7 @@
     "langIT": "San Pierre e Miquelon",
     "tld": ".pm"
   },
-  {
+  "PN": {
     "number": 612,
     "alpha2": "PN",
     "alpha3": "PCN",
@@ -1990,7 +1990,7 @@
     "langIT": "Pitcairn",
     "tld": ".pn"
   },
-  {
+  "PR": {
     "number": 630,
     "alpha2": "PR",
     "alpha3": "PRI",
@@ -2001,7 +2001,7 @@
     "langIT": "Puerto Rico",
     "tld": ".pr"
   },
-  {
+  "PS": {
     "number": 275,
     "alpha2": "PS",
     "alpha3": "PSE",
@@ -2012,7 +2012,7 @@
     "langIT": "Palestina",
     "tld": ".ps"
   },
-  {
+  "PT": {
     "number": 620,
     "alpha2": "PT",
     "alpha3": "PRT",
@@ -2023,7 +2023,7 @@
     "langIT": "Portogallo",
     "tld": ".pt"
   },
-  {
+  "PW": {
     "number": 585,
     "alpha2": "PW",
     "alpha3": "PLW",
@@ -2034,7 +2034,7 @@
     "langIT": "Palau",
     "tld": ".pw"
   },
-  {
+  "PY": {
     "number": 600,
     "alpha2": "PY",
     "alpha3": "PRY",
@@ -2045,7 +2045,7 @@
     "langIT": "Paraguay",
     "tld": ".py"
   },
-  {
+  "QA": {
     "number": 634,
     "alpha2": "QA",
     "alpha3": "QAT",
@@ -2056,7 +2056,7 @@
     "langIT": "Qatar",
     "tld": ".qa"
   },
-  {
+  "RE": {
     "number": 638,
     "alpha2": "RE",
     "alpha3": "REU",
@@ -2067,7 +2067,7 @@
     "langIT": "Riunione",
     "tld": ".re"
   },
-  {
+  "RO": {
     "number": 642,
     "alpha2": "RO",
     "alpha3": "ROU",
@@ -2078,7 +2078,7 @@
     "langIT": "Romania",
     "tld": ".ro"
   },
-  {
+  "RS": {
     "number": 688,
     "alpha2": "RS",
     "alpha3": "SRB",
@@ -2089,7 +2089,7 @@
     "langIT": "Serbia",
     "tld": ".rs"
   },
-  {
+  "RU": {
     "number": 643,
     "alpha2": "RU",
     "alpha3": "RUS",
@@ -2100,7 +2100,7 @@
     "langIT": "Russia",
     "tld": ".ru"
   },
-  {
+  "RW": {
     "number": 646,
     "alpha2": "RW",
     "alpha3": "RWA",
@@ -2111,7 +2111,7 @@
     "langIT": "Ruanda",
     "tld": ".rw"
   },
-  {
+  "SA": {
     "number": 682,
     "alpha2": "SA",
     "alpha3": "SAU",
@@ -2122,7 +2122,7 @@
     "langIT": "Arabia Saudita",
     "tld": ".sa"
   },
-  {
+  "SB": {
     "number": 90,
     "alpha2": "SB",
     "alpha3": "SLB",
@@ -2133,7 +2133,7 @@
     "langIT": "Isole Salomone",
     "tld": ".sb"
   },
-  {
+  "SC": {
     "number": 690,
     "alpha2": "SC",
     "alpha3": "SYC",
@@ -2144,7 +2144,7 @@
     "langIT": "Seychelles",
     "tld": ".sc"
   },
-  {
+  "SD": {
     "number": 729,
     "alpha2": "SD",
     "alpha3": "SDN",
@@ -2155,7 +2155,7 @@
     "langIT": "Sudan",
     "tld": ".sd"
   },
-  {
+  "SE": {
     "number": 752,
     "alpha2": "SE",
     "alpha3": "SWE",
@@ -2166,7 +2166,7 @@
     "langIT": "Svezia",
     "tld": ".se"
   },
-  {
+  "SG": {
     "number": 702,
     "alpha2": "SG",
     "alpha3": "SGP",
@@ -2177,7 +2177,7 @@
     "langIT": "Singapore",
     "tld": ".sg"
   },
-  {
+  "SH": {
     "number": 654,
     "alpha2": "SH",
     "alpha3": "SHN",
@@ -2188,7 +2188,7 @@
     "langIT": "Saint Helena, Ascension e Tristan Da Cunha",
     "tld": ".sh"
   },
-  {
+  "SI": {
     "number": 705,
     "alpha2": "SI",
     "alpha3": "SVN",
@@ -2199,7 +2199,7 @@
     "langIT": "Slovenia",
     "tld": ".si"
   },
-  {
+  "SJ": {
     "number": 744,
     "alpha2": "SJ",
     "alpha3": "SJM",
@@ -2210,7 +2210,7 @@
     "langIT": "Svalbard e Jan Mayen",
     "tld": ".sj"
   },
-  {
+  "SK": {
     "number": 703,
     "alpha2": "SK",
     "alpha3": "SVK",
@@ -2221,7 +2221,7 @@
     "langIT": "Slovacchia",
     "tld": ".sk"
   },
-  {
+  "SL": {
     "number": 694,
     "alpha2": "SL",
     "alpha3": "SLE",
@@ -2232,7 +2232,7 @@
     "langIT": "Sierra Leone",
     "tld": ".sl"
   },
-  {
+  "SM": {
     "number": 674,
     "alpha2": "SM",
     "alpha3": "SMR",
@@ -2243,7 +2243,7 @@
     "langIT": "San Marino",
     "tld": ".sm"
   },
-  {
+  "SN": {
     "number": 686,
     "alpha2": "SN",
     "alpha3": "SEN",
@@ -2254,7 +2254,7 @@
     "langIT": "Senegal",
     "tld": ".sn"
   },
-  {
+  "SO": {
     "number": 706,
     "alpha2": "SO",
     "alpha3": "SOM",
@@ -2265,7 +2265,7 @@
     "langIT": "Somalia",
     "tld": ".so"
   },
-  {
+  "SR": {
     "number": 740,
     "alpha2": "SR",
     "alpha3": "SUR",
@@ -2276,7 +2276,7 @@
     "langIT": "Suriname",
     "tld": ".sr"
   },
-  {
+  "SS": {
     "number": 728,
     "alpha2": "SS",
     "alpha3": "SSD",
@@ -2287,7 +2287,7 @@
     "langIT": "Sudan del Sud",
     "tld": ".ss"
   },
-  {
+  "ST": {
     "number": 678,
     "alpha2": "ST",
     "alpha3": "STP",
@@ -2298,7 +2298,7 @@
     "langIT": "Sao Tome e Principe",
     "tld": ".st"
   },
-  {
+  "SV": {
     "number": 222,
     "alpha2": "SV",
     "alpha3": "SLV",
@@ -2309,7 +2309,7 @@
     "langIT": "El Salvador",
     "tld": ".sv"
   },
-  {
+  "SX": {
     "number": 534,
     "alpha2": "SX",
     "alpha3": "SXM",
@@ -2320,7 +2320,7 @@
     "langIT": "Sint Maarten",
     "tld": ".sx"
   },
-  {
+  "SY": {
     "number": 760,
     "alpha2": "SY",
     "alpha3": "SYR",
@@ -2331,7 +2331,7 @@
     "langIT": "Siria",
     "tld": ".sy"
   },
-  {
+  "SZ": {
     "number": 748,
     "alpha2": "SZ",
     "alpha3": "SWZ",
@@ -2342,7 +2342,7 @@
     "langIT": "Eswatini",
     "tld": ".sz"
   },
-  {
+  "TC": {
     "number": 796,
     "alpha2": "TC",
     "alpha3": "TCA",
@@ -2353,7 +2353,7 @@
     "langIT": "Isole Turks e Caicos",
     "tld": ".tc"
   },
-  {
+  "TD": {
     "number": 148,
     "alpha2": "TD",
     "alpha3": "TCD",
@@ -2364,7 +2364,7 @@
     "langIT": "Chad",
     "tld": ".td"
   },
-  {
+  "TF": {
     "number": 260,
     "alpha2": "TF",
     "alpha3": "ATF",
@@ -2375,7 +2375,7 @@
     "langIT": "Territori della Francia del sud",
     "tld": ".tf"
   },
-  {
+  "TG": {
     "number": 768,
     "alpha2": "TG",
     "alpha3": "TGO",
@@ -2386,7 +2386,7 @@
     "langIT": "Andare",
     "tld": ".tg"
   },
-  {
+  "TH": {
     "number": 764,
     "alpha2": "TH",
     "alpha3": "THA",
@@ -2397,7 +2397,7 @@
     "langIT": "Tailandia",
     "tld": ".th"
   },
-  {
+  "TJ": {
     "number": 762,
     "alpha2": "TJ",
     "alpha3": "TJK",
@@ -2408,7 +2408,7 @@
     "langIT": "Tajikistan",
     "tld": ".tj"
   },
-  {
+  "TK": {
     "number": 772,
     "alpha2": "TK",
     "alpha3": "TKL",
@@ -2419,7 +2419,7 @@
     "langIT": "Tokelau",
     "tld": ".tk"
   },
-  {
+  "TL": {
     "number": 626,
     "alpha2": "TL",
     "alpha3": "TLS",
@@ -2430,7 +2430,7 @@
     "langIT": "Timor Est",
     "tld": ".tl"
   },
-  {
+  "TM": {
     "number": 795,
     "alpha2": "TM",
     "alpha3": "TKM",
@@ -2441,7 +2441,7 @@
     "langIT": "Turkmenistan",
     "tld": ".tm"
   },
-  {
+  "TN": {
     "number": 788,
     "alpha2": "TN",
     "alpha3": "TUN",
@@ -2452,7 +2452,7 @@
     "langIT": "Tunisia",
     "tld": ".tn"
   },
-  {
+  "TO": {
     "number": 776,
     "alpha2": "TO",
     "alpha3": "TON",
@@ -2463,7 +2463,7 @@
     "langIT": "Tonga",
     "tld": ".to"
   },
-  {
+  "TR": {
     "number": 792,
     "alpha2": "TR",
     "alpha3": "TUR",
@@ -2474,7 +2474,7 @@
     "langIT": "Turkey",
     "tld": ".tr"
   },
-  {
+  "TT": {
     "number": 780,
     "alpha2": "TT",
     "alpha3": "TTO",
@@ -2485,7 +2485,7 @@
     "langIT": "Trinidad e Tobago",
     "tld": ".tt"
   },
-  {
+  "TV": {
     "number": 798,
     "alpha2": "TV",
     "alpha3": "TUV",
@@ -2496,7 +2496,7 @@
     "langIT": "Tuvalu",
     "tld": ".tv"
   },
-  {
+  "TW": {
     "number": 158,
     "alpha2": "TW",
     "alpha3": "TWN",
@@ -2507,7 +2507,7 @@
     "langIT": "Taiwan",
     "tld": ".tw"
   },
-  {
+  "TZ": {
     "number": 834,
     "alpha2": "TZ",
     "alpha3": "TZA",
@@ -2518,7 +2518,7 @@
     "langIT": "Tanzania",
     "tld": ".tz"
   },
-  {
+  "UA": {
     "number": 804,
     "alpha2": "UA",
     "alpha3": "UKR",
@@ -2529,7 +2529,7 @@
     "langIT": "Ukraine",
     "tld": ".ua"
   },
-  {
+  "UG": {
     "number": 800,
     "alpha2": "UG",
     "alpha3": "UGA",
@@ -2540,7 +2540,7 @@
     "langIT": "Uganda",
     "tld": ".ug"
   },
-  {
+  "UM": {
     "number": 581,
     "alpha2": "UM",
     "alpha3": "UMI",
@@ -2551,7 +2551,7 @@
     "langIT": "Isole periferiche minori degli Stati Uniti",
     "tld": ".um"
   },
-  {
+  "US": {
     "number": 840,
     "alpha2": "US",
     "alpha3": "USA",
@@ -2562,7 +2562,7 @@
     "langIT": "Stati Uniti 'America",
     "tld": ".us"
   },
-  {
+  "UY": {
     "number": 858,
     "alpha2": "UY",
     "alpha3": "URY",
@@ -2573,7 +2573,7 @@
     "langIT": "Uruguay",
     "tld": ".uy"
   },
-  {
+  "UZ": {
     "number": 860,
     "alpha2": "UZ",
     "alpha3": "UZB",
@@ -2584,7 +2584,7 @@
     "langIT": "Uzbekistan",
     "tld": ".uz"
   },
-  {
+  "VA": {
     "number": 336,
     "alpha2": "VA",
     "alpha3": "VAT",
@@ -2595,7 +2595,7 @@
     "langIT": "Santa Sede",
     "tld": ".va"
   },
-  {
+  "VC": {
     "number": 670,
     "alpha2": "VC",
     "alpha3": "VCT",
@@ -2606,7 +2606,7 @@
     "langIT": "Saint Vincent e Grenadines",
     "tld": ".vc"
   },
-  {
+  "VE": {
     "number": 862,
     "alpha2": "VE",
     "alpha3": "VEN",
@@ -2617,7 +2617,7 @@
     "langIT": "Venezuela",
     "tld": ".ve"
   },
-  {
+  "VG": {
     "number": 92,
     "alpha2": "VG",
     "alpha3": "VGB",
@@ -2628,7 +2628,7 @@
     "langIT": "Isole Vergini (britannici)",
     "tld": ".vg"
   },
-  {
+  "VI": {
     "number": 850,
     "alpha2": "VI",
     "alpha3": "VIR",
@@ -2639,7 +2639,7 @@
     "langIT": "Isole Vergini (Stati Uniti)",
     "tld": ".vi"
   },
-  {
+  "VN": {
     "number": 704,
     "alpha2": "VN",
     "alpha3": "VNM",
@@ -2650,7 +2650,7 @@
     "langIT": "Vietnam",
     "tld": ".vn"
   },
-  {
+  "VU": {
     "number": 548,
     "alpha2": "VU",
     "alpha3": "VUT",
@@ -2661,7 +2661,7 @@
     "langIT": "Vanuatu",
     "tld": ".vu"
   },
-  {
+  "WF": {
     "number": 876,
     "alpha2": "WF",
     "alpha3": "WLF",
@@ -2672,7 +2672,7 @@
     "langIT": "Wallis e Futuna",
     "tld": ".wf"
   },
-  {
+  "WS": {
     "number": 882,
     "alpha2": "WS",
     "alpha3": "WSM",
@@ -2683,7 +2683,7 @@
     "langIT": "Samoa",
     "tld": ".ws"
   },
-  {
+  "YE": {
     "number": 887,
     "alpha2": "YE",
     "alpha3": "YEM",
@@ -2694,7 +2694,7 @@
     "langIT": "Yemen",
     "tld": ".ye"
   },
-  {
+  "YT": {
     "number": 175,
     "alpha2": "YT",
     "alpha3": "MYT",
@@ -2705,7 +2705,7 @@
     "langIT": "Mayotte",
     "tld": ".yt"
   },
-  {
+  "ZA": {
     "number": 710,
     "alpha2": "ZA",
     "alpha3": "ZAF",
@@ -2716,7 +2716,7 @@
     "langIT": "Sud Africa",
     "tld": ".za"
   },
-  {
+  "ZM": {
     "number": 894,
     "alpha2": "ZM",
     "alpha3": "ZMB",
@@ -2727,7 +2727,7 @@
     "langIT": "Zambia",
     "tld": ".zm"
   },
-  {
+  "ZW": {
     "number": 716,
     "alpha2": "ZW",
     "alpha3": "ZWE",
@@ -2738,4 +2738,4 @@
     "langIT": "Zimbabwe",
     "tld": ".zw"
   }
-]
+}
