@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+
 def csv2json(csv_file_path, json_file_path, key_column):
     df = pd.read_csv(csv_file_path, keep_default_na=False, na_values=[''])  # Treat only empty strings as NaN
     df = df.where(pd.notnull(df), None) # Convert NaNs to None (null)
