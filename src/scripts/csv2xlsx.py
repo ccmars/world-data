@@ -7,7 +7,7 @@ def csv2xlsx(csv_file_path, xlsx_file_path, sheet_name):
     df.to_excel(xlsx_file_path, index=False, sheet_name=sheet_name)
 
     book = load_workbook(xlsx_file_path)
-    book.properties.creator = "ccmars/world-data"
+    book.properties.creator = "github.com/ccmars/world-data"
     book.save(xlsx_file_path)
 
 csv2xlsx(

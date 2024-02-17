@@ -9,7 +9,6 @@ parser.add_argument("version_string")
 args = parser.parse_args()
 
 def prettifyXml(elem):
-    """Return a pretty-printed XML string for an XML element."""
     rough_string = ET.tostring(elem, 'utf-8')
     reparsed = xml.dom.minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent="  ")
