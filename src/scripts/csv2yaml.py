@@ -17,6 +17,18 @@ def csv2yaml(csv_file_path, yaml_file_path, key_column, comment1):
         file.write('# https://github.com/ccmars/world-data' + "\n")
         yaml.dump(data, file)
 
-csv2yaml('src/data/world_countries.csv', 'dist/yml/world_countries.yml', 'alpha2', 'World Countries (ISO 3166)')
-csv2yaml('src/data/world_currencies.csv', 'dist/yml/world_currencies.yml', 'alpha3', 'World Currencies (ISO 4217)')
-csv2yaml('src/data/world_languages.csv', 'dist/yml/world_languages.yml', 'alpha2', 'World Languages (ISO 639)')
+csv2yaml('src/data/world_countries.csv',
+    'dist/yml/world_countries.yml',
+    'alpha2',
+    'World Countries (ISO 3166)'
+)
+csv2yaml('src/data/world_currencies.csv',
+    'dist/yml/world_currencies.yml',
+    'alpha3',
+    'World Currencies (ISO 4217)'
+)
+csv2yaml('src/data/world_languages.csv',
+    'dist/yml/world_languages.yml',
+    'alpha2',
+    'World Languages (ISO 639)'
+)

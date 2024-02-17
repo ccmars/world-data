@@ -8,6 +8,15 @@ def csv2json(csv_file_path, json_file_path, key_column):
     with open(json_file_path, 'w') as file:
         json.dump(data, file, indent=2)
 
-csv2json('src/data/world_countries.csv', 'dist/json/world_countries.json', 'alpha2')
-csv2json('src/data/world_currencies.csv', 'dist/json/world_currencies.json', 'alpha3')
-csv2json('src/data/world_languages.csv', 'dist/json/world_languages.json', 'alpha2')
+csv2json('src/data/world_countries.csv',
+    'dist/json/world_countries.json',
+    'alpha2'
+)
+csv2json('src/data/world_currencies.csv',
+    'dist/json/world_currencies.json',
+    'alpha3'
+)
+csv2json('src/data/world_languages.csv',
+    'dist/json/world_languages.json',
+    'alpha2'
+)

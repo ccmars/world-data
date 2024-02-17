@@ -14,6 +14,23 @@ def csv2md(csv_file_path, md_file_path, index_col, title):
         file.write('## Markdown | ' + args.version_string + ' | https://github.com/ccmars/world-data' + "\n")
         file.write(df.to_markdown())
 
-csv2md('src/data/world_countries.csv', 'dist/md/world_countries.md', 'number', 'World Countries (ISO 3166)')
-csv2md('src/data/world_currencies.csv', 'dist/md/world_currencies.md', 'alpha3', 'World Currencies (ISO 4217)')
-csv2md('src/data/world_languages.csv', 'dist/md/world_languages.md', 'alpha2', 'World Languages (ISO 639)')
+csv2md(
+    'src/data/world_countries.csv', 
+    'dist/md/world_countries.md', 
+    'number', 
+    'World Countries (ISO 3166)'
+)
+
+csv2md(
+    'src/data/world_currencies.csv', 
+    'dist/md/world_currencies.md', 
+    'alpha3', 
+    'World Currencies (ISO 4217)'
+)
+
+csv2md(
+    'src/data/world_languages.csv', 
+    'dist/md/world_languages.md', 
+    'alpha2', 
+    'World Languages (ISO 639)'
+)
