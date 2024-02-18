@@ -2,7 +2,7 @@ number,alpha3,decimals,langEN,langIT,symbol_decimal,symbol_hex
 784,AED,2,"United Arab Emirates dirham","Dirham degli Emirati Arabi Uniti",1583;46;1573,062F;002E;0625
 971,AFN,2,"Afghan afghani",Afghani,1547,060B
 8,ALL,2,"Albanian lek",Lek,76;101;107,004C;0065;006B
-51,AMD,2,"Armenian dram","Dram Armeno",,
+51,AMD,2,"Armenian dram","Dram Armeno",1423,058F
 532,ANG,2,"Netherlands Antillean guilder","Fiorino delle Antille olandesi",402,0192
 973,AOA,2,"Angolan kwanza",Kwanza,75;122,004B;007A
 32,ARS,2,"Argentine peso","Peso Argentino",36,0024
@@ -31,7 +31,6 @@ number,alpha3,decimals,langEN,langIT,symbol_decimal,symbol_hex
 156,CNY,2,Renminbi,"Yuan Renminbi",165,00A5
 170,COP,2,"Colombian peso","Peso Colombiano",36,0024
 188,CRC,2,"Costa Rican colon","Colón costaricano",8353,20A1
-931,CUC,2,"Cuban convertible peso","Peso cubano convertibile",36,0024
 192,CUP,2,"Cuban peso","Peso cubano",8369,20B1
 132,CVE,0,"Cape Verdean escudo","Cabo Verde Escudo",36,0024
 203,CZK,2,"Czech koruna","Corona Ceca",75;269,004B;010D
@@ -82,7 +81,7 @@ number,alpha3,decimals,langEN,langIT,symbol_decimal,symbol_hex
 426,LSL,2,"Lesotho loti",Loti,76,004C
 434,LYD,3,"Libyan dinar","Dinaro Libico",1604;46;1583,0644;002E;062F
 504,MAD,2,"Moroccan dirham","Dirham Marocchino",77;65;68,004D;0041;0044
-498,MDL,2,"Moldovan leu","Leu Moldavo",,
+498,MDL,2,"Moldovan leu","Leu Moldavo",76,004C
 969,MGA,1,"Malagasy ariary","Ariary Malgascio",65;114,0041;0072
 807,MKD,2,"Macedonian denar",Denar,1076;1077;1085,0434;0435;043D
 104,MMK,2,"Burmese kyat",Kyat,75,004B
@@ -131,10 +130,10 @@ number,alpha3,decimals,langEN,langIT,symbol_decimal,symbol_hex
 760,SYP,2,"Syrian pound","Sterlina siriana",163,00A3
 748,SZL,2,"Swazi lilangeni",Lilangeni,76,004C
 764,THB,2,"Thai baht",Baht,3647,0E3F
-972,TJS,2,"Tajikistani somoni",Somoni,,
+972,TJS,2,"Tajikistani somoni",Somoni,1057,0421
 934,TMT,2,"Turkmenistani manat","Manat turkmeno",84,0054
 788,TND,3,"Tunisian dinar","Dinaro tunisino",1583;46;1578,062F;002E;062A
-776,TOP,2,"Tongan paʻanga",Pa'anga,84;36,0054;0024
+776,TOP,2,"Tongan pa'anga",Pa'anga,84;36,0054;0024
 949,TRY,2,"Turkish lira","Lira turca",8378,20BA
 780,TTD,2,"Trinidad and Tobago dollar","Dollaro di Trinidad e Tobago",84;84;36,0054;0054;0024
 901,TWD,2,"New Taiwan dollar","Nuovo dollaro di Taiwan",78;84;36,004E;0054;0024
@@ -149,9 +148,9 @@ number,alpha3,decimals,langEN,langIT,symbol_decimal,symbol_hex
 704,VND,0,"Vietnamese đồng",Dong,8363,20AB
 548,VUV,0,"Vanuatu vatu",Vatu,86;84,0056;0054
 882,WST,2,"Samoan tala",Tala,87;83;36,0057;0053;0024
-950,XAF,0,"CFA franc BEAC","CFA Franco BEAC",,
+950,XAF,0,"CFA franc BEAC","CFA Franco BEAC",70;67;70;65,0046;0043;0046;0041
 951,XCD,2,"East Caribbean dollar","Dollaro caraibico orientale",36,0024
-952,XOF,0,"CFA franc BCEAO","CFA Franco BCEAO",,
+952,XOF,0,"CFA franc BCEAO","CFA Franco BCEAO",70;67;70;65,0046;0043;0046;0041
 953,XPF,0,"CFP franc (franc Pacifique)","Franco CFP",70,0046
 999,XXX,0,"No currency","Nessuna valuta",,
 886,YER,2,"Yemeni rial","Rial Yemenita",65020,FDFC

@@ -8,7 +8,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("version_string")
 args = parser.parse_args()
 
-def prettifyXml(elem):
+def prettify_xml(elem):
     rough_string = ET.tostring(elem, 'utf-8')
     reparsed = xml.dom.minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent="  ")
@@ -31,7 +31,7 @@ def csv2xml(csv_file_path, xml_file_path, key_column, root_element_name, comment
         for subkey, subvalue in value.items():
             ET.SubElement(item, subkey).text = str(subvalue)
 
-    pretty_xml = prettifyXml(root)
+    pretty_xml = prettify_xml(root)
     with open(xml_file_path, 'w', encoding='utf-8') as file:
         file.write(pretty_xml)
 

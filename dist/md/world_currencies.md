@@ -5,7 +5,7 @@
 | AED      |      784 |          2 | United Arab Emirates dirham             | Dirham degli Emirati Arabi Uniti | 1583;46;1573             | 062F;002E;0625           |
 | AFN      |      971 |          2 | Afghan afghani                          | Afghani                          | 1547                     | 060B                     |
 | ALL      |        8 |          2 | Albanian lek                            | Lek                              | 76;101;107               | 004C;0065;006B           |
-| AMD      |       51 |          2 | Armenian dram                           | Dram Armeno                      |                          |                          |
+| AMD      |       51 |          2 | Armenian dram                           | Dram Armeno                      | 1423                     | 058F                     |
 | ANG      |      532 |          2 | Netherlands Antillean guilder           | Fiorino delle Antille olandesi   | 402                      | 0192                     |
 | AOA      |      973 |          2 | Angolan kwanza                          | Kwanza                           | 75;122                   | 004B;007A                |
 | ARS      |       32 |          2 | Argentine peso                          | Peso Argentino                   | 36                       | 0024                     |
@@ -34,7 +34,6 @@
 | CNY      |      156 |          2 | Renminbi                                | Yuan Renminbi                    | 165                      | 00A5                     |
 | COP      |      170 |          2 | Colombian peso                          | Peso Colombiano                  | 36                       | 0024                     |
 | CRC      |      188 |          2 | Costa Rican colon                       | Colón costaricano                | 8353                     | 20A1                     |
-| CUC      |      931 |          2 | Cuban convertible peso                  | Peso cubano convertibile         | 36                       | 0024                     |
 | CUP      |      192 |          2 | Cuban peso                              | Peso cubano                      | 8369                     | 20B1                     |
 | CVE      |      132 |          0 | Cape Verdean escudo                     | Cabo Verde Escudo                | 36                       | 0024                     |
 | CZK      |      203 |          2 | Czech koruna                            | Corona Ceca                      | 75;269                   | 004B;010D                |
@@ -85,7 +84,7 @@
 | LSL      |      426 |          2 | Lesotho loti                            | Loti                             | 76                       | 004C                     |
 | LYD      |      434 |          3 | Libyan dinar                            | Dinaro Libico                    | 1604;46;1583             | 0644;002E;062F           |
 | MAD      |      504 |          2 | Moroccan dirham                         | Dirham Marocchino                | 77;65;68                 | 004D;0041;0044           |
-| MDL      |      498 |          2 | Moldovan leu                            | Leu Moldavo                      |                          |                          |
+| MDL      |      498 |          2 | Moldovan leu                            | Leu Moldavo                      | 76                       | 004C                     |
 | MGA      |      969 |          1 | Malagasy ariary                         | Ariary Malgascio                 | 65;114                   | 0041;0072                |
 | MKD      |      807 |          2 | Macedonian denar                        | Denar                            | 1076;1077;1085           | 0434;0435;043D           |
 | MMK      |      104 |          2 | Burmese kyat                            | Kyat                             | 75                       | 004B                     |
@@ -134,10 +133,10 @@
 | SYP      |      760 |          2 | Syrian pound                            | Sterlina siriana                 | 163                      | 00A3                     |
 | SZL      |      748 |          2 | Swazi lilangeni                         | Lilangeni                        | 76                       | 004C                     |
 | THB      |      764 |          2 | Thai baht                               | Baht                             | 3647                     | 0E3F                     |
-| TJS      |      972 |          2 | Tajikistani somoni                      | Somoni                           |                          |                          |
+| TJS      |      972 |          2 | Tajikistani somoni                      | Somoni                           | 1057                     | 0421                     |
 | TMT      |      934 |          2 | Turkmenistani manat                     | Manat turkmeno                   | 84                       | 0054                     |
 | TND      |      788 |          3 | Tunisian dinar                          | Dinaro tunisino                  | 1583;46;1578             | 062F;002E;062A           |
-| TOP      |      776 |          2 | Tongan paʻanga                          | Pa'anga                          | 84;36                    | 0054;0024                |
+| TOP      |      776 |          2 | Tongan pa'anga                          | Pa'anga                          | 84;36                    | 0054;0024                |
 | TRY      |      949 |          2 | Turkish lira                            | Lira turca                       | 8378                     | 20BA                     |
 | TTD      |      780 |          2 | Trinidad and Tobago dollar              | Dollaro di Trinidad e Tobago     | 84;84;36                 | 0054;0054;0024           |
 | TWD      |      901 |          2 | New Taiwan dollar                       | Nuovo dollaro di Taiwan          | 78;84;36                 | 004E;0054;0024           |
@@ -152,9 +151,9 @@
 | VND      |      704 |          0 | Vietnamese đồng                         | Dong                             | 8363                     | 20AB                     |
 | VUV      |      548 |          0 | Vanuatu vatu                            | Vatu                             | 86;84                    | 0056;0054                |
 | WST      |      882 |          2 | Samoan tala                             | Tala                             | 87;83;36                 | 0057;0053;0024           |
-| XAF      |      950 |          0 | CFA franc BEAC                          | CFA Franco BEAC                  |                          |                          |
+| XAF      |      950 |          0 | CFA franc BEAC                          | CFA Franco BEAC                  | 70;67;70;65              | 0046;0043;0046;0041      |
 | XCD      |      951 |          2 | East Caribbean dollar                   | Dollaro caraibico orientale      | 36                       | 0024                     |
-| XOF      |      952 |          0 | CFA franc BCEAO                         | CFA Franco BCEAO                 |                          |                          |
+| XOF      |      952 |          0 | CFA franc BCEAO                         | CFA Franco BCEAO                 | 70;67;70;65              | 0046;0043;0046;0041      |
 | XPF      |      953 |          0 | CFP franc (franc Pacifique)             | Franco CFP                       | 70                       | 0046                     |
 | XXX      |      999 |          0 | No currency                             | Nessuna valuta                   |                          |                          |
 | YER      |      886 |          2 | Yemeni rial                             | Rial Yemenita                    | 65020                    | FDFC                     |

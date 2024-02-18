@@ -31,8 +31,8 @@ AMD:
   langEN: Armenian dram
   langIT: Dram Armeno
   number: 51
-  symbol_decimal: null
-  symbol_hex: null
+  symbol_decimal: '1423'
+  symbol_hex: 058F
 ANG:
   alpha3: ANG
   decimals: 2
@@ -257,14 +257,6 @@ CRC:
   number: 188
   symbol_decimal: '8353'
   symbol_hex: 20A1
-CUC:
-  alpha3: CUC
-  decimals: 2
-  langEN: Cuban convertible peso
-  langIT: Peso cubano convertibile
-  number: 931
-  symbol_decimal: '36'
-  symbol_hex: '0024'
 CUP:
   alpha3: CUP
   decimals: 2
@@ -671,8 +663,8 @@ MDL:
   langEN: Moldovan leu
   langIT: Leu Moldavo
   number: 498
-  symbol_decimal: null
-  symbol_hex: null
+  symbol_decimal: '76'
+  symbol_hex: 004C
 MGA:
   alpha3: MGA
   decimals: 1
@@ -1063,8 +1055,8 @@ TJS:
   langEN: Tajikistani somoni
   langIT: Somoni
   number: 972
-  symbol_decimal: null
-  symbol_hex: null
+  symbol_decimal: '1057'
+  symbol_hex: '0421'
 TMT:
   alpha3: TMT
   decimals: 2
@@ -1084,7 +1076,7 @@ TND:
 TOP:
   alpha3: TOP
   decimals: 2
-  langEN: "Tongan pa\u02BBanga"
+  langEN: Tongan pa'anga
   langIT: Pa'anga
   number: 776
   symbol_decimal: 84;36
@@ -1207,8 +1199,8 @@ XAF:
   langEN: CFA franc BEAC
   langIT: CFA Franco BEAC
   number: 950
-  symbol_decimal: null
-  symbol_hex: null
+  symbol_decimal: 70;67;70;65
+  symbol_hex: 0046;0043;0046;0041
 XCD:
   alpha3: XCD
   decimals: 2
@@ -1223,8 +1215,8 @@ XOF:
   langEN: CFA franc BCEAO
   langIT: CFA Franco BCEAO
   number: 952
-  symbol_decimal: null
-  symbol_hex: null
+  symbol_decimal: 70;67;70;65
+  symbol_hex: 0046;0043;0046;0041
 XPF:
   alpha3: XPF
   decimals: 0

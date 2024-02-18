@@ -6,15 +6,15 @@ parser = argparse.ArgumentParser()
 parser.add_argument("version_string")
 args = parser.parse_args()
 
-def toPhpArray(data, indent=''):
+def to_php_array(data, indent=''):
     newIndent = "    ";
     if isinstance(data, dict):
         items = []
         for key, value in data.items():
-            items.append(f'"{key}" => {toPhpArray(value, indent + newIndent)}')
+            items.append(f'"{key}" => {to_php_array(value, indent + newIndent)}')
         return "[\n" + ",\n".join(indent + newIndent + item for item in items) + "\n" + indent + "]"
     elif isinstance(data, list):
-        items = [toPhpArray(value, indent + newIndent) for value in data]
+        items = [to_php_array(value, indent + newIndent) for value in data]
         return "[\n" + ",\n".join(indent + newIndent + item for item in items) + "\n" + indent + "]"
     elif data is None:
         return "null"
@@ -30,7 +30,7 @@ def csv2php(csv_file_path, php_file_path, var_name, key_column, title):
         file.write('// ' + title + "\n")
         file.write('// PHP | ' + args.version_string + "\n")
         file.write('// https://github.com/ccmars/world-data' + "\n")
-        file.write(f'${var_name} = ' + toPhpArray(data) + ";\n")
+        file.write(f'${var_name} = ' + to_php_array(data) + ";\n")
 
 csv2php('src/data/world_countries.csv',
     'dist/php/world_countries.php',

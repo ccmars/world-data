@@ -36,8 +36,8 @@
     <decimals>2</decimals>
     <langEN>Armenian dram</langEN>
     <langIT>Dram Armeno</langIT>
-    <symbol_decimal>None</symbol_decimal>
-    <symbol_hex>None</symbol_hex>
+    <symbol_decimal>1423</symbol_decimal>
+    <symbol_hex>058F</symbol_hex>
   </AMD>
   <ANG>
     <number>532</number>
@@ -291,15 +291,6 @@
     <symbol_decimal>8353</symbol_decimal>
     <symbol_hex>20A1</symbol_hex>
   </CRC>
-  <CUC>
-    <number>931</number>
-    <alpha3>CUC</alpha3>
-    <decimals>2</decimals>
-    <langEN>Cuban convertible peso</langEN>
-    <langIT>Peso cubano convertibile</langIT>
-    <symbol_decimal>36</symbol_decimal>
-    <symbol_hex>0024</symbol_hex>
-  </CUC>
   <CUP>
     <number>192</number>
     <alpha3>CUP</alpha3>
@@ -756,8 +747,8 @@
     <decimals>2</decimals>
     <langEN>Moldovan leu</langEN>
     <langIT>Leu Moldavo</langIT>
-    <symbol_decimal>None</symbol_decimal>
-    <symbol_hex>None</symbol_hex>
+    <symbol_decimal>76</symbol_decimal>
+    <symbol_hex>004C</symbol_hex>
   </MDL>
   <MGA>
     <number>969</number>
@@ -1197,8 +1188,8 @@
     <decimals>2</decimals>
     <langEN>Tajikistani somoni</langEN>
     <langIT>Somoni</langIT>
-    <symbol_decimal>None</symbol_decimal>
-    <symbol_hex>None</symbol_hex>
+    <symbol_decimal>1057</symbol_decimal>
+    <symbol_hex>0421</symbol_hex>
   </TJS>
   <TMT>
     <number>934</number>
@@ -1222,7 +1213,7 @@
     <number>776</number>
     <alpha3>TOP</alpha3>
     <decimals>2</decimals>
-    <langEN>Tongan paʻanga</langEN>
+    <langEN>Tongan pa'anga</langEN>
     <langIT>Pa'anga</langIT>
     <symbol_decimal>84;36</symbol_decimal>
     <symbol_hex>0054;0024</symbol_hex>
@@ -1359,8 +1350,8 @@
     <decimals>0</decimals>
     <langEN>CFA franc BEAC</langEN>
     <langIT>CFA Franco BEAC</langIT>
-    <symbol_decimal>None</symbol_decimal>
-    <symbol_hex>None</symbol_hex>
+    <symbol_decimal>70;67;70;65</symbol_decimal>
+    <symbol_hex>0046;0043;0046;0041</symbol_hex>
   </XAF>
   <XCD>
     <number>951</number>
@@ -1377,8 +1368,8 @@
     <decimals>0</decimals>
     <langEN>CFA franc BCEAO</langEN>
     <langIT>CFA Franco BCEAO</langIT>
-    <symbol_decimal>None</symbol_decimal>
-    <symbol_hex>None</symbol_hex>
+    <symbol_decimal>70;67;70;65</symbol_decimal>
+    <symbol_hex>0046;0043;0046;0041</symbol_hex>
   </XOF>
   <XPF>
     <number>953</number>

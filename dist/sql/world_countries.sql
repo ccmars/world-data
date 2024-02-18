@@ -1,5 +1,5 @@
 -- World Countries (ISO 3166)
--- SQL Table | v1.1.1 (2024)
+-- SQL Table | v3.0.0 (2024)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_countries`;
@@ -7,11 +7,11 @@ CREATE TABLE `world_countries` (
   `number` smallint NOT NULL,
   `alpha2` varchar(2) NOT NULL,
   `alpha3` varchar(3) NOT NULL,
-  `langEN` varchar(64) NOT NULL,
-  `langDE` varchar(64) NOT NULL,
-  `langES` varchar(64) NOT NULL,
-  `langFR` varchar(64) NOT NULL,
-  `langIT` varchar(64) NOT NULL,
+  `langEN` varchar(48) NOT NULL,
+  `langDE` varchar(48) NOT NULL,
+  `langES` varchar(48) NOT NULL,
+  `langFR` varchar(48) NOT NULL,
+  `langIT` varchar(48) NOT NULL,
   `tld` varchar(4) NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=UTF8MB4 COMMENT='World Countries (ISO 3166)';
 
@@ -268,5 +268,6 @@ INSERT INTO `world_countries` (`number`, `alpha2`, `alpha3`, `langEN`, `langDE`,
 
 ALTER TABLE `world_countries`
   ADD PRIMARY KEY (`number`),
+  ADD UNIQUE (`number`),
   ADD UNIQUE (`alpha2`),
   ADD UNIQUE (`alpha3`);

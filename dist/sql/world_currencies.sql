@@ -1,5 +1,5 @@
 -- World Currencies (ISO 4217)
--- SQL Table | v2.1.3 (2024)
+-- SQL Table | v3.0.0 (2024)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_currencies`;
@@ -7,8 +7,8 @@ CREATE TABLE `world_currencies` (
   `number` smallint NOT NULL,
   `alpha3` varchar(3) NOT NULL,
   `decimals` tinyint NOT NULL DEFAULT '2',
-  `langEN` varchar(39) NOT NULL,
-  `langIT` varchar(39) NOT NULL,
+  `langEN` varchar(48) NOT NULL,
+  `langIT` varchar(48) NOT NULL,
   `symbol_decimal` varchar(24) DEFAULT NULL,
   `symbol_hex` varchar(24) DEFAULT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=UTF8MB4 COMMENT='World Currencies (ISO 4217)';
@@ -148,7 +148,7 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (972, 'TJS', 2, 'Tajikistani somoni', 'Somoni', '1057', '0421'),
 (934, 'TMT', 2, 'Turkmenistani manat', 'Manat turkmeno', '84', '0054'),
 (788, 'TND', 3, 'Tunisian dinar', 'Dinaro tunisino', '1583;46;1578', '062F;002E;062A'),
-(776, 'TOP', 2, 'Tongan paʻanga', 'Pa''anga', '84;36', '0054;0024'),
+(776, 'TOP', 2, 'Tongan pa''anga', 'Pa''anga', '84;36', '0054;0024'),
 (949, 'TRY', 2, 'Turkish lira', 'Lira turca', '8378', '20BA'),
 (780, 'TTD', 2, 'Trinidad and Tobago dollar', 'Dollaro di Trinidad e Tobago', '84;84;36', '0054;0054;0024'),
 (901, 'TWD', 2, 'New Taiwan dollar', 'Nuovo dollaro di Taiwan', '78;84;36', '004E;0054;0024'),
@@ -175,4 +175,5 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 
 ALTER TABLE `world_currencies`
   ADD PRIMARY KEY (`number`),
+  ADD UNIQUE (`number`),
   ADD UNIQUE (`alpha3`);
