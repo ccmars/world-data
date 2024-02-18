@@ -1,0 +1,1267 @@
+# World Currencies (ISO 4217)
+# YAML | v3.0.0 (2024)
+# https://github.com/ccmars/world-data
+AED:
+  alpha3: AED
+  decimals: 2
+  langEN: United Arab Emirates dirham
+  langIT: Dirham degli Emirati Arabi Uniti
+  number: 784
+  symbol_decimal: 1583;46;1573
+  symbol_hex: 062F;002E;0625
+AFN:
+  alpha3: AFN
+  decimals: 2
+  langEN: Afghan afghani
+  langIT: Afghani
+  number: 971
+  symbol_decimal: '1547'
+  symbol_hex: 060B
+ALL:
+  alpha3: ALL
+  decimals: 2
+  langEN: Albanian lek
+  langIT: Lek
+  number: 8
+  symbol_decimal: 76;101;107
+  symbol_hex: 004C;0065;006B
+AMD:
+  alpha3: AMD
+  decimals: 2
+  langEN: Armenian dram
+  langIT: Dram Armeno
+  number: 51
+  symbol_decimal: '1423'
+  symbol_hex: 058F
+ANG:
+  alpha3: ANG
+  decimals: 2
+  langEN: Netherlands Antillean guilder
+  langIT: Fiorino delle Antille olandesi
+  number: 532
+  symbol_decimal: '402'
+  symbol_hex: 0192
+AOA:
+  alpha3: AOA
+  decimals: 2
+  langEN: Angolan kwanza
+  langIT: Kwanza
+  number: 973
+  symbol_decimal: 75;122
+  symbol_hex: 004B;007A
+ARS:
+  alpha3: ARS
+  decimals: 2
+  langEN: Argentine peso
+  langIT: Peso Argentino
+  number: 32
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+AUD:
+  alpha3: AUD
+  decimals: 2
+  langEN: Australian dollar
+  langIT: Dollaro australiano
+  number: 36
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+AWG:
+  alpha3: AWG
+  decimals: 2
+  langEN: Aruban florin
+  langIT: Fiorino Aruba
+  number: 533
+  symbol_decimal: '402'
+  symbol_hex: 0192
+AZN:
+  alpha3: AZN
+  decimals: 2
+  langEN: Azerbaijani manat
+  langIT: Manat dell'Azerbaigian
+  number: 944
+  symbol_decimal: 1084;1072;1085
+  symbol_hex: 043C;0430;043D
+BAM:
+  alpha3: BAM
+  decimals: 2
+  langEN: Bosnia and Herzegovina convertible mark
+  langIT: Marco Convertibile
+  number: 977
+  symbol_decimal: 75;77
+  symbol_hex: 004B;004D
+BBD:
+  alpha3: BBD
+  decimals: 2
+  langEN: Barbados dollar
+  langIT: Dollaro delle Barbados
+  number: 52
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+BDT:
+  alpha3: BDT
+  decimals: 2
+  langEN: Bangladeshi taka
+  langIT: Taka
+  number: 50
+  symbol_decimal: '2547'
+  symbol_hex: 09F3
+BGN:
+  alpha3: BGN
+  decimals: 2
+  langEN: Bulgarian lev
+  langIT: Lev Bulgaro
+  number: 975
+  symbol_decimal: 1083;1074
+  symbol_hex: 043B;0432
+BHD:
+  alpha3: BHD
+  decimals: 3
+  langEN: Bahraini dinar
+  langIT: Dinaro del Bahrain
+  number: 48
+  symbol_decimal: 46;1583;46;1576
+  symbol_hex: 002E;062F;002E;0628
+BIF:
+  alpha3: BIF
+  decimals: 0
+  langEN: Burundian franc
+  langIT: Burundi Franco
+  number: 108
+  symbol_decimal: 70;66;117
+  symbol_hex: 0046;0042;0075
+BMD:
+  alpha3: BMD
+  decimals: 2
+  langEN: Bermudian dollar
+  langIT: Dollaro delle Bermuda
+  number: 60
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+BND:
+  alpha3: BND
+  decimals: 2
+  langEN: Brunei dollar
+  langIT: Dollaro del Brunei
+  number: 96
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+BOB:
+  alpha3: BOB
+  decimals: 2
+  langEN: Boliviano
+  langIT: Boliviano
+  number: 68
+  symbol_decimal: 36;98
+  symbol_hex: 0024;0062
+BRL:
+  alpha3: BRL
+  decimals: 2
+  langEN: Brazilian real
+  langIT: Real Brasiliano
+  number: 986
+  symbol_decimal: 82;36
+  symbol_hex: 0052;0024
+BSD:
+  alpha3: BSD
+  decimals: 2
+  langEN: Bahamian dollar
+  langIT: Dollaro delle Bahamas
+  number: 44
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+BTN:
+  alpha3: BTN
+  decimals: 2
+  langEN: Bhutanese ngultrum
+  langIT: Ngultrum
+  number: 64
+  symbol_decimal: 78;117
+  symbol_hex: 004E;0075
+BWP:
+  alpha3: BWP
+  decimals: 2
+  langEN: Botswana pula
+  langIT: Pula
+  number: 72
+  symbol_decimal: '80'
+  symbol_hex: '0050'
+BYN:
+  alpha3: BYN
+  decimals: 0
+  langEN: Belarusian ruble
+  langIT: Rublo Bielorusso
+  number: 933
+  symbol_decimal: 112;46
+  symbol_hex: 0070;002E
+BZD:
+  alpha3: BZD
+  decimals: 2
+  langEN: Belize dollar
+  langIT: Dollaro Belize
+  number: 84
+  symbol_decimal: 66;90;36
+  symbol_hex: 0042;005A;0024
+CAD:
+  alpha3: CAD
+  decimals: 2
+  langEN: Canadian dollar
+  langIT: Dollaro Canadese
+  number: 124
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+CDF:
+  alpha3: CDF
+  decimals: 2
+  langEN: Congolese franc
+  langIT: Franco congolese
+  number: 976
+  symbol_decimal: 70;67
+  symbol_hex: 0046;0043
+CHF:
+  alpha3: CHF
+  decimals: 2
+  langEN: Swiss franc
+  langIT: Franco Svizzero
+  number: 756
+  symbol_decimal: 67;72;70
+  symbol_hex: 0043;0048;0046
+CLP:
+  alpha3: CLP
+  decimals: 0
+  langEN: Chilean peso
+  langIT: Peso Cileno
+  number: 152
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+CNY:
+  alpha3: CNY
+  decimals: 2
+  langEN: Renminbi
+  langIT: Yuan Renminbi
+  number: 156
+  symbol_decimal: '165'
+  symbol_hex: 00A5
+COP:
+  alpha3: COP
+  decimals: 2
+  langEN: Colombian peso
+  langIT: Peso Colombiano
+  number: 170
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+CRC:
+  alpha3: CRC
+  decimals: 2
+  langEN: Costa Rican colon
+  langIT: "Col\xF3n costaricano"
+  number: 188
+  symbol_decimal: '8353'
+  symbol_hex: 20A1
+CUP:
+  alpha3: CUP
+  decimals: 2
+  langEN: Cuban peso
+  langIT: Peso cubano
+  number: 192
+  symbol_decimal: '8369'
+  symbol_hex: 20B1
+CVE:
+  alpha3: CVE
+  decimals: 0
+  langEN: Cape Verdean escudo
+  langIT: Cabo Verde Escudo
+  number: 132
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+CZK:
+  alpha3: CZK
+  decimals: 2
+  langEN: Czech koruna
+  langIT: Corona Ceca
+  number: 203
+  symbol_decimal: 75;269
+  symbol_hex: 004B;010D
+DJF:
+  alpha3: DJF
+  decimals: 0
+  langEN: Djiboutian franc
+  langIT: Franco del Gibuti
+  number: 262
+  symbol_decimal: 70;100;106
+  symbol_hex: 0046;0064;006A
+DKK:
+  alpha3: DKK
+  decimals: 2
+  langEN: Danish krone
+  langIT: Corona Danese
+  number: 208
+  symbol_decimal: 107;114
+  symbol_hex: 006B;0072
+DOP:
+  alpha3: DOP
+  decimals: 2
+  langEN: Dominican peso
+  langIT: Peso dominicano
+  number: 214
+  symbol_decimal: 82;68;36
+  symbol_hex: 0052;0044;0024
+DZD:
+  alpha3: DZD
+  decimals: 2
+  langEN: Algerian dinar
+  langIT: Dinaro Algerino
+  number: 12
+  symbol_decimal: 1583;1580
+  symbol_hex: 062F;062C
+EGP:
+  alpha3: EGP
+  decimals: 2
+  langEN: Egyptian pound
+  langIT: Sterlina Egiziana
+  number: 818
+  symbol_decimal: '163'
+  symbol_hex: 00A3
+ERN:
+  alpha3: ERN
+  decimals: 2
+  langEN: Eritrean nakfa
+  langIT: Nakfa
+  number: 232
+  symbol_decimal: 1606;1575;1601;1603;1575
+  symbol_hex: 0646;0627;0641;0643;0627
+ETB:
+  alpha3: ETB
+  decimals: 2
+  langEN: Ethiopian birr
+  langIT: Birr Etiope
+  number: 230
+  symbol_decimal: 4709;4653
+  symbol_hex: 1265;122D
+EUR:
+  alpha3: EUR
+  decimals: 2
+  langEN: Euro
+  langIT: Euro
+  number: 978
+  symbol_decimal: '8364'
+  symbol_hex: 20AC
+FJD:
+  alpha3: FJD
+  decimals: 2
+  langEN: Fiji dollar
+  langIT: Dollaro delle Figi
+  number: 242
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+FKP:
+  alpha3: FKP
+  decimals: 2
+  langEN: Falkland Islands pound
+  langIT: Sterlina delle Falkland
+  number: 238
+  symbol_decimal: '163'
+  symbol_hex: 00A3
+GBP:
+  alpha3: GBP
+  decimals: 2
+  langEN: Pound sterling
+  langIT: Sterlina Britannica
+  number: 826
+  symbol_decimal: '163'
+  symbol_hex: 00A3
+GEL:
+  alpha3: GEL
+  decimals: 2
+  langEN: Georgian lari
+  langIT: Lari
+  number: 981
+  symbol_decimal: '8382'
+  symbol_hex: 20BE
+GHS:
+  alpha3: GHS
+  decimals: 2
+  langEN: Ghanaian cedi
+  langIT: Ghana Cedi
+  number: 936
+  symbol_decimal: '162'
+  symbol_hex: 00A2
+GIP:
+  alpha3: GIP
+  decimals: 2
+  langEN: Gibraltar pound
+  langIT: Sterlina di Gibilterra
+  number: 292
+  symbol_decimal: '163'
+  symbol_hex: 00A3
+GMD:
+  alpha3: GMD
+  decimals: 2
+  langEN: Gambian dalasi
+  langIT: Dalasi
+  number: 270
+  symbol_decimal: '68'
+  symbol_hex: '0044'
+GNF:
+  alpha3: GNF
+  decimals: 0
+  langEN: Guinean franc
+  langIT: Franco della Guinea
+  number: 324
+  symbol_decimal: 70;71
+  symbol_hex: 0046;0047
+GTQ:
+  alpha3: GTQ
+  decimals: 2
+  langEN: Guatemalan quetzal
+  langIT: Quetzal
+  number: 320
+  symbol_decimal: '81'
+  symbol_hex: '0051'
+GYD:
+  alpha3: GYD
+  decimals: 2
+  langEN: Guyanese dollar
+  langIT: Dollaro della Guyana
+  number: 328
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+HKD:
+  alpha3: HKD
+  decimals: 2
+  langEN: Hong Kong dollar
+  langIT: Dollaro di Hong Kong
+  number: 344
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+HNL:
+  alpha3: HNL
+  decimals: 2
+  langEN: Honduran lempira
+  langIT: Lempira
+  number: 340
+  symbol_decimal: '76'
+  symbol_hex: 004C
+HTG:
+  alpha3: HTG
+  decimals: 2
+  langEN: Haitian gourde
+  langIT: Gourde
+  number: 332
+  symbol_decimal: '71'
+  symbol_hex: '0047'
+HUF:
+  alpha3: HUF
+  decimals: 2
+  langEN: Hungarian forint
+  langIT: Fiorino
+  number: 348
+  symbol_decimal: 70;116
+  symbol_hex: 0046;0074
+IDR:
+  alpha3: IDR
+  decimals: 2
+  langEN: Indonesian rupiah
+  langIT: Rupia
+  number: 360
+  symbol_decimal: 82;112
+  symbol_hex: 0052;0070
+ILS:
+  alpha3: ILS
+  decimals: 2
+  langEN: Israeli new shekel
+  langIT: Nuovo Shekel Israeliano
+  number: 376
+  symbol_decimal: '8362'
+  symbol_hex: 20AA
+INR:
+  alpha3: INR
+  decimals: 2
+  langEN: Indian rupee
+  langIT: Rupia indiana
+  number: 356
+  symbol_decimal: '8377'
+  symbol_hex: 20B9
+IQD:
+  alpha3: IQD
+  decimals: 3
+  langEN: Iraqi dinar
+  langIT: Dinaro Iracheno
+  number: 368
+  symbol_decimal: 1593;46;1583
+  symbol_hex: 0639;002E;062F
+IRR:
+  alpha3: IRR
+  decimals: 2
+  langEN: Iranian rial
+  langIT: Riyal Iraniano
+  number: 364
+  symbol_decimal: '65020'
+  symbol_hex: FDFC
+ISK:
+  alpha3: ISK
+  decimals: 0
+  langEN: "Icelandic kr\xF3na"
+  langIT: Corona Islandese
+  number: 352
+  symbol_decimal: 107;114
+  symbol_hex: 006B;0072
+JMD:
+  alpha3: JMD
+  decimals: 2
+  langEN: Jamaican dollar
+  langIT: Dollaro giamaicano
+  number: 388
+  symbol_decimal: 74;36
+  symbol_hex: 004A;0024
+JOD:
+  alpha3: JOD
+  decimals: 3
+  langEN: Jordanian dinar
+  langIT: Dinaro giordano
+  number: 400
+  symbol_decimal: 1583;1610;1606;1575;1585
+  symbol_hex: 062F;064A;0646;0627;0631
+JPY:
+  alpha3: JPY
+  decimals: 0
+  langEN: Japanese yen
+  langIT: Yen
+  number: 392
+  symbol_decimal: '165'
+  symbol_hex: 00A5
+KES:
+  alpha3: KES
+  decimals: 2
+  langEN: Kenyan shilling
+  langIT: Scellino Keniota
+  number: 404
+  symbol_decimal: 75;83;104
+  symbol_hex: 004B;0053;0068
+KGS:
+  alpha3: KGS
+  decimals: 2
+  langEN: Kyrgyzstani som
+  langIT: Som
+  number: 417
+  symbol_decimal: 1083;1074
+  symbol_hex: 043B;0432
+KHR:
+  alpha3: KHR
+  decimals: 2
+  langEN: Cambodian riel
+  langIT: Riel
+  number: 116
+  symbol_decimal: '6107'
+  symbol_hex: 17DB
+KMF:
+  alpha3: KMF
+  decimals: 0
+  langEN: Comoro franc
+  langIT: Franco delle Comore
+  number: 174
+  symbol_decimal: 67;70
+  symbol_hex: 0043;0046
+KPW:
+  alpha3: KPW
+  decimals: 2
+  langEN: North Korean won
+  langIT: Won Nordcoreano
+  number: 408
+  symbol_decimal: '8361'
+  symbol_hex: 20A9
+KRW:
+  alpha3: KRW
+  decimals: 0
+  langEN: South Korean won
+  langIT: Won
+  number: 410
+  symbol_decimal: '8361'
+  symbol_hex: 20A9
+KWD:
+  alpha3: KWD
+  decimals: 3
+  langEN: Kuwaiti dinar
+  langIT: Dinaro Kuwaitiano
+  number: 414
+  symbol_decimal: 1583;46;1603
+  symbol_hex: 062F;002E;0643
+KYD:
+  alpha3: KYD
+  decimals: 2
+  langEN: Cayman Islands dollar
+  langIT: Dollaro delle Isole Cayman
+  number: 136
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+KZT:
+  alpha3: KZT
+  decimals: 2
+  langEN: Kazakhstani tenge
+  langIT: Tenge
+  number: 398
+  symbol_decimal: 1083;1074
+  symbol_hex: 043B;0432
+LAK:
+  alpha3: LAK
+  decimals: 2
+  langEN: Lao kip
+  langIT: Kip
+  number: 418
+  symbol_decimal: '8365'
+  symbol_hex: 20AD
+LBP:
+  alpha3: LBP
+  decimals: 2
+  langEN: Lebanese pound
+  langIT: Libbra libanese
+  number: 422
+  symbol_decimal: '163'
+  symbol_hex: 00A3
+LKR:
+  alpha3: LKR
+  decimals: 2
+  langEN: Sri Lankan rupee
+  langIT: Rupia dello Sri Lanka
+  number: 144
+  symbol_decimal: '8360'
+  symbol_hex: 20A8
+LRD:
+  alpha3: LRD
+  decimals: 2
+  langEN: Liberian dollar
+  langIT: Dollaro Liberiano
+  number: 430
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+LSL:
+  alpha3: LSL
+  decimals: 2
+  langEN: Lesotho loti
+  langIT: Loti
+  number: 426
+  symbol_decimal: '76'
+  symbol_hex: 004C
+LYD:
+  alpha3: LYD
+  decimals: 3
+  langEN: Libyan dinar
+  langIT: Dinaro Libico
+  number: 434
+  symbol_decimal: 1604;46;1583
+  symbol_hex: 0644;002E;062F
+MAD:
+  alpha3: MAD
+  decimals: 2
+  langEN: Moroccan dirham
+  langIT: Dirham Marocchino
+  number: 504
+  symbol_decimal: 77;65;68
+  symbol_hex: 004D;0041;0044
+MDL:
+  alpha3: MDL
+  decimals: 2
+  langEN: Moldovan leu
+  langIT: Leu Moldavo
+  number: 498
+  symbol_decimal: '76'
+  symbol_hex: 004C
+MGA:
+  alpha3: MGA
+  decimals: 1
+  langEN: Malagasy ariary
+  langIT: Ariary Malgascio
+  number: 969
+  symbol_decimal: 65;114
+  symbol_hex: 0041;0072
+MKD:
+  alpha3: MKD
+  decimals: 2
+  langEN: Macedonian denar
+  langIT: Denar
+  number: 807
+  symbol_decimal: 1076;1077;1085
+  symbol_hex: 0434;0435;043D
+MMK:
+  alpha3: MMK
+  decimals: 2
+  langEN: Burmese kyat
+  langIT: Kyat
+  number: 104
+  symbol_decimal: '75'
+  symbol_hex: 004B
+MNT:
+  alpha3: MNT
+  decimals: 2
+  langEN: "Mongolian t\xF6gr\xF6g"
+  langIT: Tugrik
+  number: 496
+  symbol_decimal: '8366'
+  symbol_hex: 20AE
+MOP:
+  alpha3: MOP
+  decimals: 2
+  langEN: Macanese pataca
+  langIT: Pataca
+  number: 446
+  symbol_decimal: 77;79;80;36
+  symbol_hex: 004D;004F;0050;0024
+MRU:
+  alpha3: MRU
+  decimals: 1
+  langEN: Mauritanian ouguiya
+  langIT: Rupia Mauriziana
+  number: 929
+  symbol_decimal: 85;77
+  symbol_hex: 0055;004D
+MUR:
+  alpha3: MUR
+  decimals: 2
+  langEN: Mauritian rupee
+  langIT: Rupia delle Mauritius
+  number: 480
+  symbol_decimal: '8360'
+  symbol_hex: 20A8
+MVR:
+  alpha3: MVR
+  decimals: 2
+  langEN: Maldivian rufiyaa
+  langIT: Rufiyaa
+  number: 462
+  symbol_decimal: 45;1923
+  symbol_hex: 002D;0783
+MWK:
+  alpha3: MWK
+  decimals: 2
+  langEN: Malawian kwacha
+  langIT: Kwacha
+  number: 454
+  symbol_decimal: 77;75
+  symbol_hex: 004D;004B
+MXN:
+  alpha3: MXN
+  decimals: 2
+  langEN: Mexican peso
+  langIT: Peso Messicano
+  number: 484
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+MYR:
+  alpha3: MYR
+  decimals: 2
+  langEN: Malaysian ringgit
+  langIT: Ringgit Malese
+  number: 458
+  symbol_decimal: 82;77
+  symbol_hex: 0052;004D
+MZN:
+  alpha3: MZN
+  decimals: 2
+  langEN: Mozambican metical
+  langIT: Metical Mozambicano
+  number: 943
+  symbol_decimal: 77;84
+  symbol_hex: 004D;0054
+NAD:
+  alpha3: NAD
+  decimals: 2
+  langEN: Namibian dollar
+  langIT: Dollaro Namibiano
+  number: 516
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+NGN:
+  alpha3: NGN
+  decimals: 2
+  langEN: Nigerian naira
+  langIT: Naira
+  number: 566
+  symbol_decimal: '8358'
+  symbol_hex: 20A6
+NIO:
+  alpha3: NIO
+  decimals: 2
+  langEN: "Nicaraguan c\xF3rdoba"
+  langIT: Cordoba Oro
+  number: 558
+  symbol_decimal: 67;36
+  symbol_hex: 0043;0024
+NOK:
+  alpha3: NOK
+  decimals: 2
+  langEN: Norwegian krone
+  langIT: Corona norvegese
+  number: 578
+  symbol_decimal: 107;114
+  symbol_hex: 006B;0072
+NPR:
+  alpha3: NPR
+  decimals: 2
+  langEN: Nepalese rupee
+  langIT: Rupia nepalese
+  number: 524
+  symbol_decimal: '8360'
+  symbol_hex: 20A8
+NZD:
+  alpha3: NZD
+  decimals: 2
+  langEN: New Zealand dollar
+  langIT: Dollaro neozelandese
+  number: 554
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+OMR:
+  alpha3: OMR
+  decimals: 3
+  langEN: Omani rial
+  langIT: Rial Omani
+  number: 512
+  symbol_decimal: '65020'
+  symbol_hex: FDFC
+PAB:
+  alpha3: PAB
+  decimals: 2
+  langEN: Panamanian balboa
+  langIT: Balboa
+  number: 590
+  symbol_decimal: 66;47;46
+  symbol_hex: 0042;002F;002E
+PEN:
+  alpha3: PEN
+  decimals: 2
+  langEN: Peruvian sol
+  langIT: Nuevo Sol
+  number: 604
+  symbol_decimal: 83;47;46
+  symbol_hex: 0053;002F;002E
+PGK:
+  alpha3: PGK
+  decimals: 2
+  langEN: Papua New Guinean kina
+  langIT: Kina
+  number: 598
+  symbol_decimal: '75'
+  symbol_hex: 004B
+PHP:
+  alpha3: PHP
+  decimals: 2
+  langEN: Philippine peso
+  langIT: Peso filippino
+  number: 608
+  symbol_decimal: '8369'
+  symbol_hex: 20B1
+PKR:
+  alpha3: PKR
+  decimals: 2
+  langEN: Pakistani rupee
+  langIT: Rupia pakistana
+  number: 586
+  symbol_decimal: '8360'
+  symbol_hex: 20A8
+PLN:
+  alpha3: PLN
+  decimals: 2
+  langEN: "Polish z\u0142oty"
+  langIT: Zloty
+  number: 985
+  symbol_decimal: 122;322
+  symbol_hex: 007A;0142
+PYG:
+  alpha3: PYG
+  decimals: 0
+  langEN: "Paraguayan guaran\xED"
+  langIT: Guarani
+  number: 600
+  symbol_decimal: 71;115
+  symbol_hex: 0047;0073
+QAR:
+  alpha3: QAR
+  decimals: 2
+  langEN: Qatari riyal
+  langIT: Rial del Qatar
+  number: 634
+  symbol_decimal: '65020'
+  symbol_hex: FDFC
+RON:
+  alpha3: RON
+  decimals: 2
+  langEN: Romanian leu
+  langIT: Leu rumeno
+  number: 946
+  symbol_decimal: 108;101;105
+  symbol_hex: 006C;0065;0069
+RSD:
+  alpha3: RSD
+  decimals: 2
+  langEN: Serbian dinar
+  langIT: Dinaro serbo
+  number: 941
+  symbol_decimal: 1044;1080;1085;46
+  symbol_hex: 0414;0438;043D;002E
+RUB:
+  alpha3: RUB
+  decimals: 2
+  langEN: Russian ruble
+  langIT: Rublo russo
+  number: 643
+  symbol_decimal: 1088;1091;1073
+  symbol_hex: 0440;0443;0431
+RWF:
+  alpha3: RWF
+  decimals: 0
+  langEN: Rwandan franc
+  langIT: Franco ruandese
+  number: 646
+  symbol_decimal: 70;82;119
+  symbol_hex: 0046;0052;0077
+SAR:
+  alpha3: SAR
+  decimals: 2
+  langEN: Saudi riyal
+  langIT: Riyal saudita
+  number: 682
+  symbol_decimal: '65020'
+  symbol_hex: FDFC
+SBD:
+  alpha3: SBD
+  decimals: 2
+  langEN: Solomon Islands dollar
+  langIT: Dollaro delle Isole Salomone
+  number: 90
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+SCR:
+  alpha3: SCR
+  decimals: 2
+  langEN: Seychelles rupee
+  langIT: Rupia delle Seychelles
+  number: 690
+  symbol_decimal: '8360'
+  symbol_hex: 20A8
+SDG:
+  alpha3: SDG
+  decimals: 2
+  langEN: Sudanese pound
+  langIT: Sterlina sudanese
+  number: 938
+  symbol_decimal: 1580;46;1587
+  symbol_hex: 062C;002E;0633
+SEK:
+  alpha3: SEK
+  decimals: 2
+  langEN: Swedish krona/kronor
+  langIT: Corona svedese
+  number: 752
+  symbol_decimal: 107;114
+  symbol_hex: 006B;0072
+SGD:
+  alpha3: SGD
+  decimals: 2
+  langEN: Singapore dollar
+  langIT: Dollaro di Singapore
+  number: 702
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+SHP:
+  alpha3: SHP
+  decimals: 2
+  langEN: Saint Helena pound
+  langIT: Saint Helena Pound
+  number: 654
+  symbol_decimal: '163'
+  symbol_hex: 00A3
+SLE:
+  alpha3: SLE
+  decimals: 2
+  langEN: Sierra Leonean new leone
+  langIT: Nuovo leone
+  number: 925
+  symbol_decimal: 76;101
+  symbol_hex: 004C;0065
+SLL:
+  alpha3: SLL
+  decimals: 2
+  langEN: Sierra Leonean old leone
+  langIT: Vecchia leone
+  number: 694
+  symbol_decimal: 76;101
+  symbol_hex: 004C;0065
+SOS:
+  alpha3: SOS
+  decimals: 2
+  langEN: Somali shilling
+  langIT: Scellino somalo
+  number: 706
+  symbol_decimal: '83'
+  symbol_hex: '0053'
+SRD:
+  alpha3: SRD
+  decimals: 2
+  langEN: Surinamese dollar
+  langIT: Dollaro del Suriname
+  number: 968
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+SSP:
+  alpha3: SSP
+  decimals: 2
+  langEN: South Sudanese pound
+  langIT: Sterlina sud-sudanese
+  number: 728
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+STN:
+  alpha3: STN
+  decimals: 2
+  langEN: "S\xE3o Tom\xE9 and Pr\xEDncipe dobra"
+  langIT: "Dobra di S\xE3o Tom\xE9 e Principe"
+  number: 930
+  symbol_decimal: 68;98
+  symbol_hex: 0044;0062
+SVC:
+  alpha3: SVC
+  decimals: 2
+  langEN: "Salvadoran col\xF3n"
+  langIT: "Col\xF3n Salvadoregno"
+  number: 222
+  symbol_decimal: 20A1
+  symbol_hex: '8353'
+SYP:
+  alpha3: SYP
+  decimals: 2
+  langEN: Syrian pound
+  langIT: Sterlina siriana
+  number: 760
+  symbol_decimal: '163'
+  symbol_hex: 00A3
+SZL:
+  alpha3: SZL
+  decimals: 2
+  langEN: Swazi lilangeni
+  langIT: Lilangeni
+  number: 748
+  symbol_decimal: '76'
+  symbol_hex: 004C
+THB:
+  alpha3: THB
+  decimals: 2
+  langEN: Thai baht
+  langIT: Baht
+  number: 764
+  symbol_decimal: '3647'
+  symbol_hex: 0E3F
+TJS:
+  alpha3: TJS
+  decimals: 2
+  langEN: Tajikistani somoni
+  langIT: Somoni
+  number: 972
+  symbol_decimal: '1057'
+  symbol_hex: '0421'
+TMT:
+  alpha3: TMT
+  decimals: 2
+  langEN: Turkmenistani manat
+  langIT: Manat turkmeno
+  number: 934
+  symbol_decimal: '84'
+  symbol_hex: '0054'
+TND:
+  alpha3: TND
+  decimals: 3
+  langEN: Tunisian dinar
+  langIT: Dinaro tunisino
+  number: 788
+  symbol_decimal: 1583;46;1578
+  symbol_hex: 062F;002E;062A
+TOP:
+  alpha3: TOP
+  decimals: 2
+  langEN: Tongan pa'anga
+  langIT: Pa'anga
+  number: 776
+  symbol_decimal: 84;36
+  symbol_hex: 0054;0024
+TRY:
+  alpha3: TRY
+  decimals: 2
+  langEN: Turkish lira
+  langIT: Lira turca
+  number: 949
+  symbol_decimal: '8378'
+  symbol_hex: 20BA
+TTD:
+  alpha3: TTD
+  decimals: 2
+  langEN: Trinidad and Tobago dollar
+  langIT: Dollaro di Trinidad e Tobago
+  number: 780
+  symbol_decimal: 84;84;36
+  symbol_hex: 0054;0054;0024
+TWD:
+  alpha3: TWD
+  decimals: 2
+  langEN: New Taiwan dollar
+  langIT: Nuovo dollaro di Taiwan
+  number: 901
+  symbol_decimal: 78;84;36
+  symbol_hex: 004E;0054;0024
+TZS:
+  alpha3: TZS
+  decimals: 2
+  langEN: Tanzanian shilling
+  langIT: Scellino tanzaniano
+  number: 834
+  symbol_decimal: 84;83;104
+  symbol_hex: 0054;0053;0068
+UAH:
+  alpha3: UAH
+  decimals: 2
+  langEN: Ukrainian hryvnia
+  langIT: Hryvnia
+  number: 980
+  symbol_decimal: '8372'
+  symbol_hex: 20B4
+UGX:
+  alpha3: UGX
+  decimals: 0
+  langEN: Ugandan shilling
+  langIT: Scellino dell'Uganda
+  number: 800
+  symbol_decimal: 85;83;104
+  symbol_hex: 0055;0053;0068
+USD:
+  alpha3: USD
+  decimals: 2
+  langEN: United States dollar
+  langIT: Dollaro Americano
+  number: 840
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+UYU:
+  alpha3: UYU
+  decimals: 2
+  langEN: Uruguayan peso
+  langIT: Peso Uruguayo
+  number: 858
+  symbol_decimal: 36;85
+  symbol_hex: 0024;0055
+UZS:
+  alpha3: UZS
+  decimals: 2
+  langEN: Uzbekistan som
+  langIT: Sum dell'Uzbekistan
+  number: 860
+  symbol_decimal: 1083;1074
+  symbol_hex: 043B;0432
+VED:
+  alpha3: VED
+  decimals: 2
+  langEN: "Venezuelan digital bol\xEDvar"
+  langIT: "Bol\xEDvar digitale venezuelano"
+  number: 926
+  symbol_decimal: 66;115;46;68
+  symbol_hex: 0042;0073;002E;0044
+VES:
+  alpha3: VES
+  decimals: 2
+  langEN: "Venezuelan sovereign bol\xEDvar"
+  langIT: "Bol\xEDvar sovrano venezuelano"
+  number: 928
+  symbol_decimal: 66;115;46;83
+  symbol_hex: 0042;0073;002E;0053
+VND:
+  alpha3: VND
+  decimals: 0
+  langEN: "Vietnamese \u0111\u1ED3ng"
+  langIT: Dong
+  number: 704
+  symbol_decimal: '8363'
+  symbol_hex: 20AB
+VUV:
+  alpha3: VUV
+  decimals: 0
+  langEN: Vanuatu vatu
+  langIT: Vatu
+  number: 548
+  symbol_decimal: 86;84
+  symbol_hex: 0056;0054
+WST:
+  alpha3: WST
+  decimals: 2
+  langEN: Samoan tala
+  langIT: Tala
+  number: 882
+  symbol_decimal: 87;83;36
+  symbol_hex: 0057;0053;0024
+XAF:
+  alpha3: XAF
+  decimals: 0
+  langEN: CFA franc BEAC
+  langIT: CFA Franco BEAC
+  number: 950
+  symbol_decimal: 70;67;70;65
+  symbol_hex: 0046;0043;0046;0041
+XCD:
+  alpha3: XCD
+  decimals: 2
+  langEN: East Caribbean dollar
+  langIT: Dollaro caraibico orientale
+  number: 951
+  symbol_decimal: '36'
+  symbol_hex: '0024'
+XOF:
+  alpha3: XOF
+  decimals: 0
+  langEN: CFA franc BCEAO
+  langIT: CFA Franco BCEAO
+  number: 952
+  symbol_decimal: 70;67;70;65
+  symbol_hex: 0046;0043;0046;0041
+XPF:
+  alpha3: XPF
+  decimals: 0
+  langEN: CFP franc (franc Pacifique)
+  langIT: Franco CFP
+  number: 953
+  symbol_decimal: '70'
+  symbol_hex: '0046'
+XXX:
+  alpha3: XXX
+  decimals: 0
+  langEN: No currency
+  langIT: Nessuna valuta
+  number: 999
+  symbol_decimal: null
+  symbol_hex: null
+YER:
+  alpha3: YER
+  decimals: 2
+  langEN: Yemeni rial
+  langIT: Rial Yemenita
+  number: 886
+  symbol_decimal: '65020'
+  symbol_hex: FDFC
+ZAR:
+  alpha3: ZAR
+  decimals: 2
+  langEN: South African rand
+  langIT: Rand
+  number: 710
+  symbol_decimal: '82'
+  symbol_hex: '0052'
+ZMW:
+  alpha3: ZMW
+  decimals: 2
+  langEN: Zambian kwacha
+  langIT: Kwacha dello Zambia
+  number: 967
+  symbol_decimal: 90;36
+  symbol_hex: 005A;0024
+ZWL:
+  alpha3: ZWL
+  decimals: 2
+  langEN: Zimbabwean dollar
+  langIT: Dollaro dello Zimbabwe
+  number: 932
+  symbol_decimal: '36'
+  symbol_hex: '0024'

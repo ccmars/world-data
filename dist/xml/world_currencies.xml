@@ -1,0 +1,1428 @@
+<?xml version="1.0" ?>
+<currencies>
+  <!--World Currencies (ISO 4217)-->
+  <!--XML | v3.0.0 (2024)-->
+  <!--https://github.com/ccmars/world-data-->
+  <AED>
+    <number>784</number>
+    <alpha3>AED</alpha3>
+    <decimals>2</decimals>
+    <langEN>United Arab Emirates dirham</langEN>
+    <langIT>Dirham degli Emirati Arabi Uniti</langIT>
+    <symbol_decimal>1583;46;1573</symbol_decimal>
+    <symbol_hex>062F;002E;0625</symbol_hex>
+  </AED>
+  <AFN>
+    <number>971</number>
+    <alpha3>AFN</alpha3>
+    <decimals>2</decimals>
+    <langEN>Afghan afghani</langEN>
+    <langIT>Afghani</langIT>
+    <symbol_decimal>1547</symbol_decimal>
+    <symbol_hex>060B</symbol_hex>
+  </AFN>
+  <ALL>
+    <number>8</number>
+    <alpha3>ALL</alpha3>
+    <decimals>2</decimals>
+    <langEN>Albanian lek</langEN>
+    <langIT>Lek</langIT>
+    <symbol_decimal>76;101;107</symbol_decimal>
+    <symbol_hex>004C;0065;006B</symbol_hex>
+  </ALL>
+  <AMD>
+    <number>51</number>
+    <alpha3>AMD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Armenian dram</langEN>
+    <langIT>Dram Armeno</langIT>
+    <symbol_decimal>1423</symbol_decimal>
+    <symbol_hex>058F</symbol_hex>
+  </AMD>
+  <ANG>
+    <number>532</number>
+    <alpha3>ANG</alpha3>
+    <decimals>2</decimals>
+    <langEN>Netherlands Antillean guilder</langEN>
+    <langIT>Fiorino delle Antille olandesi</langIT>
+    <symbol_decimal>402</symbol_decimal>
+    <symbol_hex>0192</symbol_hex>
+  </ANG>
+  <AOA>
+    <number>973</number>
+    <alpha3>AOA</alpha3>
+    <decimals>2</decimals>
+    <langEN>Angolan kwanza</langEN>
+    <langIT>Kwanza</langIT>
+    <symbol_decimal>75;122</symbol_decimal>
+    <symbol_hex>004B;007A</symbol_hex>
+  </AOA>
+  <ARS>
+    <number>32</number>
+    <alpha3>ARS</alpha3>
+    <decimals>2</decimals>
+    <langEN>Argentine peso</langEN>
+    <langIT>Peso Argentino</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </ARS>
+  <AUD>
+    <number>36</number>
+    <alpha3>AUD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Australian dollar</langEN>
+    <langIT>Dollaro australiano</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </AUD>
+  <AWG>
+    <number>533</number>
+    <alpha3>AWG</alpha3>
+    <decimals>2</decimals>
+    <langEN>Aruban florin</langEN>
+    <langIT>Fiorino Aruba</langIT>
+    <symbol_decimal>402</symbol_decimal>
+    <symbol_hex>0192</symbol_hex>
+  </AWG>
+  <AZN>
+    <number>944</number>
+    <alpha3>AZN</alpha3>
+    <decimals>2</decimals>
+    <langEN>Azerbaijani manat</langEN>
+    <langIT>Manat dell'Azerbaigian</langIT>
+    <symbol_decimal>1084;1072;1085</symbol_decimal>
+    <symbol_hex>043C;0430;043D</symbol_hex>
+  </AZN>
+  <BAM>
+    <number>977</number>
+    <alpha3>BAM</alpha3>
+    <decimals>2</decimals>
+    <langEN>Bosnia and Herzegovina convertible mark</langEN>
+    <langIT>Marco Convertibile</langIT>
+    <symbol_decimal>75;77</symbol_decimal>
+    <symbol_hex>004B;004D</symbol_hex>
+  </BAM>
+  <BBD>
+    <number>52</number>
+    <alpha3>BBD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Barbados dollar</langEN>
+    <langIT>Dollaro delle Barbados</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </BBD>
+  <BDT>
+    <number>50</number>
+    <alpha3>BDT</alpha3>
+    <decimals>2</decimals>
+    <langEN>Bangladeshi taka</langEN>
+    <langIT>Taka</langIT>
+    <symbol_decimal>2547</symbol_decimal>
+    <symbol_hex>09F3</symbol_hex>
+  </BDT>
+  <BGN>
+    <number>975</number>
+    <alpha3>BGN</alpha3>
+    <decimals>2</decimals>
+    <langEN>Bulgarian lev</langEN>
+    <langIT>Lev Bulgaro</langIT>
+    <symbol_decimal>1083;1074</symbol_decimal>
+    <symbol_hex>043B;0432</symbol_hex>
+  </BGN>
+  <BHD>
+    <number>48</number>
+    <alpha3>BHD</alpha3>
+    <decimals>3</decimals>
+    <langEN>Bahraini dinar</langEN>
+    <langIT>Dinaro del Bahrain</langIT>
+    <symbol_decimal>46;1583;46;1576</symbol_decimal>
+    <symbol_hex>002E;062F;002E;0628</symbol_hex>
+  </BHD>
+  <BIF>
+    <number>108</number>
+    <alpha3>BIF</alpha3>
+    <decimals>0</decimals>
+    <langEN>Burundian franc</langEN>
+    <langIT>Burundi Franco</langIT>
+    <symbol_decimal>70;66;117</symbol_decimal>
+    <symbol_hex>0046;0042;0075</symbol_hex>
+  </BIF>
+  <BMD>
+    <number>60</number>
+    <alpha3>BMD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Bermudian dollar</langEN>
+    <langIT>Dollaro delle Bermuda</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </BMD>
+  <BND>
+    <number>96</number>
+    <alpha3>BND</alpha3>
+    <decimals>2</decimals>
+    <langEN>Brunei dollar</langEN>
+    <langIT>Dollaro del Brunei</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </BND>
+  <BOB>
+    <number>68</number>
+    <alpha3>BOB</alpha3>
+    <decimals>2</decimals>
+    <langEN>Boliviano</langEN>
+    <langIT>Boliviano</langIT>
+    <symbol_decimal>36;98</symbol_decimal>
+    <symbol_hex>0024;0062</symbol_hex>
+  </BOB>
+  <BRL>
+    <number>986</number>
+    <alpha3>BRL</alpha3>
+    <decimals>2</decimals>
+    <langEN>Brazilian real</langEN>
+    <langIT>Real Brasiliano</langIT>
+    <symbol_decimal>82;36</symbol_decimal>
+    <symbol_hex>0052;0024</symbol_hex>
+  </BRL>
+  <BSD>
+    <number>44</number>
+    <alpha3>BSD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Bahamian dollar</langEN>
+    <langIT>Dollaro delle Bahamas</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </BSD>
+  <BTN>
+    <number>64</number>
+    <alpha3>BTN</alpha3>
+    <decimals>2</decimals>
+    <langEN>Bhutanese ngultrum</langEN>
+    <langIT>Ngultrum</langIT>
+    <symbol_decimal>78;117</symbol_decimal>
+    <symbol_hex>004E;0075</symbol_hex>
+  </BTN>
+  <BWP>
+    <number>72</number>
+    <alpha3>BWP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Botswana pula</langEN>
+    <langIT>Pula</langIT>
+    <symbol_decimal>80</symbol_decimal>
+    <symbol_hex>0050</symbol_hex>
+  </BWP>
+  <BYN>
+    <number>933</number>
+    <alpha3>BYN</alpha3>
+    <decimals>0</decimals>
+    <langEN>Belarusian ruble</langEN>
+    <langIT>Rublo Bielorusso</langIT>
+    <symbol_decimal>112;46</symbol_decimal>
+    <symbol_hex>0070;002E</symbol_hex>
+  </BYN>
+  <BZD>
+    <number>84</number>
+    <alpha3>BZD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Belize dollar</langEN>
+    <langIT>Dollaro Belize</langIT>
+    <symbol_decimal>66;90;36</symbol_decimal>
+    <symbol_hex>0042;005A;0024</symbol_hex>
+  </BZD>
+  <CAD>
+    <number>124</number>
+    <alpha3>CAD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Canadian dollar</langEN>
+    <langIT>Dollaro Canadese</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </CAD>
+  <CDF>
+    <number>976</number>
+    <alpha3>CDF</alpha3>
+    <decimals>2</decimals>
+    <langEN>Congolese franc</langEN>
+    <langIT>Franco congolese</langIT>
+    <symbol_decimal>70;67</symbol_decimal>
+    <symbol_hex>0046;0043</symbol_hex>
+  </CDF>
+  <CHF>
+    <number>756</number>
+    <alpha3>CHF</alpha3>
+    <decimals>2</decimals>
+    <langEN>Swiss franc</langEN>
+    <langIT>Franco Svizzero</langIT>
+    <symbol_decimal>67;72;70</symbol_decimal>
+    <symbol_hex>0043;0048;0046</symbol_hex>
+  </CHF>
+  <CLP>
+    <number>152</number>
+    <alpha3>CLP</alpha3>
+    <decimals>0</decimals>
+    <langEN>Chilean peso</langEN>
+    <langIT>Peso Cileno</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </CLP>
+  <CNY>
+    <number>156</number>
+    <alpha3>CNY</alpha3>
+    <decimals>2</decimals>
+    <langEN>Renminbi</langEN>
+    <langIT>Yuan Renminbi</langIT>
+    <symbol_decimal>165</symbol_decimal>
+    <symbol_hex>00A5</symbol_hex>
+  </CNY>
+  <COP>
+    <number>170</number>
+    <alpha3>COP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Colombian peso</langEN>
+    <langIT>Peso Colombiano</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </COP>
+  <CRC>
+    <number>188</number>
+    <alpha3>CRC</alpha3>
+    <decimals>2</decimals>
+    <langEN>Costa Rican colon</langEN>
+    <langIT>Colón costaricano</langIT>
+    <symbol_decimal>8353</symbol_decimal>
+    <symbol_hex>20A1</symbol_hex>
+  </CRC>
+  <CUP>
+    <number>192</number>
+    <alpha3>CUP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Cuban peso</langEN>
+    <langIT>Peso cubano</langIT>
+    <symbol_decimal>8369</symbol_decimal>
+    <symbol_hex>20B1</symbol_hex>
+  </CUP>
+  <CVE>
+    <number>132</number>
+    <alpha3>CVE</alpha3>
+    <decimals>0</decimals>
+    <langEN>Cape Verdean escudo</langEN>
+    <langIT>Cabo Verde Escudo</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </CVE>
+  <CZK>
+    <number>203</number>
+    <alpha3>CZK</alpha3>
+    <decimals>2</decimals>
+    <langEN>Czech koruna</langEN>
+    <langIT>Corona Ceca</langIT>
+    <symbol_decimal>75;269</symbol_decimal>
+    <symbol_hex>004B;010D</symbol_hex>
+  </CZK>
+  <DJF>
+    <number>262</number>
+    <alpha3>DJF</alpha3>
+    <decimals>0</decimals>
+    <langEN>Djiboutian franc</langEN>
+    <langIT>Franco del Gibuti</langIT>
+    <symbol_decimal>70;100;106</symbol_decimal>
+    <symbol_hex>0046;0064;006A</symbol_hex>
+  </DJF>
+  <DKK>
+    <number>208</number>
+    <alpha3>DKK</alpha3>
+    <decimals>2</decimals>
+    <langEN>Danish krone</langEN>
+    <langIT>Corona Danese</langIT>
+    <symbol_decimal>107;114</symbol_decimal>
+    <symbol_hex>006B;0072</symbol_hex>
+  </DKK>
+  <DOP>
+    <number>214</number>
+    <alpha3>DOP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Dominican peso</langEN>
+    <langIT>Peso dominicano</langIT>
+    <symbol_decimal>82;68;36</symbol_decimal>
+    <symbol_hex>0052;0044;0024</symbol_hex>
+  </DOP>
+  <DZD>
+    <number>12</number>
+    <alpha3>DZD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Algerian dinar</langEN>
+    <langIT>Dinaro Algerino</langIT>
+    <symbol_decimal>1583;1580</symbol_decimal>
+    <symbol_hex>062F;062C</symbol_hex>
+  </DZD>
+  <EGP>
+    <number>818</number>
+    <alpha3>EGP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Egyptian pound</langEN>
+    <langIT>Sterlina Egiziana</langIT>
+    <symbol_decimal>163</symbol_decimal>
+    <symbol_hex>00A3</symbol_hex>
+  </EGP>
+  <ERN>
+    <number>232</number>
+    <alpha3>ERN</alpha3>
+    <decimals>2</decimals>
+    <langEN>Eritrean nakfa</langEN>
+    <langIT>Nakfa</langIT>
+    <symbol_decimal>1606;1575;1601;1603;1575</symbol_decimal>
+    <symbol_hex>0646;0627;0641;0643;0627</symbol_hex>
+  </ERN>
+  <ETB>
+    <number>230</number>
+    <alpha3>ETB</alpha3>
+    <decimals>2</decimals>
+    <langEN>Ethiopian birr</langEN>
+    <langIT>Birr Etiope</langIT>
+    <symbol_decimal>4709;4653</symbol_decimal>
+    <symbol_hex>1265;122D</symbol_hex>
+  </ETB>
+  <EUR>
+    <number>978</number>
+    <alpha3>EUR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Euro</langEN>
+    <langIT>Euro</langIT>
+    <symbol_decimal>8364</symbol_decimal>
+    <symbol_hex>20AC</symbol_hex>
+  </EUR>
+  <FJD>
+    <number>242</number>
+    <alpha3>FJD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Fiji dollar</langEN>
+    <langIT>Dollaro delle Figi</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </FJD>
+  <FKP>
+    <number>238</number>
+    <alpha3>FKP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Falkland Islands pound</langEN>
+    <langIT>Sterlina delle Falkland</langIT>
+    <symbol_decimal>163</symbol_decimal>
+    <symbol_hex>00A3</symbol_hex>
+  </FKP>
+  <GBP>
+    <number>826</number>
+    <alpha3>GBP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Pound sterling</langEN>
+    <langIT>Sterlina Britannica</langIT>
+    <symbol_decimal>163</symbol_decimal>
+    <symbol_hex>00A3</symbol_hex>
+  </GBP>
+  <GEL>
+    <number>981</number>
+    <alpha3>GEL</alpha3>
+    <decimals>2</decimals>
+    <langEN>Georgian lari</langEN>
+    <langIT>Lari</langIT>
+    <symbol_decimal>8382</symbol_decimal>
+    <symbol_hex>20BE</symbol_hex>
+  </GEL>
+  <GHS>
+    <number>936</number>
+    <alpha3>GHS</alpha3>
+    <decimals>2</decimals>
+    <langEN>Ghanaian cedi</langEN>
+    <langIT>Ghana Cedi</langIT>
+    <symbol_decimal>162</symbol_decimal>
+    <symbol_hex>00A2</symbol_hex>
+  </GHS>
+  <GIP>
+    <number>292</number>
+    <alpha3>GIP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Gibraltar pound</langEN>
+    <langIT>Sterlina di Gibilterra</langIT>
+    <symbol_decimal>163</symbol_decimal>
+    <symbol_hex>00A3</symbol_hex>
+  </GIP>
+  <GMD>
+    <number>270</number>
+    <alpha3>GMD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Gambian dalasi</langEN>
+    <langIT>Dalasi</langIT>
+    <symbol_decimal>68</symbol_decimal>
+    <symbol_hex>0044</symbol_hex>
+  </GMD>
+  <GNF>
+    <number>324</number>
+    <alpha3>GNF</alpha3>
+    <decimals>0</decimals>
+    <langEN>Guinean franc</langEN>
+    <langIT>Franco della Guinea</langIT>
+    <symbol_decimal>70;71</symbol_decimal>
+    <symbol_hex>0046;0047</symbol_hex>
+  </GNF>
+  <GTQ>
+    <number>320</number>
+    <alpha3>GTQ</alpha3>
+    <decimals>2</decimals>
+    <langEN>Guatemalan quetzal</langEN>
+    <langIT>Quetzal</langIT>
+    <symbol_decimal>81</symbol_decimal>
+    <symbol_hex>0051</symbol_hex>
+  </GTQ>
+  <GYD>
+    <number>328</number>
+    <alpha3>GYD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Guyanese dollar</langEN>
+    <langIT>Dollaro della Guyana</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </GYD>
+  <HKD>
+    <number>344</number>
+    <alpha3>HKD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Hong Kong dollar</langEN>
+    <langIT>Dollaro di Hong Kong</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </HKD>
+  <HNL>
+    <number>340</number>
+    <alpha3>HNL</alpha3>
+    <decimals>2</decimals>
+    <langEN>Honduran lempira</langEN>
+    <langIT>Lempira</langIT>
+    <symbol_decimal>76</symbol_decimal>
+    <symbol_hex>004C</symbol_hex>
+  </HNL>
+  <HTG>
+    <number>332</number>
+    <alpha3>HTG</alpha3>
+    <decimals>2</decimals>
+    <langEN>Haitian gourde</langEN>
+    <langIT>Gourde</langIT>
+    <symbol_decimal>71</symbol_decimal>
+    <symbol_hex>0047</symbol_hex>
+  </HTG>
+  <HUF>
+    <number>348</number>
+    <alpha3>HUF</alpha3>
+    <decimals>2</decimals>
+    <langEN>Hungarian forint</langEN>
+    <langIT>Fiorino</langIT>
+    <symbol_decimal>70;116</symbol_decimal>
+    <symbol_hex>0046;0074</symbol_hex>
+  </HUF>
+  <IDR>
+    <number>360</number>
+    <alpha3>IDR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Indonesian rupiah</langEN>
+    <langIT>Rupia</langIT>
+    <symbol_decimal>82;112</symbol_decimal>
+    <symbol_hex>0052;0070</symbol_hex>
+  </IDR>
+  <ILS>
+    <number>376</number>
+    <alpha3>ILS</alpha3>
+    <decimals>2</decimals>
+    <langEN>Israeli new shekel</langEN>
+    <langIT>Nuovo Shekel Israeliano</langIT>
+    <symbol_decimal>8362</symbol_decimal>
+    <symbol_hex>20AA</symbol_hex>
+  </ILS>
+  <INR>
+    <number>356</number>
+    <alpha3>INR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Indian rupee</langEN>
+    <langIT>Rupia indiana</langIT>
+    <symbol_decimal>8377</symbol_decimal>
+    <symbol_hex>20B9</symbol_hex>
+  </INR>
+  <IQD>
+    <number>368</number>
+    <alpha3>IQD</alpha3>
+    <decimals>3</decimals>
+    <langEN>Iraqi dinar</langEN>
+    <langIT>Dinaro Iracheno</langIT>
+    <symbol_decimal>1593;46;1583</symbol_decimal>
+    <symbol_hex>0639;002E;062F</symbol_hex>
+  </IQD>
+  <IRR>
+    <number>364</number>
+    <alpha3>IRR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Iranian rial</langEN>
+    <langIT>Riyal Iraniano</langIT>
+    <symbol_decimal>65020</symbol_decimal>
+    <symbol_hex>FDFC</symbol_hex>
+  </IRR>
+  <ISK>
+    <number>352</number>
+    <alpha3>ISK</alpha3>
+    <decimals>0</decimals>
+    <langEN>Icelandic króna</langEN>
+    <langIT>Corona Islandese</langIT>
+    <symbol_decimal>107;114</symbol_decimal>
+    <symbol_hex>006B;0072</symbol_hex>
+  </ISK>
+  <JMD>
+    <number>388</number>
+    <alpha3>JMD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Jamaican dollar</langEN>
+    <langIT>Dollaro giamaicano</langIT>
+    <symbol_decimal>74;36</symbol_decimal>
+    <symbol_hex>004A;0024</symbol_hex>
+  </JMD>
+  <JOD>
+    <number>400</number>
+    <alpha3>JOD</alpha3>
+    <decimals>3</decimals>
+    <langEN>Jordanian dinar</langEN>
+    <langIT>Dinaro giordano</langIT>
+    <symbol_decimal>1583;1610;1606;1575;1585</symbol_decimal>
+    <symbol_hex>062F;064A;0646;0627;0631</symbol_hex>
+  </JOD>
+  <JPY>
+    <number>392</number>
+    <alpha3>JPY</alpha3>
+    <decimals>0</decimals>
+    <langEN>Japanese yen</langEN>
+    <langIT>Yen</langIT>
+    <symbol_decimal>165</symbol_decimal>
+    <symbol_hex>00A5</symbol_hex>
+  </JPY>
+  <KES>
+    <number>404</number>
+    <alpha3>KES</alpha3>
+    <decimals>2</decimals>
+    <langEN>Kenyan shilling</langEN>
+    <langIT>Scellino Keniota</langIT>
+    <symbol_decimal>75;83;104</symbol_decimal>
+    <symbol_hex>004B;0053;0068</symbol_hex>
+  </KES>
+  <KGS>
+    <number>417</number>
+    <alpha3>KGS</alpha3>
+    <decimals>2</decimals>
+    <langEN>Kyrgyzstani som</langEN>
+    <langIT>Som</langIT>
+    <symbol_decimal>1083;1074</symbol_decimal>
+    <symbol_hex>043B;0432</symbol_hex>
+  </KGS>
+  <KHR>
+    <number>116</number>
+    <alpha3>KHR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Cambodian riel</langEN>
+    <langIT>Riel</langIT>
+    <symbol_decimal>6107</symbol_decimal>
+    <symbol_hex>17DB</symbol_hex>
+  </KHR>
+  <KMF>
+    <number>174</number>
+    <alpha3>KMF</alpha3>
+    <decimals>0</decimals>
+    <langEN>Comoro franc</langEN>
+    <langIT>Franco delle Comore</langIT>
+    <symbol_decimal>67;70</symbol_decimal>
+    <symbol_hex>0043;0046</symbol_hex>
+  </KMF>
+  <KPW>
+    <number>408</number>
+    <alpha3>KPW</alpha3>
+    <decimals>2</decimals>
+    <langEN>North Korean won</langEN>
+    <langIT>Won Nordcoreano</langIT>
+    <symbol_decimal>8361</symbol_decimal>
+    <symbol_hex>20A9</symbol_hex>
+  </KPW>
+  <KRW>
+    <number>410</number>
+    <alpha3>KRW</alpha3>
+    <decimals>0</decimals>
+    <langEN>South Korean won</langEN>
+    <langIT>Won</langIT>
+    <symbol_decimal>8361</symbol_decimal>
+    <symbol_hex>20A9</symbol_hex>
+  </KRW>
+  <KWD>
+    <number>414</number>
+    <alpha3>KWD</alpha3>
+    <decimals>3</decimals>
+    <langEN>Kuwaiti dinar</langEN>
+    <langIT>Dinaro Kuwaitiano</langIT>
+    <symbol_decimal>1583;46;1603</symbol_decimal>
+    <symbol_hex>062F;002E;0643</symbol_hex>
+  </KWD>
+  <KYD>
+    <number>136</number>
+    <alpha3>KYD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Cayman Islands dollar</langEN>
+    <langIT>Dollaro delle Isole Cayman</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </KYD>
+  <KZT>
+    <number>398</number>
+    <alpha3>KZT</alpha3>
+    <decimals>2</decimals>
+    <langEN>Kazakhstani tenge</langEN>
+    <langIT>Tenge</langIT>
+    <symbol_decimal>1083;1074</symbol_decimal>
+    <symbol_hex>043B;0432</symbol_hex>
+  </KZT>
+  <LAK>
+    <number>418</number>
+    <alpha3>LAK</alpha3>
+    <decimals>2</decimals>
+    <langEN>Lao kip</langEN>
+    <langIT>Kip</langIT>
+    <symbol_decimal>8365</symbol_decimal>
+    <symbol_hex>20AD</symbol_hex>
+  </LAK>
+  <LBP>
+    <number>422</number>
+    <alpha3>LBP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Lebanese pound</langEN>
+    <langIT>Libbra libanese</langIT>
+    <symbol_decimal>163</symbol_decimal>
+    <symbol_hex>00A3</symbol_hex>
+  </LBP>
+  <LKR>
+    <number>144</number>
+    <alpha3>LKR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Sri Lankan rupee</langEN>
+    <langIT>Rupia dello Sri Lanka</langIT>
+    <symbol_decimal>8360</symbol_decimal>
+    <symbol_hex>20A8</symbol_hex>
+  </LKR>
+  <LRD>
+    <number>430</number>
+    <alpha3>LRD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Liberian dollar</langEN>
+    <langIT>Dollaro Liberiano</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </LRD>
+  <LSL>
+    <number>426</number>
+    <alpha3>LSL</alpha3>
+    <decimals>2</decimals>
+    <langEN>Lesotho loti</langEN>
+    <langIT>Loti</langIT>
+    <symbol_decimal>76</symbol_decimal>
+    <symbol_hex>004C</symbol_hex>
+  </LSL>
+  <LYD>
+    <number>434</number>
+    <alpha3>LYD</alpha3>
+    <decimals>3</decimals>
+    <langEN>Libyan dinar</langEN>
+    <langIT>Dinaro Libico</langIT>
+    <symbol_decimal>1604;46;1583</symbol_decimal>
+    <symbol_hex>0644;002E;062F</symbol_hex>
+  </LYD>
+  <MAD>
+    <number>504</number>
+    <alpha3>MAD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Moroccan dirham</langEN>
+    <langIT>Dirham Marocchino</langIT>
+    <symbol_decimal>77;65;68</symbol_decimal>
+    <symbol_hex>004D;0041;0044</symbol_hex>
+  </MAD>
+  <MDL>
+    <number>498</number>
+    <alpha3>MDL</alpha3>
+    <decimals>2</decimals>
+    <langEN>Moldovan leu</langEN>
+    <langIT>Leu Moldavo</langIT>
+    <symbol_decimal>76</symbol_decimal>
+    <symbol_hex>004C</symbol_hex>
+  </MDL>
+  <MGA>
+    <number>969</number>
+    <alpha3>MGA</alpha3>
+    <decimals>1</decimals>
+    <langEN>Malagasy ariary</langEN>
+    <langIT>Ariary Malgascio</langIT>
+    <symbol_decimal>65;114</symbol_decimal>
+    <symbol_hex>0041;0072</symbol_hex>
+  </MGA>
+  <MKD>
+    <number>807</number>
+    <alpha3>MKD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Macedonian denar</langEN>
+    <langIT>Denar</langIT>
+    <symbol_decimal>1076;1077;1085</symbol_decimal>
+    <symbol_hex>0434;0435;043D</symbol_hex>
+  </MKD>
+  <MMK>
+    <number>104</number>
+    <alpha3>MMK</alpha3>
+    <decimals>2</decimals>
+    <langEN>Burmese kyat</langEN>
+    <langIT>Kyat</langIT>
+    <symbol_decimal>75</symbol_decimal>
+    <symbol_hex>004B</symbol_hex>
+  </MMK>
+  <MNT>
+    <number>496</number>
+    <alpha3>MNT</alpha3>
+    <decimals>2</decimals>
+    <langEN>Mongolian tögrög</langEN>
+    <langIT>Tugrik</langIT>
+    <symbol_decimal>8366</symbol_decimal>
+    <symbol_hex>20AE</symbol_hex>
+  </MNT>
+  <MOP>
+    <number>446</number>
+    <alpha3>MOP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Macanese pataca</langEN>
+    <langIT>Pataca</langIT>
+    <symbol_decimal>77;79;80;36</symbol_decimal>
+    <symbol_hex>004D;004F;0050;0024</symbol_hex>
+  </MOP>
+  <MRU>
+    <number>929</number>
+    <alpha3>MRU</alpha3>
+    <decimals>1</decimals>
+    <langEN>Mauritanian ouguiya</langEN>
+    <langIT>Rupia Mauriziana</langIT>
+    <symbol_decimal>85;77</symbol_decimal>
+    <symbol_hex>0055;004D</symbol_hex>
+  </MRU>
+  <MUR>
+    <number>480</number>
+    <alpha3>MUR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Mauritian rupee</langEN>
+    <langIT>Rupia delle Mauritius</langIT>
+    <symbol_decimal>8360</symbol_decimal>
+    <symbol_hex>20A8</symbol_hex>
+  </MUR>
+  <MVR>
+    <number>462</number>
+    <alpha3>MVR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Maldivian rufiyaa</langEN>
+    <langIT>Rufiyaa</langIT>
+    <symbol_decimal>45;1923</symbol_decimal>
+    <symbol_hex>002D;0783</symbol_hex>
+  </MVR>
+  <MWK>
+    <number>454</number>
+    <alpha3>MWK</alpha3>
+    <decimals>2</decimals>
+    <langEN>Malawian kwacha</langEN>
+    <langIT>Kwacha</langIT>
+    <symbol_decimal>77;75</symbol_decimal>
+    <symbol_hex>004D;004B</symbol_hex>
+  </MWK>
+  <MXN>
+    <number>484</number>
+    <alpha3>MXN</alpha3>
+    <decimals>2</decimals>
+    <langEN>Mexican peso</langEN>
+    <langIT>Peso Messicano</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </MXN>
+  <MYR>
+    <number>458</number>
+    <alpha3>MYR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Malaysian ringgit</langEN>
+    <langIT>Ringgit Malese</langIT>
+    <symbol_decimal>82;77</symbol_decimal>
+    <symbol_hex>0052;004D</symbol_hex>
+  </MYR>
+  <MZN>
+    <number>943</number>
+    <alpha3>MZN</alpha3>
+    <decimals>2</decimals>
+    <langEN>Mozambican metical</langEN>
+    <langIT>Metical Mozambicano</langIT>
+    <symbol_decimal>77;84</symbol_decimal>
+    <symbol_hex>004D;0054</symbol_hex>
+  </MZN>
+  <NAD>
+    <number>516</number>
+    <alpha3>NAD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Namibian dollar</langEN>
+    <langIT>Dollaro Namibiano</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </NAD>
+  <NGN>
+    <number>566</number>
+    <alpha3>NGN</alpha3>
+    <decimals>2</decimals>
+    <langEN>Nigerian naira</langEN>
+    <langIT>Naira</langIT>
+    <symbol_decimal>8358</symbol_decimal>
+    <symbol_hex>20A6</symbol_hex>
+  </NGN>
+  <NIO>
+    <number>558</number>
+    <alpha3>NIO</alpha3>
+    <decimals>2</decimals>
+    <langEN>Nicaraguan córdoba</langEN>
+    <langIT>Cordoba Oro</langIT>
+    <symbol_decimal>67;36</symbol_decimal>
+    <symbol_hex>0043;0024</symbol_hex>
+  </NIO>
+  <NOK>
+    <number>578</number>
+    <alpha3>NOK</alpha3>
+    <decimals>2</decimals>
+    <langEN>Norwegian krone</langEN>
+    <langIT>Corona norvegese</langIT>
+    <symbol_decimal>107;114</symbol_decimal>
+    <symbol_hex>006B;0072</symbol_hex>
+  </NOK>
+  <NPR>
+    <number>524</number>
+    <alpha3>NPR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Nepalese rupee</langEN>
+    <langIT>Rupia nepalese</langIT>
+    <symbol_decimal>8360</symbol_decimal>
+    <symbol_hex>20A8</symbol_hex>
+  </NPR>
+  <NZD>
+    <number>554</number>
+    <alpha3>NZD</alpha3>
+    <decimals>2</decimals>
+    <langEN>New Zealand dollar</langEN>
+    <langIT>Dollaro neozelandese</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </NZD>
+  <OMR>
+    <number>512</number>
+    <alpha3>OMR</alpha3>
+    <decimals>3</decimals>
+    <langEN>Omani rial</langEN>
+    <langIT>Rial Omani</langIT>
+    <symbol_decimal>65020</symbol_decimal>
+    <symbol_hex>FDFC</symbol_hex>
+  </OMR>
+  <PAB>
+    <number>590</number>
+    <alpha3>PAB</alpha3>
+    <decimals>2</decimals>
+    <langEN>Panamanian balboa</langEN>
+    <langIT>Balboa</langIT>
+    <symbol_decimal>66;47;46</symbol_decimal>
+    <symbol_hex>0042;002F;002E</symbol_hex>
+  </PAB>
+  <PEN>
+    <number>604</number>
+    <alpha3>PEN</alpha3>
+    <decimals>2</decimals>
+    <langEN>Peruvian sol</langEN>
+    <langIT>Nuevo Sol</langIT>
+    <symbol_decimal>83;47;46</symbol_decimal>
+    <symbol_hex>0053;002F;002E</symbol_hex>
+  </PEN>
+  <PGK>
+    <number>598</number>
+    <alpha3>PGK</alpha3>
+    <decimals>2</decimals>
+    <langEN>Papua New Guinean kina</langEN>
+    <langIT>Kina</langIT>
+    <symbol_decimal>75</symbol_decimal>
+    <symbol_hex>004B</symbol_hex>
+  </PGK>
+  <PHP>
+    <number>608</number>
+    <alpha3>PHP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Philippine peso</langEN>
+    <langIT>Peso filippino</langIT>
+    <symbol_decimal>8369</symbol_decimal>
+    <symbol_hex>20B1</symbol_hex>
+  </PHP>
+  <PKR>
+    <number>586</number>
+    <alpha3>PKR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Pakistani rupee</langEN>
+    <langIT>Rupia pakistana</langIT>
+    <symbol_decimal>8360</symbol_decimal>
+    <symbol_hex>20A8</symbol_hex>
+  </PKR>
+  <PLN>
+    <number>985</number>
+    <alpha3>PLN</alpha3>
+    <decimals>2</decimals>
+    <langEN>Polish złoty</langEN>
+    <langIT>Zloty</langIT>
+    <symbol_decimal>122;322</symbol_decimal>
+    <symbol_hex>007A;0142</symbol_hex>
+  </PLN>
+  <PYG>
+    <number>600</number>
+    <alpha3>PYG</alpha3>
+    <decimals>0</decimals>
+    <langEN>Paraguayan guaraní</langEN>
+    <langIT>Guarani</langIT>
+    <symbol_decimal>71;115</symbol_decimal>
+    <symbol_hex>0047;0073</symbol_hex>
+  </PYG>
+  <QAR>
+    <number>634</number>
+    <alpha3>QAR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Qatari riyal</langEN>
+    <langIT>Rial del Qatar</langIT>
+    <symbol_decimal>65020</symbol_decimal>
+    <symbol_hex>FDFC</symbol_hex>
+  </QAR>
+  <RON>
+    <number>946</number>
+    <alpha3>RON</alpha3>
+    <decimals>2</decimals>
+    <langEN>Romanian leu</langEN>
+    <langIT>Leu rumeno</langIT>
+    <symbol_decimal>108;101;105</symbol_decimal>
+    <symbol_hex>006C;0065;0069</symbol_hex>
+  </RON>
+  <RSD>
+    <number>941</number>
+    <alpha3>RSD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Serbian dinar</langEN>
+    <langIT>Dinaro serbo</langIT>
+    <symbol_decimal>1044;1080;1085;46</symbol_decimal>
+    <symbol_hex>0414;0438;043D;002E</symbol_hex>
+  </RSD>
+  <RUB>
+    <number>643</number>
+    <alpha3>RUB</alpha3>
+    <decimals>2</decimals>
+    <langEN>Russian ruble</langEN>
+    <langIT>Rublo russo</langIT>
+    <symbol_decimal>1088;1091;1073</symbol_decimal>
+    <symbol_hex>0440;0443;0431</symbol_hex>
+  </RUB>
+  <RWF>
+    <number>646</number>
+    <alpha3>RWF</alpha3>
+    <decimals>0</decimals>
+    <langEN>Rwandan franc</langEN>
+    <langIT>Franco ruandese</langIT>
+    <symbol_decimal>70;82;119</symbol_decimal>
+    <symbol_hex>0046;0052;0077</symbol_hex>
+  </RWF>
+  <SAR>
+    <number>682</number>
+    <alpha3>SAR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Saudi riyal</langEN>
+    <langIT>Riyal saudita</langIT>
+    <symbol_decimal>65020</symbol_decimal>
+    <symbol_hex>FDFC</symbol_hex>
+  </SAR>
+  <SBD>
+    <number>90</number>
+    <alpha3>SBD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Solomon Islands dollar</langEN>
+    <langIT>Dollaro delle Isole Salomone</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </SBD>
+  <SCR>
+    <number>690</number>
+    <alpha3>SCR</alpha3>
+    <decimals>2</decimals>
+    <langEN>Seychelles rupee</langEN>
+    <langIT>Rupia delle Seychelles</langIT>
+    <symbol_decimal>8360</symbol_decimal>
+    <symbol_hex>20A8</symbol_hex>
+  </SCR>
+  <SDG>
+    <number>938</number>
+    <alpha3>SDG</alpha3>
+    <decimals>2</decimals>
+    <langEN>Sudanese pound</langEN>
+    <langIT>Sterlina sudanese</langIT>
+    <symbol_decimal>1580;46;1587</symbol_decimal>
+    <symbol_hex>062C;002E;0633</symbol_hex>
+  </SDG>
+  <SEK>
+    <number>752</number>
+    <alpha3>SEK</alpha3>
+    <decimals>2</decimals>
+    <langEN>Swedish krona/kronor</langEN>
+    <langIT>Corona svedese</langIT>
+    <symbol_decimal>107;114</symbol_decimal>
+    <symbol_hex>006B;0072</symbol_hex>
+  </SEK>
+  <SGD>
+    <number>702</number>
+    <alpha3>SGD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Singapore dollar</langEN>
+    <langIT>Dollaro di Singapore</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </SGD>
+  <SHP>
+    <number>654</number>
+    <alpha3>SHP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Saint Helena pound</langEN>
+    <langIT>Saint Helena Pound</langIT>
+    <symbol_decimal>163</symbol_decimal>
+    <symbol_hex>00A3</symbol_hex>
+  </SHP>
+  <SLE>
+    <number>925</number>
+    <alpha3>SLE</alpha3>
+    <decimals>2</decimals>
+    <langEN>Sierra Leonean new leone</langEN>
+    <langIT>Nuovo leone</langIT>
+    <symbol_decimal>76;101</symbol_decimal>
+    <symbol_hex>004C;0065</symbol_hex>
+  </SLE>
+  <SLL>
+    <number>694</number>
+    <alpha3>SLL</alpha3>
+    <decimals>2</decimals>
+    <langEN>Sierra Leonean old leone</langEN>
+    <langIT>Vecchia leone</langIT>
+    <symbol_decimal>76;101</symbol_decimal>
+    <symbol_hex>004C;0065</symbol_hex>
+  </SLL>
+  <SOS>
+    <number>706</number>
+    <alpha3>SOS</alpha3>
+    <decimals>2</decimals>
+    <langEN>Somali shilling</langEN>
+    <langIT>Scellino somalo</langIT>
+    <symbol_decimal>83</symbol_decimal>
+    <symbol_hex>0053</symbol_hex>
+  </SOS>
+  <SRD>
+    <number>968</number>
+    <alpha3>SRD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Surinamese dollar</langEN>
+    <langIT>Dollaro del Suriname</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </SRD>
+  <SSP>
+    <number>728</number>
+    <alpha3>SSP</alpha3>
+    <decimals>2</decimals>
+    <langEN>South Sudanese pound</langEN>
+    <langIT>Sterlina sud-sudanese</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </SSP>
+  <STN>
+    <number>930</number>
+    <alpha3>STN</alpha3>
+    <decimals>2</decimals>
+    <langEN>São Tomé and Príncipe dobra</langEN>
+    <langIT>Dobra di São Tomé e Principe</langIT>
+    <symbol_decimal>68;98</symbol_decimal>
+    <symbol_hex>0044;0062</symbol_hex>
+  </STN>
+  <SVC>
+    <number>222</number>
+    <alpha3>SVC</alpha3>
+    <decimals>2</decimals>
+    <langEN>Salvadoran colón</langEN>
+    <langIT>Colón Salvadoregno</langIT>
+    <symbol_decimal>20A1</symbol_decimal>
+    <symbol_hex>8353</symbol_hex>
+  </SVC>
+  <SYP>
+    <number>760</number>
+    <alpha3>SYP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Syrian pound</langEN>
+    <langIT>Sterlina siriana</langIT>
+    <symbol_decimal>163</symbol_decimal>
+    <symbol_hex>00A3</symbol_hex>
+  </SYP>
+  <SZL>
+    <number>748</number>
+    <alpha3>SZL</alpha3>
+    <decimals>2</decimals>
+    <langEN>Swazi lilangeni</langEN>
+    <langIT>Lilangeni</langIT>
+    <symbol_decimal>76</symbol_decimal>
+    <symbol_hex>004C</symbol_hex>
+  </SZL>
+  <THB>
+    <number>764</number>
+    <alpha3>THB</alpha3>
+    <decimals>2</decimals>
+    <langEN>Thai baht</langEN>
+    <langIT>Baht</langIT>
+    <symbol_decimal>3647</symbol_decimal>
+    <symbol_hex>0E3F</symbol_hex>
+  </THB>
+  <TJS>
+    <number>972</number>
+    <alpha3>TJS</alpha3>
+    <decimals>2</decimals>
+    <langEN>Tajikistani somoni</langEN>
+    <langIT>Somoni</langIT>
+    <symbol_decimal>1057</symbol_decimal>
+    <symbol_hex>0421</symbol_hex>
+  </TJS>
+  <TMT>
+    <number>934</number>
+    <alpha3>TMT</alpha3>
+    <decimals>2</decimals>
+    <langEN>Turkmenistani manat</langEN>
+    <langIT>Manat turkmeno</langIT>
+    <symbol_decimal>84</symbol_decimal>
+    <symbol_hex>0054</symbol_hex>
+  </TMT>
+  <TND>
+    <number>788</number>
+    <alpha3>TND</alpha3>
+    <decimals>3</decimals>
+    <langEN>Tunisian dinar</langEN>
+    <langIT>Dinaro tunisino</langIT>
+    <symbol_decimal>1583;46;1578</symbol_decimal>
+    <symbol_hex>062F;002E;062A</symbol_hex>
+  </TND>
+  <TOP>
+    <number>776</number>
+    <alpha3>TOP</alpha3>
+    <decimals>2</decimals>
+    <langEN>Tongan pa'anga</langEN>
+    <langIT>Pa'anga</langIT>
+    <symbol_decimal>84;36</symbol_decimal>
+    <symbol_hex>0054;0024</symbol_hex>
+  </TOP>
+  <TRY>
+    <number>949</number>
+    <alpha3>TRY</alpha3>
+    <decimals>2</decimals>
+    <langEN>Turkish lira</langEN>
+    <langIT>Lira turca</langIT>
+    <symbol_decimal>8378</symbol_decimal>
+    <symbol_hex>20BA</symbol_hex>
+  </TRY>
+  <TTD>
+    <number>780</number>
+    <alpha3>TTD</alpha3>
+    <decimals>2</decimals>
+    <langEN>Trinidad and Tobago dollar</langEN>
+    <langIT>Dollaro di Trinidad e Tobago</langIT>
+    <symbol_decimal>84;84;36</symbol_decimal>
+    <symbol_hex>0054;0054;0024</symbol_hex>
+  </TTD>
+  <TWD>
+    <number>901</number>
+    <alpha3>TWD</alpha3>
+    <decimals>2</decimals>
+    <langEN>New Taiwan dollar</langEN>
+    <langIT>Nuovo dollaro di Taiwan</langIT>
+    <symbol_decimal>78;84;36</symbol_decimal>
+    <symbol_hex>004E;0054;0024</symbol_hex>
+  </TWD>
+  <TZS>
+    <number>834</number>
+    <alpha3>TZS</alpha3>
+    <decimals>2</decimals>
+    <langEN>Tanzanian shilling</langEN>
+    <langIT>Scellino tanzaniano</langIT>
+    <symbol_decimal>84;83;104</symbol_decimal>
+    <symbol_hex>0054;0053;0068</symbol_hex>
+  </TZS>
+  <UAH>
+    <number>980</number>
+    <alpha3>UAH</alpha3>
+    <decimals>2</decimals>
+    <langEN>Ukrainian hryvnia</langEN>
+    <langIT>Hryvnia</langIT>
+    <symbol_decimal>8372</symbol_decimal>
+    <symbol_hex>20B4</symbol_hex>
+  </UAH>
+  <UGX>
+    <number>800</number>
+    <alpha3>UGX</alpha3>
+    <decimals>0</decimals>
+    <langEN>Ugandan shilling</langEN>
+    <langIT>Scellino dell'Uganda</langIT>
+    <symbol_decimal>85;83;104</symbol_decimal>
+    <symbol_hex>0055;0053;0068</symbol_hex>
+  </UGX>
+  <USD>
+    <number>840</number>
+    <alpha3>USD</alpha3>
+    <decimals>2</decimals>
+    <langEN>United States dollar</langEN>
+    <langIT>Dollaro Americano</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </USD>
+  <UYU>
+    <number>858</number>
+    <alpha3>UYU</alpha3>
+    <decimals>2</decimals>
+    <langEN>Uruguayan peso</langEN>
+    <langIT>Peso Uruguayo</langIT>
+    <symbol_decimal>36;85</symbol_decimal>
+    <symbol_hex>0024;0055</symbol_hex>
+  </UYU>
+  <UZS>
+    <number>860</number>
+    <alpha3>UZS</alpha3>
+    <decimals>2</decimals>
+    <langEN>Uzbekistan som</langEN>
+    <langIT>Sum dell'Uzbekistan</langIT>
+    <symbol_decimal>1083;1074</symbol_decimal>
+    <symbol_hex>043B;0432</symbol_hex>
+  </UZS>
+  <VED>
+    <number>926</number>
+    <alpha3>VED</alpha3>
+    <decimals>2</decimals>
+    <langEN>Venezuelan digital bolívar</langEN>
+    <langIT>Bolívar digitale venezuelano</langIT>
+    <symbol_decimal>66;115;46;68</symbol_decimal>
+    <symbol_hex>0042;0073;002E;0044</symbol_hex>
+  </VED>
+  <VES>
+    <number>928</number>
+    <alpha3>VES</alpha3>
+    <decimals>2</decimals>
+    <langEN>Venezuelan sovereign bolívar</langEN>
+    <langIT>Bolívar sovrano venezuelano</langIT>
+    <symbol_decimal>66;115;46;83</symbol_decimal>
+    <symbol_hex>0042;0073;002E;0053</symbol_hex>
+  </VES>
+  <VND>
+    <number>704</number>
+    <alpha3>VND</alpha3>
+    <decimals>0</decimals>
+    <langEN>Vietnamese đồng</langEN>
+    <langIT>Dong</langIT>
+    <symbol_decimal>8363</symbol_decimal>
+    <symbol_hex>20AB</symbol_hex>
+  </VND>
+  <VUV>
+    <number>548</number>
+    <alpha3>VUV</alpha3>
+    <decimals>0</decimals>
+    <langEN>Vanuatu vatu</langEN>
+    <langIT>Vatu</langIT>
+    <symbol_decimal>86;84</symbol_decimal>
+    <symbol_hex>0056;0054</symbol_hex>
+  </VUV>
+  <WST>
+    <number>882</number>
+    <alpha3>WST</alpha3>
+    <decimals>2</decimals>
+    <langEN>Samoan tala</langEN>
+    <langIT>Tala</langIT>
+    <symbol_decimal>87;83;36</symbol_decimal>
+    <symbol_hex>0057;0053;0024</symbol_hex>
+  </WST>
+  <XAF>
+    <number>950</number>
+    <alpha3>XAF</alpha3>
+    <decimals>0</decimals>
+    <langEN>CFA franc BEAC</langEN>
+    <langIT>CFA Franco BEAC</langIT>
+    <symbol_decimal>70;67;70;65</symbol_decimal>
+    <symbol_hex>0046;0043;0046;0041</symbol_hex>
+  </XAF>
+  <XCD>
+    <number>951</number>
+    <alpha3>XCD</alpha3>
+    <decimals>2</decimals>
+    <langEN>East Caribbean dollar</langEN>
+    <langIT>Dollaro caraibico orientale</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </XCD>
+  <XOF>
+    <number>952</number>
+    <alpha3>XOF</alpha3>
+    <decimals>0</decimals>
+    <langEN>CFA franc BCEAO</langEN>
+    <langIT>CFA Franco BCEAO</langIT>
+    <symbol_decimal>70;67;70;65</symbol_decimal>
+    <symbol_hex>0046;0043;0046;0041</symbol_hex>
+  </XOF>
+  <XPF>
+    <number>953</number>
+    <alpha3>XPF</alpha3>
+    <decimals>0</decimals>
+    <langEN>CFP franc (franc Pacifique)</langEN>
+    <langIT>Franco CFP</langIT>
+    <symbol_decimal>70</symbol_decimal>
+    <symbol_hex>0046</symbol_hex>
+  </XPF>
+  <XXX>
+    <number>999</number>
+    <alpha3>XXX</alpha3>
+    <decimals>0</decimals>
+    <langEN>No currency</langEN>
+    <langIT>Nessuna valuta</langIT>
+    <symbol_decimal>None</symbol_decimal>
+    <symbol_hex>None</symbol_hex>
+  </XXX>
+  <YER>
+    <number>886</number>
+    <alpha3>YER</alpha3>
+    <decimals>2</decimals>
+    <langEN>Yemeni rial</langEN>
+    <langIT>Rial Yemenita</langIT>
+    <symbol_decimal>65020</symbol_decimal>
+    <symbol_hex>FDFC</symbol_hex>
+  </YER>
+  <ZAR>
+    <number>710</number>
+    <alpha3>ZAR</alpha3>
+    <decimals>2</decimals>
+    <langEN>South African rand</langEN>
+    <langIT>Rand</langIT>
+    <symbol_decimal>82</symbol_decimal>
+    <symbol_hex>0052</symbol_hex>
+  </ZAR>
+  <ZMW>
+    <number>967</number>
+    <alpha3>ZMW</alpha3>
+    <decimals>2</decimals>
+    <langEN>Zambian kwacha</langEN>
+    <langIT>Kwacha dello Zambia</langIT>
+    <symbol_decimal>90;36</symbol_decimal>
+    <symbol_hex>005A;0024</symbol_hex>
+  </ZMW>
+  <ZWL>
+    <number>932</number>
+    <alpha3>ZWL</alpha3>
+    <decimals>2</decimals>
+    <langEN>Zimbabwean dollar</langEN>
+    <langIT>Dollaro dello Zimbabwe</langIT>
+    <symbol_decimal>36</symbol_decimal>
+    <symbol_hex>0024</symbol_hex>
+  </ZWL>
+</currencies>

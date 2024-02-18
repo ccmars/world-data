@@ -1,0 +1,2493 @@
+# World Countries (ISO 3166)
+# YAML | v3.0.0 (2024)
+# https://github.com/ccmars/world-data
+AD:
+  alpha2: AD
+  alpha3: AND
+  langDE: Andorra
+  langEN: Andorra
+  langES: Andorra
+  langFR: Andorre
+  langIT: Andorra
+  number: 20
+  tld: .ad
+AE:
+  alpha2: AE
+  alpha3: ARE
+  langDE: Vereinigte Arabische Emirate
+  langEN: United Arab Emirates
+  langES: "Emiratos \xC1rabes Unidos"
+  langFR: "\xC9mirats arabes unis"
+  langIT: Emirati Arabi Uniti
+  number: 784
+  tld: .ae
+AF:
+  alpha2: AF
+  alpha3: AFG
+  langDE: Afghanistan
+  langEN: Afghanistan
+  langES: "Afganist\xE1n"
+  langFR: Afghanistan
+  langIT: Afghanistan
+  number: 4
+  tld: .af
+AG:
+  alpha2: AG
+  alpha3: ATG
+  langDE: Antigua und Barbuda
+  langEN: Antigua and Barbuda
+  langES: Antigua y Barbuda
+  langFR: Antigua-et-Barbuda
+  langIT: Antigua e Barbuda
+  number: 28
+  tld: .ag
+AI:
+  alpha2: AI
+  alpha3: AIA
+  langDE: Anguilla
+  langEN: Anguilla
+  langES: Anguila
+  langFR: Anguilla
+  langIT: Anguilla
+  number: 660
+  tld: .ai
+AL:
+  alpha2: AL
+  alpha3: ALB
+  langDE: Albanien
+  langEN: Albania
+  langES: Albania
+  langFR: Albanie
+  langIT: Albania
+  number: 8
+  tld: .al
+AM:
+  alpha2: AM
+  alpha3: ARM
+  langDE: Armenien
+  langEN: Armenia
+  langES: Armenia
+  langFR: "Arm\xE9nie"
+  langIT: Armenia
+  number: 51
+  tld: .am
+AO:
+  alpha2: AO
+  alpha3: AGO
+  langDE: Angola
+  langEN: Angola
+  langES: Angola
+  langFR: Angola
+  langIT: Angola
+  number: 24
+  tld: .ao
+AQ:
+  alpha2: AQ
+  alpha3: ATA
+  langDE: Antarktika
+  langEN: Antarctica
+  langES: "Ant\xE1rtida"
+  langFR: Antarctique
+  langIT: Antartide
+  number: 10
+  tld: .aq
+AR:
+  alpha2: AR
+  alpha3: ARG
+  langDE: Argentinien
+  langEN: Argentina
+  langES: Argentina
+  langFR: Argentine
+  langIT: Argentina
+  number: 32
+  tld: .ar
+AS:
+  alpha2: AS
+  alpha3: ASM
+  langDE: Amerikanisch-Samoa
+  langEN: American Samoa
+  langES: Samoa Americana
+  langFR: "Samoa am\xE9ricaines"
+  langIT: Samoa americane
+  number: 16
+  tld: .as
+AT:
+  alpha2: AT
+  alpha3: AUT
+  langDE: "\xD6sterreich"
+  langEN: Austria
+  langES: Austria
+  langFR: Autriche
+  langIT: Austria
+  number: 40
+  tld: .at
+AU:
+  alpha2: AU
+  alpha3: AUS
+  langDE: Australien
+  langEN: Australia
+  langES: Australia
+  langFR: Australie
+  langIT: Australia
+  number: 36
+  tld: .au
+AW:
+  alpha2: AW
+  alpha3: ABW
+  langDE: Aruba
+  langEN: Aruba
+  langES: Aruba
+  langFR: Aruba
+  langIT: Aruba
+  number: 533
+  tld: .aw
+AX:
+  alpha2: AX
+  alpha3: ALA
+  langDE: "\xC5land"
+  langEN: "\xC5land"
+  langES: "\xC5land"
+  langFR: "\xC5land"
+  langIT: Aland
+  number: 248
+  tld: .ax
+AZ:
+  alpha2: AZ
+  alpha3: AZE
+  langDE: Aserbaidschan
+  langEN: Azerbaijan
+  langES: "Azerbaiy\xE1n"
+  langFR: "Azerba\xEFdjan"
+  langIT: Azerbaigian
+  number: 31
+  tld: .az
+BA:
+  alpha2: BA
+  alpha3: BIH
+  langDE: Bosnien und Herzegowina
+  langEN: Bosnia and Herzegovina
+  langES: Bosnia y Herzegovina
+  langFR: "Bosnie-Herz\xE9govine"
+  langIT: Bosnia Erzegovina
+  number: 70
+  tld: .ba
+BB:
+  alpha2: BB
+  alpha3: BRB
+  langDE: Barbados
+  langEN: Barbados
+  langES: Barbados
+  langFR: Barbade
+  langIT: Barbados
+  number: 52
+  tld: .bb
+BD:
+  alpha2: BD
+  alpha3: BGD
+  langDE: Bangladesch
+  langEN: Bangladesh
+  langES: "Banglad\xE9s"
+  langFR: Bangladesh
+  langIT: Bangladesh
+  number: 50
+  tld: .bd
+BE:
+  alpha2: BE
+  alpha3: BEL
+  langDE: Belgien
+  langEN: Belgium
+  langES: "B\xE9lgica"
+  langFR: Belgique
+  langIT: Belgio
+  number: 56
+  tld: .be
+BF:
+  alpha2: BF
+  alpha3: BFA
+  langDE: Burkina Faso
+  langEN: Burkina Faso
+  langES: Burkina Faso
+  langFR: Burkina Faso
+  langIT: Burkina Faso
+  number: 854
+  tld: .bf
+BG:
+  alpha2: BG
+  alpha3: BGR
+  langDE: Bulgarien
+  langEN: Bulgaria
+  langES: Bulgaria
+  langFR: Bulgarie
+  langIT: Bulgaria
+  number: 100
+  tld: .bg
+BH:
+  alpha2: BH
+  alpha3: BHR
+  langDE: Bahrain
+  langEN: Bahrain
+  langES: "Bar\xE9in"
+  langFR: "Bahre\xEFn"
+  langIT: Bahrein
+  number: 48
+  tld: .bh
+BI:
+  alpha2: BI
+  alpha3: BDI
+  langDE: Burundi
+  langEN: Burundi
+  langES: Burundi
+  langFR: Burundi
+  langIT: Burundi
+  number: 108
+  tld: .bi
+BJ:
+  alpha2: BJ
+  alpha3: BEN
+  langDE: Benin
+  langEN: Benin
+  langES: "Ben\xEDn"
+  langFR: "B\xE9nin"
+  langIT: Benin
+  number: 204
+  tld: .bj
+BL:
+  alpha2: BL
+  alpha3: BLM
+  langDE: "Saint-Barth\xE9lemy"
+  langEN: "Saint Barth\xE9lemy"
+  langES: "San Bartolom\xE9"
+  langFR: "Saint-Barth\xE9lemy"
+  langIT: San Bartolomeo
+  number: 652
+  tld: .bl
+BM:
+  alpha2: BM
+  alpha3: BMU
+  langDE: Bermuda
+  langEN: Bermuda
+  langES: Bermudas
+  langFR: Bermudes
+  langIT: Bermuda
+  number: 60
+  tld: .bm
+BN:
+  alpha2: BN
+  alpha3: BRN
+  langDE: Brunei Darussalam
+  langEN: Brunei Darussalam
+  langES: "Brun\xE9i"
+  langFR: Brunei
+  langIT: Brunei
+  number: 96
+  tld: .bn
+BO:
+  alpha2: BO
+  alpha3: BOL
+  langDE: Bolivien
+  langEN: Bolivia
+  langES: Bolivia
+  langFR: Bolivie
+  langIT: Bolivia
+  number: 68
+  tld: .bo
+BQ:
+  alpha2: BQ
+  alpha3: BES
+  langDE: Bonaire, Sint Eustatius und Saba
+  langEN: Bonaire, Sint Eustatius and Saba
+  langES: Bonaire, San Eustaquio y Saba
+  langFR: "Bas carib\xE9ens"
+  langIT: Bonaire, Sint Eustatius e Saba
+  number: 535
+  tld: .bq
+BR:
+  alpha2: BR
+  alpha3: BRA
+  langDE: Brasilien
+  langEN: Brazil
+  langES: Brasil
+  langFR: "Br\xE9sil"
+  langIT: Brasile
+  number: 76
+  tld: .br
+BS:
+  alpha2: BS
+  alpha3: BHS
+  langDE: Bahamas
+  langEN: Bahamas
+  langES: Bahamas
+  langFR: Bahamas
+  langIT: Bahamas
+  number: 44
+  tld: .bs
+BT:
+  alpha2: BT
+  alpha3: BTN
+  langDE: Bhutan
+  langEN: Bhutan
+  langES: "But\xE1n"
+  langFR: Bhoutan
+  langIT: Bhutan
+  number: 64
+  tld: .bt
+BV:
+  alpha2: BV
+  alpha3: BVT
+  langDE: Bouvetinsel
+  langEN: Bouvet Island
+  langES: Isla Bouvet
+  langFR: "\xCEle Bouvet"
+  langIT: Isola Bouvet
+  number: 74
+  tld: .bv
+BW:
+  alpha2: BW
+  alpha3: BWA
+  langDE: Botswana
+  langEN: Botswana
+  langES: Botsuana
+  langFR: Botswana
+  langIT: Botswana
+  number: 72
+  tld: .bw
+BY:
+  alpha2: BY
+  alpha3: BLR
+  langDE: "Belarus (Wei\xDFrussland)"
+  langEN: Belarus
+  langES: Bielorrusia
+  langFR: "Bi\xE9lorussie"
+  langIT: Bielorussia
+  number: 112
+  tld: .by
+BZ:
+  alpha2: BZ
+  alpha3: BLZ
+  langDE: Belize
+  langEN: Belize
+  langES: Belice
+  langFR: Belize
+  langIT: Belize
+  number: 84
+  tld: .bz
+CA:
+  alpha2: CA
+  alpha3: CAN
+  langDE: Kanada
+  langEN: Canada
+  langES: "Canad\xE1"
+  langFR: Canada
+  langIT: Canada
+  number: 124
+  tld: .ca
+CC:
+  alpha2: CC
+  alpha3: CCK
+  langDE: Kokosinseln
+  langEN: Cocos (Keeling) Islands
+  langES: Islas Cocos
+  langFR: "\xCEles Cocos"
+  langIT: Isole Cocos (Keeling)
+  number: 166
+  tld: .cc
+CD:
+  alpha2: CD
+  alpha3: COD
+  langDE: Kongo, Demokratische Republik
+  langEN: Democratic Republic of the Congo
+  langES: "Rep\xFAblica Democr\xE1tica del Congo"
+  langFR: "R\xE9publique d\xE9mocratique du Congo"
+  langIT: Repubblica Democratica del Congo
+  number: 180
+  tld: .cd
+CF:
+  alpha2: CF
+  alpha3: CAF
+  langDE: Zentralafrikanische Republik
+  langEN: Central African Republic
+  langES: "Rep\xFAblica Centroafricana"
+  langFR: "R\xE9publique centrafricaine"
+  langIT: Repubblica centrale africana
+  number: 140
+  tld: .cf
+CG:
+  alpha2: CG
+  alpha3: COG
+  langDE: Republik Kongo
+  langEN: Congo
+  langES: "Rep\xFAblica del Congo"
+  langFR: "R\xE9publique du Congo"
+  langIT: Congo
+  number: 178
+  tld: .cg
+CH:
+  alpha2: CH
+  alpha3: CHE
+  langDE: Schweiz
+  langEN: Switzerland
+  langES: Suiza
+  langFR: Suisse
+  langIT: Switzerland
+  number: 756
+  tld: .ch
+CI:
+  alpha2: CI
+  alpha3: CIV
+  langDE: "C\xF4te 'Ivoire"
+  langEN: "C\xF4te 'Ivoire"
+  langES: Costa de Marfil
+  langFR: "C\xF4te 'Ivoire"
+  langIT: Costa 'Avoire
+  number: 384
+  tld: .ci
+CK:
+  alpha2: CK
+  alpha3: COK
+  langDE: Cookinseln
+  langEN: Cook Islands
+  langES: Islas Cook
+  langFR: "\xCEles Cook"
+  langIT: Isole Cook
+  number: 184
+  tld: .ck
+CL:
+  alpha2: CL
+  alpha3: CHL
+  langDE: Chile
+  langEN: Chile
+  langES: Chile
+  langFR: Chili
+  langIT: Chile
+  number: 152
+  tld: .cl
+CM:
+  alpha2: CM
+  alpha3: CMR
+  langDE: Kamerun
+  langEN: Cameroon
+  langES: "Camer\xFAn"
+  langFR: Cameroun
+  langIT: Camerun
+  number: 120
+  tld: .cm
+CN:
+  alpha2: CN
+  alpha3: CHN
+  langDE: China
+  langEN: China
+  langES: China
+  langFR: Chine
+  langIT: Cina
+  number: 156
+  tld: .cn
+CO:
+  alpha2: CO
+  alpha3: COL
+  langDE: Kolumbien
+  langEN: Colombia
+  langES: Colombia
+  langFR: Colombie
+  langIT: Colombia
+  number: 170
+  tld: .co
+CR:
+  alpha2: CR
+  alpha3: CRI
+  langDE: Costa Rica
+  langEN: Costa Rica
+  langES: Costa Rica
+  langFR: Costa Rica
+  langIT: Costa Rica
+  number: 188
+  tld: .cr
+CU:
+  alpha2: CU
+  alpha3: CUB
+  langDE: Kuba
+  langEN: Cuba
+  langES: Cuba
+  langFR: Cuba
+  langIT: Cuba
+  number: 192
+  tld: .cu
+CV:
+  alpha2: CV
+  alpha3: CPV
+  langDE: Kap Verde
+  langEN: Cabo Verde
+  langES: Cabo Verde
+  langFR: Cap-Vert
+  langIT: Capo Verde
+  number: 132
+  tld: .cv
+CW:
+  alpha2: CW
+  alpha3: CUW
+  langDE: "Cura\xE7ao"
+  langEN: "Cura\xE7ao"
+  langES: Curazao
+  langFR: "Cura\xE7ao"
+  langIT: Curacao
+  number: 531
+  tld: .cw
+CX:
+  alpha2: CX
+  alpha3: CXR
+  langDE: Weihnachtsinsel
+  langEN: Christmas Island
+  langES: Isla de Navidad
+  langFR: "\xCEle Christmas"
+  langIT: Isola di Natale
+  number: 162
+  tld: .cx
+CY:
+  alpha2: CY
+  alpha3: CYP
+  langDE: Zypern
+  langEN: Cyprus
+  langES: Chipre
+  langFR: Chypre
+  langIT: Cipro
+  number: 196
+  tld: .cy
+CZ:
+  alpha2: CZ
+  alpha3: CZE
+  langDE: Tschechien
+  langEN: Czechia
+  langES: Chequia
+  langFR: "Tch\xE9quie"
+  langIT: Cechia
+  number: 203
+  tld: .cz
+DE:
+  alpha2: DE
+  alpha3: DEU
+  langDE: Deutschland
+  langEN: Germany
+  langES: Alemania
+  langFR: Allemagne
+  langIT: Germania
+  number: 276
+  tld: .de
+DJ:
+  alpha2: DJ
+  alpha3: DJI
+  langDE: Dschibuti
+  langEN: Djibouti
+  langES: Yibuti
+  langFR: Djibouti
+  langIT: Djibouti
+  number: 262
+  tld: .dj
+DK:
+  alpha2: DK
+  alpha3: DNK
+  langDE: "D\xE4nemark"
+  langEN: Denmark
+  langES: Dinamarca
+  langFR: Danemark
+  langIT: Danimarca
+  number: 208
+  tld: .dk
+DM:
+  alpha2: DM
+  alpha3: DMA
+  langDE: Dominica
+  langEN: Dominica
+  langES: Dominica
+  langFR: Dominique
+  langIT: Dominica
+  number: 212
+  tld: .dm
+DO:
+  alpha2: DO
+  alpha3: DOM
+  langDE: Dominikanische Republik
+  langEN: Dominican Republic
+  langES: "Rep\xFAblica Dominicana"
+  langFR: "R\xE9publique dominicaine"
+  langIT: Repubblica Dominicana
+  number: 214
+  tld: .do
+DZ:
+  alpha2: DZ
+  alpha3: DZA
+  langDE: Algerien
+  langEN: Algeria
+  langES: Argelia
+  langFR: "Alg\xE9rie"
+  langIT: Algeria
+  number: 12
+  tld: .dz
+EC:
+  alpha2: EC
+  alpha3: ECU
+  langDE: Ecuador
+  langEN: Ecuador
+  langES: Ecuador
+  langFR: "\xC9quateur"
+  langIT: Ecuador
+  number: 218
+  tld: .ec
+EE:
+  alpha2: EE
+  alpha3: EST
+  langDE: Estland
+  langEN: Estonia
+  langES: Estonia
+  langFR: Estonie
+  langIT: Estonia
+  number: 233
+  tld: .ee
+EG:
+  alpha2: EG
+  alpha3: EGY
+  langDE: "\xC4gypten"
+  langEN: Egypt
+  langES: Egipto
+  langFR: "\xC9gypte"
+  langIT: Egitto
+  number: 818
+  tld: .eg
+EH:
+  alpha2: EH
+  alpha3: ESH
+  langDE: Westsahara
+  langEN: Western Sahara
+  langES: "Rep\xFAblica \xC1rabe Saharaui Democr\xE1tica"
+  langFR: "R\xE9publique arabe sahraouie d\xE9mocratique"
+  langIT: Sahara occidentale
+  number: 732
+  tld: .eh
+ER:
+  alpha2: ER
+  alpha3: ERI
+  langDE: Eritrea
+  langEN: Eritrea
+  langES: Eritrea
+  langFR: "\xC9rythr\xE9e"
+  langIT: Eritrea
+  number: 232
+  tld: .er
+ES:
+  alpha2: ES
+  alpha3: ESP
+  langDE: Spanien
+  langEN: Spain
+  langES: "Espa\xF1a"
+  langFR: Espagne
+  langIT: Spagna
+  number: 724
+  tld: .es
+ET:
+  alpha2: ET
+  alpha3: ETH
+  langDE: "\xC4thiopien"
+  langEN: Ethiopia
+  langES: "Etiop\xEDa"
+  langFR: "\xC9thiopie"
+  langIT: Etiopia
+  number: 231
+  tld: .et
+FI:
+  alpha2: FI
+  alpha3: FIN
+  langDE: Finnland
+  langEN: Finland
+  langES: Finlandia
+  langFR: Finlande
+  langIT: Finlandia
+  number: 246
+  tld: .fi
+FJ:
+  alpha2: FJ
+  alpha3: FJI
+  langDE: Fidschi
+  langEN: Fiji
+  langES: Fiyi
+  langFR: Fidji
+  langIT: Figi
+  number: 242
+  tld: .fj
+FK:
+  alpha2: FK
+  alpha3: FLK
+  langDE: Falklandinseln
+  langEN: Falkland Islands
+  langES: Islas Malvinas
+  langFR: Malouines
+  langIT: Isole Falkland
+  number: 238
+  tld: .fk
+FM:
+  alpha2: FM
+  alpha3: FSM
+  langDE: Mikronesien
+  langEN: Micronesia
+  langES: Micronesia
+  langFR: "Micron\xE9sie"
+  langIT: Micronesia
+  number: 583
+  tld: .fm
+FO:
+  alpha2: FO
+  alpha3: FRO
+  langDE: "F\xE4r\xF6er"
+  langEN: Faroe Islands
+  langES: Islas Feroe
+  langFR: "\xCEles F\xE9ro\xE9"
+  langIT: Isole Faroe
+  number: 234
+  tld: .fo
+FR:
+  alpha2: FR
+  alpha3: FRA
+  langDE: Frankreich
+  langEN: France
+  langES: Francia
+  langFR: France
+  langIT: Francia
+  number: 250
+  tld: .fr
+GA:
+  alpha2: GA
+  alpha3: GAB
+  langDE: Gabun
+  langEN: Gabon
+  langES: "Gab\xF3n"
+  langFR: Gabon
+  langIT: Gabon
+  number: 266
+  tld: .ga
+GB:
+  alpha2: GB
+  alpha3: GBR
+  langDE: "Vereinigte K\xF6nigreich"
+  langEN: United Kingdom
+  langES: Reino Unido
+  langFR: Royaume-Uni
+  langIT: Regno Unito
+  number: 826
+  tld: .uk
+GD:
+  alpha2: GD
+  alpha3: GRD
+  langDE: Grenada
+  langEN: Grenada
+  langES: Granada
+  langFR: Grenade
+  langIT: Grenada
+  number: 308
+  tld: .gd
+GE:
+  alpha2: GE
+  alpha3: GEO
+  langDE: Georgien
+  langEN: Georgia
+  langES: Georgia
+  langFR: "G\xE9orgie"
+  langIT: Georgia
+  number: 268
+  tld: .ge
+GF:
+  alpha2: GF
+  alpha3: GUF
+  langDE: "Franz\xF6sisch-Guayana"
+  langEN: French Guiana
+  langES: Guayana Francesa
+  langFR: Guyane
+  langIT: Guiana francese
+  number: 254
+  tld: .gf
+GG:
+  alpha2: GG
+  alpha3: GGY
+  langDE: Guernsey
+  langEN: Guernsey
+  langES: Guernsey
+  langFR: Guernesey
+  langIT: Guernsey
+  number: 831
+  tld: .gg
+GH:
+  alpha2: GH
+  alpha3: GHA
+  langDE: Ghana
+  langEN: Ghana
+  langES: Ghana
+  langFR: Ghana
+  langIT: Ghana
+  number: 288
+  tld: .gh
+GI:
+  alpha2: GI
+  alpha3: GIB
+  langDE: Gibraltar
+  langEN: Gibraltar
+  langES: Gibraltar
+  langFR: Gibraltar
+  langIT: Gibilterra
+  number: 292
+  tld: .gi
+GL:
+  alpha2: GL
+  alpha3: GRL
+  langDE: "Gr\xF6nland"
+  langEN: Greenland
+  langES: Groenlandia
+  langFR: Groenland
+  langIT: Groenlandia
+  number: 304
+  tld: .gl
+GM:
+  alpha2: GM
+  alpha3: GMB
+  langDE: Gambia
+  langEN: Gambia
+  langES: Gambia
+  langFR: Gambie
+  langIT: Gambia
+  number: 270
+  tld: .gm
+GN:
+  alpha2: GN
+  alpha3: GIN
+  langDE: Guinea
+  langEN: Guinea
+  langES: Guinea
+  langFR: "Guin\xE9e"
+  langIT: Guinea
+  number: 324
+  tld: .gn
+GP:
+  alpha2: GP
+  alpha3: GLP
+  langDE: Guadeloupe
+  langEN: Guadeloupe
+  langES: Guadalupe
+  langFR: Guadeloupe
+  langIT: Guadeloupe
+  number: 312
+  tld: .gp
+GQ:
+  alpha2: GQ
+  alpha3: GNQ
+  langDE: "\xC4quatorialguinea"
+  langEN: Equatorial Guinea
+  langES: Guinea Ecuatorial
+  langFR: "Guin\xE9e \xE9quatoriale"
+  langIT: Guinea Equatoriale
+  number: 226
+  tld: .gq
+GR:
+  alpha2: GR
+  alpha3: GRC
+  langDE: Griechenland
+  langEN: Greece
+  langES: Grecia
+  langFR: "Gr\xE8ce"
+  langIT: Grecia
+  number: 300
+  tld: .gr
+GS:
+  alpha2: GS
+  alpha3: SGS
+  langDE: "S\xFCdgeorgien und die S\xFCdlichen Sandwichinseln"
+  langEN: South Georgia and the South Sandwich Islands
+  langES: Islas Georgias del Sur y Sandwich del Sur
+  langFR: "G\xE9orgie du Sud-et-les \xCEles Sandwich du Sud"
+  langIT: Georgia del Sud e Isole Sandwich Australi
+  number: 239
+  tld: .gs
+GT:
+  alpha2: GT
+  alpha3: GTM
+  langDE: Guatemala
+  langEN: Guatemala
+  langES: Guatemala
+  langFR: Guatemala
+  langIT: Guatemala
+  number: 320
+  tld: .gt
+GU:
+  alpha2: GU
+  alpha3: GUM
+  langDE: Guam
+  langEN: Guam
+  langES: Guam
+  langFR: Guam
+  langIT: Guam
+  number: 316
+  tld: .gu
+GW:
+  alpha2: GW
+  alpha3: GNB
+  langDE: Guinea-Bissau
+  langEN: Guinea-Bissau
+  langES: "Guinea-Bis\xE1u"
+  langFR: "Guin\xE9e-Bissau"
+  langIT: Guinea-Bissau
+  number: 624
+  tld: .gw
+GY:
+  alpha2: GY
+  alpha3: GUY
+  langDE: Guyana
+  langEN: Guyana
+  langES: Guyana
+  langFR: Guyana
+  langIT: Guyana
+  number: 328
+  tld: .gy
+HK:
+  alpha2: HK
+  alpha3: HKG
+  langDE: Hongkong
+  langEN: Hong Kong
+  langES: Hong Kong
+  langFR: Hong Kong
+  langIT: Hong Kong
+  number: 344
+  tld: .hk
+HM:
+  alpha2: HM
+  alpha3: HMD
+  langDE: Heard und McDonaldinseln
+  langEN: Heard Island and McDonald Islands
+  langES: Islas Heard y McDonald
+  langFR: "\xCEles Heard-et-MacDonald"
+  langIT: Isole Heard e McDonald
+  number: 334
+  tld: .hm
+HN:
+  alpha2: HN
+  alpha3: HND
+  langDE: Honduras
+  langEN: Honduras
+  langES: Honduras
+  langFR: Honduras
+  langIT: Honduras
+  number: 340
+  tld: .hn
+HR:
+  alpha2: HR
+  alpha3: HRV
+  langDE: Kroatien
+  langEN: Croatia
+  langES: Croacia
+  langFR: Croatie
+  langIT: Croazia
+  number: 191
+  tld: .hr
+HT:
+  alpha2: HT
+  alpha3: HTI
+  langDE: Haiti
+  langEN: Haiti
+  langES: "Hait\xED"
+  langFR: "Ha\xEFti"
+  langIT: Haiti
+  number: 332
+  tld: .ht
+HU:
+  alpha2: HU
+  alpha3: HUN
+  langDE: Ungarn
+  langEN: Hungary
+  langES: "Hungr\xEDa"
+  langFR: Hongrie
+  langIT: Ungheria
+  number: 348
+  tld: .hu
+ID:
+  alpha2: ID
+  alpha3: IDN
+  langDE: Indonesien
+  langEN: Indonesia
+  langES: Indonesia
+  langFR: "Indon\xE9sie"
+  langIT: Indonesia
+  number: 360
+  tld: .id
+IE:
+  alpha2: IE
+  alpha3: IRL
+  langDE: Irland
+  langEN: Ireland
+  langES: Irlanda
+  langFR: Irlande
+  langIT: Irlanda
+  number: 372
+  tld: .ie
+IL:
+  alpha2: IL
+  alpha3: ISR
+  langDE: Israel
+  langEN: Israel
+  langES: Israel
+  langFR: "Isra\xEBl"
+  langIT: Israele
+  number: 376
+  tld: .il
+IM:
+  alpha2: IM
+  alpha3: IMN
+  langDE: Insel Man
+  langEN: Isle of Man
+  langES: Isla de Man
+  langFR: "\xCEle de Man"
+  langIT: Isola di Man
+  number: 833
+  tld: .im
+IN:
+  alpha2: IN
+  alpha3: IND
+  langDE: Indien
+  langEN: India
+  langES: India
+  langFR: Inde
+  langIT: India
+  number: 356
+  tld: .in
+IO:
+  alpha2: IO
+  alpha3: IOT
+  langDE: Britisches Territorium im Indischen Ozean
+  langEN: British Indian Ocean Territory
+  langES: "Territorio Brit\xE1nico del Oc\xE9ano \xCDndico"
+  langFR: "Territoire britannique de l'oc\xE9an Indien"
+  langIT: Territorio britannico dell'Oceano Indiano
+  number: 86
+  tld: .io
+IQ:
+  alpha2: IQ
+  alpha3: IRQ
+  langDE: Irak
+  langEN: Iraq
+  langES: Irak
+  langFR: Irak
+  langIT: Iraq
+  number: 368
+  tld: .iq
+IR:
+  alpha2: IR
+  alpha3: IRN
+  langDE: Iran
+  langEN: Iran
+  langES: "Ir\xE1n"
+  langFR: Iran
+  langIT: Iran
+  number: 364
+  tld: .ir
+IS:
+  alpha2: IS
+  alpha3: ISL
+  langDE: Island
+  langEN: Iceland
+  langES: Islandia
+  langFR: Islande
+  langIT: Islanda
+  number: 352
+  tld: .is
+IT:
+  alpha2: IT
+  alpha3: ITA
+  langDE: Italien
+  langEN: Italy
+  langES: Italia
+  langFR: Italie
+  langIT: Italia
+  number: 380
+  tld: .it
+JE:
+  alpha2: JE
+  alpha3: JEY
+  langDE: Jersey
+  langEN: Jersey
+  langES: Jersey
+  langFR: Jersey
+  langIT: Maglia
+  number: 832
+  tld: .je
+JM:
+  alpha2: JM
+  alpha3: JAM
+  langDE: Jamaika
+  langEN: Jamaica
+  langES: Jamaica
+  langFR: "Jama\xEFque"
+  langIT: Giamaica
+  number: 388
+  tld: .jm
+JO:
+  alpha2: JO
+  alpha3: JOR
+  langDE: Jordanien
+  langEN: Jordan
+  langES: Jordania
+  langFR: Jordanie
+  langIT: Giordania
+  number: 400
+  tld: .jo
+JP:
+  alpha2: JP
+  alpha3: JPN
+  langDE: Japan
+  langEN: Japan
+  langES: "Jap\xF3n"
+  langFR: Japon
+  langIT: Giappone
+  number: 392
+  tld: .jp
+KE:
+  alpha2: KE
+  alpha3: KEN
+  langDE: Kenia
+  langEN: Kenya
+  langES: Kenia
+  langFR: Kenya
+  langIT: Kenya
+  number: 404
+  tld: .ke
+KG:
+  alpha2: KG
+  alpha3: KGZ
+  langDE: Kirgisistan
+  langEN: Kyrgyzstan
+  langES: "Kirguist\xE1n"
+  langFR: Kirghizistan
+  langIT: Kirghizistan
+  number: 417
+  tld: .kg
+KH:
+  alpha2: KH
+  alpha3: KHM
+  langDE: Kambodscha
+  langEN: Cambodia
+  langES: Camboya
+  langFR: Cambodge
+  langIT: Cambogia
+  number: 116
+  tld: .kh
+KI:
+  alpha2: KI
+  alpha3: KIR
+  langDE: Kiribati
+  langEN: Kiribati
+  langES: Kiribati
+  langFR: Kiribati
+  langIT: Kiribati
+  number: 296
+  tld: .ki
+KM:
+  alpha2: KM
+  alpha3: COM
+  langDE: Komoren
+  langEN: Comoros
+  langES: Comoras
+  langFR: Comores
+  langIT: Comore
+  number: 174
+  tld: .km
+KN:
+  alpha2: KN
+  alpha3: KNA
+  langDE: St. Kitts und Nevis
+  langEN: Saint Kitts and Nevis
+  langES: "San Crist\xF3bal y Nieves"
+  langFR: "Saint-Christophe-et-Ni\xE9v\xE8s"
+  langIT: Saint Kitts e Nevis
+  number: 659
+  tld: .kn
+KP:
+  alpha2: KP
+  alpha3: PRK
+  langDE: Korea, Demokratische Volksrepublik (Nordkorea)
+  langEN: North Korea
+  langES: Corea del Norte
+  langFR: "Cor\xE9e du Nord"
+  langIT: Corea del nord
+  number: 408
+  tld: .kp
+KR:
+  alpha2: KR
+  alpha3: KOR
+  langDE: "Korea, Republik (S\xFCdkorea)"
+  langEN: South Korea
+  langES: Corea del Sur
+  langFR: "Cor\xE9e du Sud"
+  langIT: Corea del Sud
+  number: 410
+  tld: .kr
+KW:
+  alpha2: KW
+  alpha3: KWT
+  langDE: Kuwait
+  langEN: Kuwait
+  langES: Kuwait
+  langFR: "Kowe\xEFt"
+  langIT: Kuwait
+  number: 414
+  tld: .kw
+KY:
+  alpha2: KY
+  alpha3: CYM
+  langDE: Kaimaninseln
+  langEN: Cayman Islands
+  langES: "Islas Caim\xE1n"
+  langFR: "\xCEles Ca\xEFmans"
+  langIT: Isole Cayman
+  number: 136
+  tld: .ky
+KZ:
+  alpha2: KZ
+  alpha3: KAZ
+  langDE: Kasachstan
+  langEN: Kazakhstan
+  langES: "Kazajist\xE1n"
+  langFR: Kazakhstan
+  langIT: Kazakistan
+  number: 398
+  tld: .kz
+LA:
+  alpha2: LA
+  alpha3: LAO
+  langDE: Laos, Demokratische Volksrepublik
+  langEN: Laos
+  langES: Laos
+  langFR: Laos
+  langIT: Laos
+  number: 418
+  tld: .la
+LB:
+  alpha2: LB
+  alpha3: LBN
+  langDE: Libanon
+  langEN: Lebanon
+  langES: "L\xEDbano"
+  langFR: Liban
+  langIT: Libano
+  number: 422
+  tld: .lb
+LC:
+  alpha2: LC
+  alpha3: LCA
+  langDE: St. Lucia
+  langEN: Saint Lucia
+  langES: "Santa Luc\xEDa"
+  langFR: Sainte-Lucie
+  langIT: Santa Lucia
+  number: 662
+  tld: .lc
+LI:
+  alpha2: LI
+  alpha3: LIE
+  langDE: Liechtenstein
+  langEN: Liechtenstein
+  langES: Liechtenstein
+  langFR: Liechtenstein
+  langIT: Liechtenstein
+  number: 438
+  tld: .li
+LK:
+  alpha2: LK
+  alpha3: LKA
+  langDE: Sri Lanka
+  langEN: Sri Lanka
+  langES: Sri Lanka
+  langFR: Sri Lanka
+  langIT: Sri Lanka
+  number: 144
+  tld: .lk
+LR:
+  alpha2: LR
+  alpha3: LBR
+  langDE: Liberia
+  langEN: Liberia
+  langES: Liberia
+  langFR: Liberia
+  langIT: Liberia
+  number: 430
+  tld: .lr
+LS:
+  alpha2: LS
+  alpha3: LSO
+  langDE: Lesotho
+  langEN: Lesotho
+  langES: Lesoto
+  langFR: Lesotho
+  langIT: Lesotho
+  number: 426
+  tld: .ls
+LT:
+  alpha2: LT
+  alpha3: LTU
+  langDE: Litauen
+  langEN: Lithuania
+  langES: Lituania
+  langFR: Lituanie
+  langIT: Lituania
+  number: 440
+  tld: .lt
+LU:
+  alpha2: LU
+  alpha3: LUX
+  langDE: Luxemburg
+  langEN: Luxembourg
+  langES: Luxemburgo
+  langFR: Luxembourg
+  langIT: Lussemburgo
+  number: 442
+  tld: .lu
+LV:
+  alpha2: LV
+  alpha3: LVA
+  langDE: Lettland
+  langEN: Latvia
+  langES: Letonia
+  langFR: Lettonie
+  langIT: Lettonia
+  number: 428
+  tld: .lv
+LY:
+  alpha2: LY
+  alpha3: LBY
+  langDE: Libyen
+  langEN: Libya
+  langES: Libia
+  langFR: Libye
+  langIT: Libia
+  number: 434
+  tld: .ly
+MA:
+  alpha2: MA
+  alpha3: MAR
+  langDE: Marokko
+  langEN: Morocco
+  langES: Marruecos
+  langFR: Maroc
+  langIT: Marocco
+  number: 504
+  tld: .ma
+MC:
+  alpha2: MC
+  alpha3: MCO
+  langDE: Monaco
+  langEN: Monaco
+  langES: "M\xF3naco"
+  langFR: Monaco
+  langIT: Monaco
+  number: 492
+  tld: .mc
+MD:
+  alpha2: MD
+  alpha3: MDA
+  langDE: Moldawien (Republik Moldau)
+  langEN: Moldova
+  langES: Moldavia
+  langFR: Moldavie
+  langIT: Moldavia
+  number: 498
+  tld: .md
+ME:
+  alpha2: ME
+  alpha3: MNE
+  langDE: Montenegro
+  langEN: Montenegro
+  langES: Montenegro
+  langFR: "Mont\xE9n\xE9gro"
+  langIT: Montenegro
+  number: 499
+  tld: .me
+MF:
+  alpha2: MF
+  alpha3: MAF
+  langDE: Saint-Martin (franz. Teil)
+  langEN: Saint Martin
+  langES: "San Mart\xEDn"
+  langFR: Saint-Martin
+  langIT: San Martin
+  number: 663
+  tld: .mf
+MG:
+  alpha2: MG
+  alpha3: MDG
+  langDE: Madagaskar
+  langEN: Madagascar
+  langES: Madagascar
+  langFR: Madagascar
+  langIT: Madagascar
+  number: 450
+  tld: .mg
+MH:
+  alpha2: MH
+  alpha3: MHL
+  langDE: Marshallinseln
+  langEN: Marshall Islands
+  langES: Islas Marshall
+  langFR: "\xCEles Marshall"
+  langIT: Isole Marshall
+  number: 584
+  tld: .mh
+MK:
+  alpha2: MK
+  alpha3: MKD
+  langDE: Nordmazedonien
+  langEN: North Macedonia
+  langES: Macedonia del Norte
+  langFR: "Mac\xE9doine du Nord"
+  langIT: Macedonia settentrionale
+  number: 807
+  tld: .mk
+ML:
+  alpha2: ML
+  alpha3: MLI
+  langDE: Mali
+  langEN: Mali
+  langES: "Mal\xED"
+  langFR: Mali
+  langIT: Mali
+  number: 466
+  tld: .ml
+MM:
+  alpha2: MM
+  alpha3: MMR
+  langDE: Myanmar (Burma)
+  langEN: Myanmar
+  langES: Myanmar
+  langFR: Birmanie
+  langIT: Myanmar
+  number: 104
+  tld: .mm
+MN:
+  alpha2: MN
+  alpha3: MNG
+  langDE: Mongolei
+  langEN: Mongolia
+  langES: Mongolia
+  langFR: Mongolie
+  langIT: Mongolia
+  number: 496
+  tld: .mn
+MO:
+  alpha2: MO
+  alpha3: MAC
+  langDE: Macau
+  langEN: Macao
+  langES: Macao
+  langFR: Macao
+  langIT: Macao
+  number: 446
+  tld: .mo
+MP:
+  alpha2: MP
+  alpha3: MNP
+  langDE: "N\xF6rdliche Marianen"
+  langEN: Northern Mariana Islands
+  langES: Islas Marianas del Norte
+  langFR: "\xCEles Mariannes du Nord"
+  langIT: Isole Marianne settentrionali
+  number: 580
+  tld: .mp
+MQ:
+  alpha2: MQ
+  alpha3: MTQ
+  langDE: Martinique
+  langEN: Martinique
+  langES: Martinica
+  langFR: Martinique
+  langIT: Martinica
+  number: 474
+  tld: .mq
+MR:
+  alpha2: MR
+  alpha3: MRT
+  langDE: Mauretanien
+  langEN: Mauritania
+  langES: Mauritania
+  langFR: Mauritanie
+  langIT: Mauritania
+  number: 478
+  tld: .mr
+MS:
+  alpha2: MS
+  alpha3: MSR
+  langDE: Montserrat
+  langEN: Montserrat
+  langES: Montserrat
+  langFR: Montserrat
+  langIT: Montserrat
+  number: 500
+  tld: .ms
+MT:
+  alpha2: MT
+  alpha3: MLT
+  langDE: Malta
+  langEN: Malta
+  langES: Malta
+  langFR: Malte
+  langIT: Malta
+  number: 470
+  tld: .mt
+MU:
+  alpha2: MU
+  alpha3: MUS
+  langDE: Mauritius
+  langEN: Mauritius
+  langES: Mauricio
+  langFR: Maurice
+  langIT: Mauritius
+  number: 480
+  tld: .mu
+MV:
+  alpha2: MV
+  alpha3: MDV
+  langDE: Malediven
+  langEN: Maldives
+  langES: Maldivas
+  langFR: Maldives
+  langIT: Maldive
+  number: 462
+  tld: .mv
+MW:
+  alpha2: MW
+  alpha3: MWI
+  langDE: Malawi
+  langEN: Malawi
+  langES: Malaui
+  langFR: Malawi
+  langIT: Malawi
+  number: 454
+  tld: .mw
+MX:
+  alpha2: MX
+  alpha3: MEX
+  langDE: Mexiko
+  langEN: Mexico
+  langES: "M\xE9xico"
+  langFR: Mexique
+  langIT: Messico
+  number: 484
+  tld: .mx
+MY:
+  alpha2: MY
+  alpha3: MYS
+  langDE: Malaysia
+  langEN: Malaysia
+  langES: Malasia
+  langFR: Malaisie
+  langIT: Malaysia
+  number: 458
+  tld: .my
+MZ:
+  alpha2: MZ
+  alpha3: MOZ
+  langDE: Mosambik
+  langEN: Mozambique
+  langES: Mozambique
+  langFR: Mozambique
+  langIT: Mozambico
+  number: 508
+  tld: .mz
+NA:
+  alpha2: NA
+  alpha3: NAM
+  langDE: Namibia
+  langEN: Namibia
+  langES: Namibia
+  langFR: Namibie
+  langIT: Namibia
+  number: 516
+  tld: .na
+NC:
+  alpha2: NC
+  alpha3: NCL
+  langDE: Neukaledonien
+  langEN: New Caledonia
+  langES: Nueva Caledonia
+  langFR: "Nouvelle-Cal\xE9donie"
+  langIT: Nuova Caledonia
+  number: 540
+  tld: .nc
+NE:
+  alpha2: NE
+  alpha3: NER
+  langDE: Niger
+  langEN: Niger
+  langES: "N\xEDger"
+  langFR: Niger
+  langIT: Niger
+  number: 562
+  tld: .ne
+NF:
+  alpha2: NF
+  alpha3: NFK
+  langDE: Norfolkinsel
+  langEN: Norfolk Island
+  langES: Norfolk
+  langFR: "\xCEle Norfolk"
+  langIT: Norfolk Island
+  number: 574
+  tld: .nf
+NG:
+  alpha2: NG
+  alpha3: NGA
+  langDE: Nigeria
+  langEN: Nigeria
+  langES: Nigeria
+  langFR: Nigeria
+  langIT: Nigeria
+  number: 566
+  tld: .ng
+NI:
+  alpha2: NI
+  alpha3: NIC
+  langDE: Nicaragua
+  langEN: Nicaragua
+  langES: Nicaragua
+  langFR: Nicaragua
+  langIT: Nicaragua
+  number: 558
+  tld: .ni
+NL:
+  alpha2: NL
+  alpha3: NLD
+  langDE: Niederlande
+  langEN: Netherlands
+  langES: "Pa\xEDses Bajos"
+  langFR: Pays-Bas
+  langIT: Olanda
+  number: 528
+  tld: .nl
+'NO':
+  alpha2: 'NO'
+  alpha3: NOR
+  langDE: Norwegen
+  langEN: Norway
+  langES: Noruega
+  langFR: "Norv\xE8ge"
+  langIT: Norvegia
+  number: 578
+  tld: .no
+NP:
+  alpha2: NP
+  alpha3: NPL
+  langDE: Nepal
+  langEN: Nepal
+  langES: Nepal
+  langFR: "N\xE9pal"
+  langIT: Nepal
+  number: 524
+  tld: .np
+NR:
+  alpha2: NR
+  alpha3: NRU
+  langDE: Nauru
+  langEN: Nauru
+  langES: Nauru
+  langFR: Nauru
+  langIT: Nauru
+  number: 520
+  tld: .nr
+NU:
+  alpha2: NU
+  alpha3: NIU
+  langDE: Niue
+  langEN: Niue
+  langES: Niue
+  langFR: Niue
+  langIT: Niue
+  number: 570
+  tld: .nu
+NZ:
+  alpha2: NZ
+  alpha3: NZL
+  langDE: Neuseeland
+  langEN: New Zealand
+  langES: Nueva Zelanda
+  langFR: "Nouvelle-Z\xE9lande"
+  langIT: Nuova Zelanda
+  number: 554
+  tld: .nz
+OM:
+  alpha2: OM
+  alpha3: OMN
+  langDE: Oman
+  langEN: Oman
+  langES: "Om\xE1n"
+  langFR: Oman
+  langIT: Oman
+  number: 512
+  tld: .om
+PA:
+  alpha2: PA
+  alpha3: PAN
+  langDE: Panama
+  langEN: Panama
+  langES: "Panam\xE1"
+  langFR: Panama
+  langIT: Panama
+  number: 591
+  tld: .pa
+PE:
+  alpha2: PE
+  alpha3: PER
+  langDE: Peru
+  langEN: Peru
+  langES: "Per\xFA"
+  langFR: "P\xE9rou"
+  langIT: "Per\xF9"
+  number: 604
+  tld: .pe
+PF:
+  alpha2: PF
+  alpha3: PYF
+  langDE: "Franz\xF6sisch-Polynesien"
+  langEN: French Polynesia
+  langES: Polinesia Francesa
+  langFR: "Polyn\xE9sie fran\xE7aise"
+  langIT: Polinesia francese
+  number: 258
+  tld: .pf
+PG:
+  alpha2: PG
+  alpha3: PNG
+  langDE: Papua-Neuguinea
+  langEN: Papua New Guinea
+  langES: "Pap\xFAa Nueva Guinea"
+  langFR: "Papouasie-Nouvelle-Guin\xE9e"
+  langIT: Papua Nuova Guinea
+  number: 598
+  tld: .pg
+PH:
+  alpha2: PH
+  alpha3: PHL
+  langDE: Philippinen
+  langEN: Philippines
+  langES: Filipinas
+  langFR: Philippines
+  langIT: Philippines
+  number: 608
+  tld: .ph
+PK:
+  alpha2: PK
+  alpha3: PAK
+  langDE: Pakistan
+  langEN: Pakistan
+  langES: "Pakist\xE1n"
+  langFR: Pakistan
+  langIT: Pakistan
+  number: 586
+  tld: .pk
+PL:
+  alpha2: PL
+  alpha3: POL
+  langDE: Polen
+  langEN: Poland
+  langES: Polonia
+  langFR: Pologne
+  langIT: Polonia
+  number: 616
+  tld: .pl
+PM:
+  alpha2: PM
+  alpha3: SPM
+  langDE: Saint-Pierre und Miquelon
+  langEN: Saint Pierre and Miquelon
+  langES: "San Pedro y Miquel\xF3n"
+  langFR: Saint-Pierre-et-Miquelon
+  langIT: San Pierre e Miquelon
+  number: 666
+  tld: .pm
+PN:
+  alpha2: PN
+  alpha3: PCN
+  langDE: Pitcairninseln
+  langEN: Pitcairn
+  langES: Islas Pitcairn
+  langFR: "\xCEles Pitcairn"
+  langIT: Pitcairn
+  number: 612
+  tld: .pn
+PR:
+  alpha2: PR
+  alpha3: PRI
+  langDE: Puerto Rico
+  langEN: Puerto Rico
+  langES: Puerto Rico
+  langFR: Porto Rico
+  langIT: Puerto Rico
+  number: 630
+  tld: .pr
+PS:
+  alpha2: PS
+  alpha3: PSE
+  langDE: "Staat Pal\xE4stina"
+  langEN: Palestine
+  langES: Palestina
+  langFR: Palestine
+  langIT: Palestina
+  number: 275
+  tld: .ps
+PT:
+  alpha2: PT
+  alpha3: PRT
+  langDE: Portugal
+  langEN: Portugal
+  langES: Portugal
+  langFR: Portugal
+  langIT: Portogallo
+  number: 620
+  tld: .pt
+PW:
+  alpha2: PW
+  alpha3: PLW
+  langDE: Palau
+  langEN: Palau
+  langES: Palaos
+  langFR: Palaos
+  langIT: Palau
+  number: 585
+  tld: .pw
+PY:
+  alpha2: PY
+  alpha3: PRY
+  langDE: Paraguay
+  langEN: Paraguay
+  langES: Paraguay
+  langFR: Paraguay
+  langIT: Paraguay
+  number: 600
+  tld: .py
+QA:
+  alpha2: QA
+  alpha3: QAT
+  langDE: Katar
+  langEN: Qatar
+  langES: Catar
+  langFR: Qatar
+  langIT: Qatar
+  number: 634
+  tld: .qa
+RE:
+  alpha2: RE
+  alpha3: REU
+  langDE: "R\xE9union"
+  langEN: "R\xE9union"
+  langES: "Reuni\xF3n"
+  langFR: "La R\xE9union"
+  langIT: Riunione
+  number: 638
+  tld: .re
+RO:
+  alpha2: RO
+  alpha3: ROU
+  langDE: "Rum\xE4nien"
+  langEN: Romania
+  langES: Rumania
+  langFR: Roumanie
+  langIT: Romania
+  number: 642
+  tld: .ro
+RS:
+  alpha2: RS
+  alpha3: SRB
+  langDE: Serbien
+  langEN: Serbia
+  langES: Serbia
+  langFR: Serbie
+  langIT: Serbia
+  number: 688
+  tld: .rs
+RU:
+  alpha2: RU
+  alpha3: RUS
+  langDE: "Russische F\xF6deration"
+  langEN: Russia
+  langES: Rusia
+  langFR: Russie
+  langIT: Russia
+  number: 643
+  tld: .ru
+RW:
+  alpha2: RW
+  alpha3: RWA
+  langDE: Ruanda
+  langEN: Rwanda
+  langES: Ruanda
+  langFR: Rwanda
+  langIT: Ruanda
+  number: 646
+  tld: .rw
+SA:
+  alpha2: SA
+  alpha3: SAU
+  langDE: Saudi-Arabien
+  langEN: Saudi Arabia
+  langES: Arabia Saudita
+  langFR: Arabie saoudite
+  langIT: Arabia Saudita
+  number: 682
+  tld: .sa
+SB:
+  alpha2: SB
+  alpha3: SLB
+  langDE: Salomonen
+  langEN: Solomon Islands
+  langES: "Islas Salom\xF3n"
+  langFR: Salomon
+  langIT: Isole Salomone
+  number: 90
+  tld: .sb
+SC:
+  alpha2: SC
+  alpha3: SYC
+  langDE: Seychellen
+  langEN: Seychelles
+  langES: Seychelles
+  langFR: Seychelles
+  langIT: Seychelles
+  number: 690
+  tld: .sc
+SD:
+  alpha2: SD
+  alpha3: SDN
+  langDE: Sudan
+  langEN: Sudan
+  langES: "Sud\xE1n"
+  langFR: Soudan
+  langIT: Sudan
+  number: 729
+  tld: .sd
+SE:
+  alpha2: SE
+  alpha3: SWE
+  langDE: Schweden
+  langEN: Sweden
+  langES: Suecia
+  langFR: "Su\xE8de"
+  langIT: Svezia
+  number: 752
+  tld: .se
+SG:
+  alpha2: SG
+  alpha3: SGP
+  langDE: Singapur
+  langEN: Singapore
+  langES: Singapur
+  langFR: Singapour
+  langIT: Singapore
+  number: 702
+  tld: .sg
+SH:
+  alpha2: SH
+  alpha3: SHN
+  langDE: St. Helena
+  langEN: Saint Helena, Ascension and Tristan da Cunha
+  langES: "Santa Elena, Ascensi\xF3n y Trist\xE1n de Acu\xF1a"
+  langFR: "Sainte-H\xE9l\xE8ne, Ascension et Tristan da Cunha"
+  langIT: Saint Helena, Ascension e Tristan Da Cunha
+  number: 654
+  tld: .sh
+SI:
+  alpha2: SI
+  alpha3: SVN
+  langDE: Slowenien
+  langEN: Slovenia
+  langES: Eslovenia
+  langFR: "Slov\xE9nie"
+  langIT: Slovenia
+  number: 705
+  tld: .si
+SJ:
+  alpha2: SJ
+  alpha3: SJM
+  langDE: Svalbard und Jan Mayen
+  langEN: Svalbard and Jan Mayen
+  langES: Svalbard y Jan Mayen
+  langFR: Svalbard et ile Jan Mayen
+  langIT: Svalbard e Jan Mayen
+  number: 744
+  tld: .sj
+SK:
+  alpha2: SK
+  alpha3: SVK
+  langDE: Slowakei
+  langEN: Slovakia
+  langES: Eslovaquia
+  langFR: Slovaquie
+  langIT: Slovacchia
+  number: 703
+  tld: .sk
+SL:
+  alpha2: SL
+  alpha3: SLE
+  langDE: Sierra Leone
+  langEN: Sierra Leone
+  langES: Sierra Leona
+  langFR: Sierra Leone
+  langIT: Sierra Leone
+  number: 694
+  tld: .sl
+SM:
+  alpha2: SM
+  alpha3: SMR
+  langDE: San Marino
+  langEN: San Marino
+  langES: San Marino
+  langFR: Saint-Marin
+  langIT: San Marino
+  number: 674
+  tld: .sm
+SN:
+  alpha2: SN
+  alpha3: SEN
+  langDE: Senegal
+  langEN: Senegal
+  langES: Senegal
+  langFR: "S\xE9n\xE9gal"
+  langIT: Senegal
+  number: 686
+  tld: .sn
+SO:
+  alpha2: SO
+  alpha3: SOM
+  langDE: Somalia
+  langEN: Somalia
+  langES: Somalia
+  langFR: Somalie
+  langIT: Somalia
+  number: 706
+  tld: .so
+SR:
+  alpha2: SR
+  alpha3: SUR
+  langDE: Suriname
+  langEN: Suriname
+  langES: Surinam
+  langFR: Suriname
+  langIT: Suriname
+  number: 740
+  tld: .sr
+SS:
+  alpha2: SS
+  alpha3: SSD
+  langDE: "S\xFCdsudan"
+  langEN: South Sudan
+  langES: "Sud\xE1n del Sur"
+  langFR: Soudan du Sud
+  langIT: Sudan del Sud
+  number: 728
+  tld: .ss
+ST:
+  alpha2: ST
+  alpha3: STP
+  langDE: "S\xE3o Tom\xE9 und Pr\xEDncipe"
+  langEN: Sao Tome and Principe
+  langES: "Santo Tom\xE9 y Pr\xEDncipe"
+  langFR: "Sao Tom\xE9-et-Principe"
+  langIT: Sao Tome e Principe
+  number: 678
+  tld: .st
+SV:
+  alpha2: SV
+  alpha3: SLV
+  langDE: El Salvador
+  langEN: El Salvador
+  langES: El Salvador
+  langFR: Salvador
+  langIT: El Salvador
+  number: 222
+  tld: .sv
+SX:
+  alpha2: SX
+  alpha3: SXM
+  langDE: Sint Maarten
+  langEN: Sint Maarten
+  langES: Sint Maarten
+  langFR: Sint Maarten
+  langIT: Sint Maarten
+  number: 534
+  tld: .sx
+SY:
+  alpha2: SY
+  alpha3: SYR
+  langDE: Syrien
+  langEN: Syria
+  langES: Siria
+  langFR: Syrie
+  langIT: Siria
+  number: 760
+  tld: .sy
+SZ:
+  alpha2: SZ
+  alpha3: SWZ
+  langDE: Eswatini
+  langEN: Eswatini
+  langES: Esuatini
+  langFR: Eswatini
+  langIT: Eswatini
+  number: 748
+  tld: .sz
+TC:
+  alpha2: TC
+  alpha3: TCA
+  langDE: Turks- und Caicosinseln
+  langEN: Turks and Caicos Islands
+  langES: Islas Turcas y Caicos
+  langFR: "\xCEles Turques-et-Ca\xEFques"
+  langIT: Isole Turks e Caicos
+  number: 796
+  tld: .tc
+TD:
+  alpha2: TD
+  alpha3: TCD
+  langDE: Tschad
+  langEN: Chad
+  langES: Chad
+  langFR: Tchad
+  langIT: Chad
+  number: 148
+  tld: .td
+TF:
+  alpha2: TF
+  alpha3: ATF
+  langDE: "Franz\xF6sische S\xFCd- und Antarktisgebiete"
+  langEN: French Southern Territories
+  langES: "Tierras Australes y Ant\xE1rticas Francesas"
+  langFR: "Terres australes et antarctiques fran\xE7aises"
+  langIT: Territori della Francia del sud
+  number: 260
+  tld: .tf
+TG:
+  alpha2: TG
+  alpha3: TGO
+  langDE: Togo
+  langEN: Togo
+  langES: Togo
+  langFR: Togo
+  langIT: Andare
+  number: 768
+  tld: .tg
+TH:
+  alpha2: TH
+  alpha3: THA
+  langDE: Thailand
+  langEN: Thailand
+  langES: Tailandia
+  langFR: "Tha\xEFlande"
+  langIT: Tailandia
+  number: 764
+  tld: .th
+TJ:
+  alpha2: TJ
+  alpha3: TJK
+  langDE: Tadschikistan
+  langEN: Tajikistan
+  langES: "Tayikist\xE1n"
+  langFR: Tadjikistan
+  langIT: Tajikistan
+  number: 762
+  tld: .tj
+TK:
+  alpha2: TK
+  alpha3: TKL
+  langDE: Tokelau
+  langEN: Tokelau
+  langES: Tokelau
+  langFR: Tokelau
+  langIT: Tokelau
+  number: 772
+  tld: .tk
+TL:
+  alpha2: TL
+  alpha3: TLS
+  langDE: Osttimor (Timor-Leste)
+  langEN: Timor-Leste
+  langES: Timor Oriental
+  langFR: Timor oriental
+  langIT: Timor Est
+  number: 626
+  tld: .tl
+TM:
+  alpha2: TM
+  alpha3: TKM
+  langDE: Turkmenistan
+  langEN: Turkmenistan
+  langES: "Turkmenist\xE1n"
+  langFR: "Turkm\xE9nistan"
+  langIT: Turkmenistan
+  number: 795
+  tld: .tm
+TN:
+  alpha2: TN
+  alpha3: TUN
+  langDE: Tunesien
+  langEN: Tunisia
+  langES: "T\xFAnez"
+  langFR: Tunisie
+  langIT: Tunisia
+  number: 788
+  tld: .tn
+TO:
+  alpha2: TO
+  alpha3: TON
+  langDE: Tonga
+  langEN: Tonga
+  langES: Tonga
+  langFR: Tonga
+  langIT: Tonga
+  number: 776
+  tld: .to
+TR:
+  alpha2: TR
+  alpha3: TUR
+  langDE: "T\xFCrkei"
+  langEN: Turkey
+  langES: "Turqu\xEDa"
+  langFR: Turquie
+  langIT: Turkey
+  number: 792
+  tld: .tr
+TT:
+  alpha2: TT
+  alpha3: TTO
+  langDE: Trinidad und Tobago
+  langEN: Trinidad and Tobago
+  langES: Trinidad y Tobago
+  langFR: "Trinit\xE9-et-Tobago"
+  langIT: Trinidad e Tobago
+  number: 780
+  tld: .tt
+TV:
+  alpha2: TV
+  alpha3: TUV
+  langDE: Tuvalu
+  langEN: Tuvalu
+  langES: Tuvalu
+  langFR: Tuvalu
+  langIT: Tuvalu
+  number: 798
+  tld: .tv
+TW:
+  alpha2: TW
+  alpha3: TWN
+  langDE: Taiwan
+  langEN: Taiwan
+  langES: "Taiw\xE1n"
+  langFR: "Ta\xEFwan"
+  langIT: Taiwan
+  number: 158
+  tld: .tw
+TZ:
+  alpha2: TZ
+  alpha3: TZA
+  langDE: Tansania, Vereinigte Republik
+  langEN: Tanzania
+  langES: Tanzania
+  langFR: Tanzanie
+  langIT: Tanzania
+  number: 834
+  tld: .tz
+UA:
+  alpha2: UA
+  alpha3: UKR
+  langDE: Ukraine
+  langEN: Ukraine
+  langES: Ucrania
+  langFR: Ukraine
+  langIT: Ukraine
+  number: 804
+  tld: .ua
+UG:
+  alpha2: UG
+  alpha3: UGA
+  langDE: Uganda
+  langEN: Uganda
+  langES: Uganda
+  langFR: Ouganda
+  langIT: Uganda
+  number: 800
+  tld: .ug
+UM:
+  alpha2: UM
+  alpha3: UMI
+  langDE: Kleinere Inselbesitzungen der Vereinigten Staaten
+  langEN: United States Minor Outlying Islands
+  langES: Islas ultramarinas de Estados Unidos
+  langFR: "\xCEles mineures \xE9loign\xE9es des \xC9tats-Unis"
+  langIT: Isole periferiche minori degli Stati Uniti
+  number: 581
+  tld: .um
+US:
+  alpha2: US
+  alpha3: USA
+  langDE: Vereinigte Staaten von Amerika
+  langEN: United States of America
+  langES: Estados Unidos
+  langFR: "\xC9tats-Unis"
+  langIT: Stati Uniti 'America
+  number: 840
+  tld: .us
+UY:
+  alpha2: UY
+  alpha3: URY
+  langDE: Uruguay
+  langEN: Uruguay
+  langES: Uruguay
+  langFR: Uruguay
+  langIT: Uruguay
+  number: 858
+  tld: .uy
+UZ:
+  alpha2: UZ
+  alpha3: UZB
+  langDE: Usbekistan
+  langEN: Uzbekistan
+  langES: "Uzbekist\xE1n"
+  langFR: "Ouzb\xE9kistan"
+  langIT: Uzbekistan
+  number: 860
+  tld: .uz
+VA:
+  alpha2: VA
+  alpha3: VAT
+  langDE: Heiliger Stuhl
+  langEN: Holy See
+  langES: Santa Sede
+  langFR: "Saint-Si\xE8ge"
+  langIT: Santa Sede
+  number: 336
+  tld: .va
+VC:
+  alpha2: VC
+  alpha3: VCT
+  langDE: St. Vincent und die Grenadinen
+  langEN: Saint Vincent and the Grenadines
+  langES: San Vicente y las Granadinas
+  langFR: Saint-Vincent-et-les Grenadines
+  langIT: Saint Vincent e Grenadines
+  number: 670
+  tld: .vc
+VE:
+  alpha2: VE
+  alpha3: VEN
+  langDE: Venezuela
+  langEN: Venezuela
+  langES: Venezuela
+  langFR: Venezuela
+  langIT: Venezuela
+  number: 862
+  tld: .ve
+VG:
+  alpha2: VG
+  alpha3: VGB
+  langDE: Britische Jungferninseln
+  langEN: Virgin Islands (British)
+  langES: "Islas V\xEDrgenes Brit\xE1nicas"
+  langFR: "\xCEles Vierges britanniques"
+  langIT: Isole Vergini (britannici)
+  number: 92
+  tld: .vg
+VI:
+  alpha2: VI
+  alpha3: VIR
+  langDE: Amerikanische Jungferninseln
+  langEN: Virgin Islands (U.S.)
+  langES: "Islas V\xEDrgenes de los Estados Unidos"
+  langFR: "\xCEles Vierges des \xC9tats-Unis"
+  langIT: Isole Vergini (Stati Uniti)
+  number: 850
+  tld: .vi
+VN:
+  alpha2: VN
+  alpha3: VNM
+  langDE: Vietnam
+  langEN: Vietnam
+  langES: Vietnam
+  langFR: "Vi\xEAt Nam"
+  langIT: Vietnam
+  number: 704
+  tld: .vn
+VU:
+  alpha2: VU
+  alpha3: VUT
+  langDE: Vanuatu
+  langEN: Vanuatu
+  langES: Vanuatu
+  langFR: Vanuatu
+  langIT: Vanuatu
+  number: 548
+  tld: .vu
+WF:
+  alpha2: WF
+  alpha3: WLF
+  langDE: Wallis und Futuna
+  langEN: Wallis and Futuna
+  langES: Wallis y Futuna
+  langFR: Wallis-et-Futuna
+  langIT: Wallis e Futuna
+  number: 876
+  tld: .wf
+WS:
+  alpha2: WS
+  alpha3: WSM
+  langDE: Samoa
+  langEN: Samoa
+  langES: Samoa
+  langFR: Samoa
+  langIT: Samoa
+  number: 882
+  tld: .ws
+YE:
+  alpha2: YE
+  alpha3: YEM
+  langDE: Jemen
+  langEN: Yemen
+  langES: Yemen
+  langFR: "Y\xE9men"
+  langIT: Yemen
+  number: 887
+  tld: .ye
+YT:
+  alpha2: YT
+  alpha3: MYT
+  langDE: Mayotte
+  langEN: Mayotte
+  langES: Mayotte
+  langFR: Mayotte
+  langIT: Mayotte
+  number: 175
+  tld: .yt
+ZA:
+  alpha2: ZA
+  alpha3: ZAF
+  langDE: "S\xFCdafrika"
+  langEN: South Africa
+  langES: "Sud\xE1frica"
+  langFR: Afrique du Sud
+  langIT: Sud Africa
+  number: 710
+  tld: .za
+ZM:
+  alpha2: ZM
+  alpha3: ZMB
+  langDE: Sambia
+  langEN: Zambia
+  langES: Zambia
+  langFR: Zambie
+  langIT: Zambia
+  number: 894
+  tld: .zm
+ZW:
+  alpha2: ZW
+  alpha3: ZWE
+  langDE: Simbabwe
+  langEN: Zimbabwe
+  langES: Zimbabue
+  langFR: Zimbabwe
+  langIT: Zimbabwe
+  number: 716
+  tld: .zw

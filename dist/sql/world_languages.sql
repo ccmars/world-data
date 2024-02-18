@@ -1,5 +1,5 @@
 -- World Languages (ISO 639)
--- SQL Table | v1.1.0 (2024)
+-- SQL Table | v3.0.0 (2024)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_languages`;
@@ -198,4 +198,5 @@ INSERT INTO `world_languages` (`alpha2`, `langEN`, `langDE`, `langFR`, `langES`,
 ('zu', 'Zulu', 'Zulu-Sprache', 'zoulou', 'zulú', 'Zulu');
 
 ALTER TABLE `world_languages`
-  ADD PRIMARY KEY (`alpha2`);
+  ADD PRIMARY KEY (`alpha2`),
+  ADD UNIQUE (`alpha2`);

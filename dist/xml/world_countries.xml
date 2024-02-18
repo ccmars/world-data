@@ -1,0 +1,2745 @@
+<?xml version="1.0" ?>
+<countries>
+  <!--World Countries (ISO 3166)-->
+  <!--XML | v3.0.0 (2024)-->
+  <!--https://github.com/ccmars/world-data-->
+  <AD>
+    <number>20</number>
+    <alpha2>AD</alpha2>
+    <alpha3>AND</alpha3>
+    <langEN>Andorra</langEN>
+    <langDE>Andorra</langDE>
+    <langES>Andorra</langES>
+    <langFR>Andorre</langFR>
+    <langIT>Andorra</langIT>
+    <tld>.ad</tld>
+  </AD>
+  <AE>
+    <number>784</number>
+    <alpha2>AE</alpha2>
+    <alpha3>ARE</alpha3>
+    <langEN>United Arab Emirates</langEN>
+    <langDE>Vereinigte Arabische Emirate</langDE>
+    <langES>Emiratos Árabes Unidos</langES>
+    <langFR>Émirats arabes unis</langFR>
+    <langIT>Emirati Arabi Uniti</langIT>
+    <tld>.ae</tld>
+  </AE>
+  <AF>
+    <number>4</number>
+    <alpha2>AF</alpha2>
+    <alpha3>AFG</alpha3>
+    <langEN>Afghanistan</langEN>
+    <langDE>Afghanistan</langDE>
+    <langES>Afganistán</langES>
+    <langFR>Afghanistan</langFR>
+    <langIT>Afghanistan</langIT>
+    <tld>.af</tld>
+  </AF>
+  <AG>
+    <number>28</number>
+    <alpha2>AG</alpha2>
+    <alpha3>ATG</alpha3>
+    <langEN>Antigua and Barbuda</langEN>
+    <langDE>Antigua und Barbuda</langDE>
+    <langES>Antigua y Barbuda</langES>
+    <langFR>Antigua-et-Barbuda</langFR>
+    <langIT>Antigua e Barbuda</langIT>
+    <tld>.ag</tld>
+  </AG>
+  <AI>
+    <number>660</number>
+    <alpha2>AI</alpha2>
+    <alpha3>AIA</alpha3>
+    <langEN>Anguilla</langEN>
+    <langDE>Anguilla</langDE>
+    <langES>Anguila</langES>
+    <langFR>Anguilla</langFR>
+    <langIT>Anguilla</langIT>
+    <tld>.ai</tld>
+  </AI>
+  <AL>
+    <number>8</number>
+    <alpha2>AL</alpha2>
+    <alpha3>ALB</alpha3>
+    <langEN>Albania</langEN>
+    <langDE>Albanien</langDE>
+    <langES>Albania</langES>
+    <langFR>Albanie</langFR>
+    <langIT>Albania</langIT>
+    <tld>.al</tld>
+  </AL>
+  <AM>
+    <number>51</number>
+    <alpha2>AM</alpha2>
+    <alpha3>ARM</alpha3>
+    <langEN>Armenia</langEN>
+    <langDE>Armenien</langDE>
+    <langES>Armenia</langES>
+    <langFR>Arménie</langFR>
+    <langIT>Armenia</langIT>
+    <tld>.am</tld>
+  </AM>
+  <AO>
+    <number>24</number>
+    <alpha2>AO</alpha2>
+    <alpha3>AGO</alpha3>
+    <langEN>Angola</langEN>
+    <langDE>Angola</langDE>
+    <langES>Angola</langES>
+    <langFR>Angola</langFR>
+    <langIT>Angola</langIT>
+    <tld>.ao</tld>
+  </AO>
+  <AQ>
+    <number>10</number>
+    <alpha2>AQ</alpha2>
+    <alpha3>ATA</alpha3>
+    <langEN>Antarctica</langEN>
+    <langDE>Antarktika</langDE>
+    <langES>Antártida</langES>
+    <langFR>Antarctique</langFR>
+    <langIT>Antartide</langIT>
+    <tld>.aq</tld>
+  </AQ>
+  <AR>
+    <number>32</number>
+    <alpha2>AR</alpha2>
+    <alpha3>ARG</alpha3>
+    <langEN>Argentina</langEN>
+    <langDE>Argentinien</langDE>
+    <langES>Argentina</langES>
+    <langFR>Argentine</langFR>
+    <langIT>Argentina</langIT>
+    <tld>.ar</tld>
+  </AR>
+  <AS>
+    <number>16</number>
+    <alpha2>AS</alpha2>
+    <alpha3>ASM</alpha3>
+    <langEN>American Samoa</langEN>
+    <langDE>Amerikanisch-Samoa</langDE>
+    <langES>Samoa Americana</langES>
+    <langFR>Samoa américaines</langFR>
+    <langIT>Samoa americane</langIT>
+    <tld>.as</tld>
+  </AS>
+  <AT>
+    <number>40</number>
+    <alpha2>AT</alpha2>
+    <alpha3>AUT</alpha3>
+    <langEN>Austria</langEN>
+    <langDE>Österreich</langDE>
+    <langES>Austria</langES>
+    <langFR>Autriche</langFR>
+    <langIT>Austria</langIT>
+    <tld>.at</tld>
+  </AT>
+  <AU>
+    <number>36</number>
+    <alpha2>AU</alpha2>
+    <alpha3>AUS</alpha3>
+    <langEN>Australia</langEN>
+    <langDE>Australien</langDE>
+    <langES>Australia</langES>
+    <langFR>Australie</langFR>
+    <langIT>Australia</langIT>
+    <tld>.au</tld>
+  </AU>
+  <AW>
+    <number>533</number>
+    <alpha2>AW</alpha2>
+    <alpha3>ABW</alpha3>
+    <langEN>Aruba</langEN>
+    <langDE>Aruba</langDE>
+    <langES>Aruba</langES>
+    <langFR>Aruba</langFR>
+    <langIT>Aruba</langIT>
+    <tld>.aw</tld>
+  </AW>
+  <AX>
+    <number>248</number>
+    <alpha2>AX</alpha2>
+    <alpha3>ALA</alpha3>
+    <langEN>Åland</langEN>
+    <langDE>Åland</langDE>
+    <langES>Åland</langES>
+    <langFR>Åland</langFR>
+    <langIT>Aland</langIT>
+    <tld>.ax</tld>
+  </AX>
+  <AZ>
+    <number>31</number>
+    <alpha2>AZ</alpha2>
+    <alpha3>AZE</alpha3>
+    <langEN>Azerbaijan</langEN>
+    <langDE>Aserbaidschan</langDE>
+    <langES>Azerbaiyán</langES>
+    <langFR>Azerbaïdjan</langFR>
+    <langIT>Azerbaigian</langIT>
+    <tld>.az</tld>
+  </AZ>
+  <BA>
+    <number>70</number>
+    <alpha2>BA</alpha2>
+    <alpha3>BIH</alpha3>
+    <langEN>Bosnia and Herzegovina</langEN>
+    <langDE>Bosnien und Herzegowina</langDE>
+    <langES>Bosnia y Herzegovina</langES>
+    <langFR>Bosnie-Herzégovine</langFR>
+    <langIT>Bosnia Erzegovina</langIT>
+    <tld>.ba</tld>
+  </BA>
+  <BB>
+    <number>52</number>
+    <alpha2>BB</alpha2>
+    <alpha3>BRB</alpha3>
+    <langEN>Barbados</langEN>
+    <langDE>Barbados</langDE>
+    <langES>Barbados</langES>
+    <langFR>Barbade</langFR>
+    <langIT>Barbados</langIT>
+    <tld>.bb</tld>
+  </BB>
+  <BD>
+    <number>50</number>
+    <alpha2>BD</alpha2>
+    <alpha3>BGD</alpha3>
+    <langEN>Bangladesh</langEN>
+    <langDE>Bangladesch</langDE>
+    <langES>Bangladés</langES>
+    <langFR>Bangladesh</langFR>
+    <langIT>Bangladesh</langIT>
+    <tld>.bd</tld>
+  </BD>
+  <BE>
+    <number>56</number>
+    <alpha2>BE</alpha2>
+    <alpha3>BEL</alpha3>
+    <langEN>Belgium</langEN>
+    <langDE>Belgien</langDE>
+    <langES>Bélgica</langES>
+    <langFR>Belgique</langFR>
+    <langIT>Belgio</langIT>
+    <tld>.be</tld>
+  </BE>
+  <BF>
+    <number>854</number>
+    <alpha2>BF</alpha2>
+    <alpha3>BFA</alpha3>
+    <langEN>Burkina Faso</langEN>
+    <langDE>Burkina Faso</langDE>
+    <langES>Burkina Faso</langES>
+    <langFR>Burkina Faso</langFR>
+    <langIT>Burkina Faso</langIT>
+    <tld>.bf</tld>
+  </BF>
+  <BG>
+    <number>100</number>
+    <alpha2>BG</alpha2>
+    <alpha3>BGR</alpha3>
+    <langEN>Bulgaria</langEN>
+    <langDE>Bulgarien</langDE>
+    <langES>Bulgaria</langES>
+    <langFR>Bulgarie</langFR>
+    <langIT>Bulgaria</langIT>
+    <tld>.bg</tld>
+  </BG>
+  <BH>
+    <number>48</number>
+    <alpha2>BH</alpha2>
+    <alpha3>BHR</alpha3>
+    <langEN>Bahrain</langEN>
+    <langDE>Bahrain</langDE>
+    <langES>Baréin</langES>
+    <langFR>Bahreïn</langFR>
+    <langIT>Bahrein</langIT>
+    <tld>.bh</tld>
+  </BH>
+  <BI>
+    <number>108</number>
+    <alpha2>BI</alpha2>
+    <alpha3>BDI</alpha3>
+    <langEN>Burundi</langEN>
+    <langDE>Burundi</langDE>
+    <langES>Burundi</langES>
+    <langFR>Burundi</langFR>
+    <langIT>Burundi</langIT>
+    <tld>.bi</tld>
+  </BI>
+  <BJ>
+    <number>204</number>
+    <alpha2>BJ</alpha2>
+    <alpha3>BEN</alpha3>
+    <langEN>Benin</langEN>
+    <langDE>Benin</langDE>
+    <langES>Benín</langES>
+    <langFR>Bénin</langFR>
+    <langIT>Benin</langIT>
+    <tld>.bj</tld>
+  </BJ>
+  <BL>
+    <number>652</number>
+    <alpha2>BL</alpha2>
+    <alpha3>BLM</alpha3>
+    <langEN>Saint Barthélemy</langEN>
+    <langDE>Saint-Barthélemy</langDE>
+    <langES>San Bartolomé</langES>
+    <langFR>Saint-Barthélemy</langFR>
+    <langIT>San Bartolomeo</langIT>
+    <tld>.bl</tld>
+  </BL>
+  <BM>
+    <number>60</number>
+    <alpha2>BM</alpha2>
+    <alpha3>BMU</alpha3>
+    <langEN>Bermuda</langEN>
+    <langDE>Bermuda</langDE>
+    <langES>Bermudas</langES>
+    <langFR>Bermudes</langFR>
+    <langIT>Bermuda</langIT>
+    <tld>.bm</tld>
+  </BM>
+  <BN>
+    <number>96</number>
+    <alpha2>BN</alpha2>
+    <alpha3>BRN</alpha3>
+    <langEN>Brunei Darussalam</langEN>
+    <langDE>Brunei Darussalam</langDE>
+    <langES>Brunéi</langES>
+    <langFR>Brunei</langFR>
+    <langIT>Brunei</langIT>
+    <tld>.bn</tld>
+  </BN>
+  <BO>
+    <number>68</number>
+    <alpha2>BO</alpha2>
+    <alpha3>BOL</alpha3>
+    <langEN>Bolivia</langEN>
+    <langDE>Bolivien</langDE>
+    <langES>Bolivia</langES>
+    <langFR>Bolivie</langFR>
+    <langIT>Bolivia</langIT>
+    <tld>.bo</tld>
+  </BO>
+  <BQ>
+    <number>535</number>
+    <alpha2>BQ</alpha2>
+    <alpha3>BES</alpha3>
+    <langEN>Bonaire, Sint Eustatius and Saba</langEN>
+    <langDE>Bonaire, Sint Eustatius und Saba</langDE>
+    <langES>Bonaire, San Eustaquio y Saba</langES>
+    <langFR>Bas caribéens</langFR>
+    <langIT>Bonaire, Sint Eustatius e Saba</langIT>
+    <tld>.bq</tld>
+  </BQ>
+  <BR>
+    <number>76</number>
+    <alpha2>BR</alpha2>
+    <alpha3>BRA</alpha3>
+    <langEN>Brazil</langEN>
+    <langDE>Brasilien</langDE>
+    <langES>Brasil</langES>
+    <langFR>Brésil</langFR>
+    <langIT>Brasile</langIT>
+    <tld>.br</tld>
+  </BR>
+  <BS>
+    <number>44</number>
+    <alpha2>BS</alpha2>
+    <alpha3>BHS</alpha3>
+    <langEN>Bahamas</langEN>
+    <langDE>Bahamas</langDE>
+    <langES>Bahamas</langES>
+    <langFR>Bahamas</langFR>
+    <langIT>Bahamas</langIT>
+    <tld>.bs</tld>
+  </BS>
+  <BT>
+    <number>64</number>
+    <alpha2>BT</alpha2>
+    <alpha3>BTN</alpha3>
+    <langEN>Bhutan</langEN>
+    <langDE>Bhutan</langDE>
+    <langES>Bután</langES>
+    <langFR>Bhoutan</langFR>
+    <langIT>Bhutan</langIT>
+    <tld>.bt</tld>
+  </BT>
+  <BV>
+    <number>74</number>
+    <alpha2>BV</alpha2>
+    <alpha3>BVT</alpha3>
+    <langEN>Bouvet Island</langEN>
+    <langDE>Bouvetinsel</langDE>
+    <langES>Isla Bouvet</langES>
+    <langFR>Île Bouvet</langFR>
+    <langIT>Isola Bouvet</langIT>
+    <tld>.bv</tld>
+  </BV>
+  <BW>
+    <number>72</number>
+    <alpha2>BW</alpha2>
+    <alpha3>BWA</alpha3>
+    <langEN>Botswana</langEN>
+    <langDE>Botswana</langDE>
+    <langES>Botsuana</langES>
+    <langFR>Botswana</langFR>
+    <langIT>Botswana</langIT>
+    <tld>.bw</tld>
+  </BW>
+  <BY>
+    <number>112</number>
+    <alpha2>BY</alpha2>
+    <alpha3>BLR</alpha3>
+    <langEN>Belarus</langEN>
+    <langDE>Belarus (Weißrussland)</langDE>
+    <langES>Bielorrusia</langES>
+    <langFR>Biélorussie</langFR>
+    <langIT>Bielorussia</langIT>
+    <tld>.by</tld>
+  </BY>
+  <BZ>
+    <number>84</number>
+    <alpha2>BZ</alpha2>
+    <alpha3>BLZ</alpha3>
+    <langEN>Belize</langEN>
+    <langDE>Belize</langDE>
+    <langES>Belice</langES>
+    <langFR>Belize</langFR>
+    <langIT>Belize</langIT>
+    <tld>.bz</tld>
+  </BZ>
+  <CA>
+    <number>124</number>
+    <alpha2>CA</alpha2>
+    <alpha3>CAN</alpha3>
+    <langEN>Canada</langEN>
+    <langDE>Kanada</langDE>
+    <langES>Canadá</langES>
+    <langFR>Canada</langFR>
+    <langIT>Canada</langIT>
+    <tld>.ca</tld>
+  </CA>
+  <CC>
+    <number>166</number>
+    <alpha2>CC</alpha2>
+    <alpha3>CCK</alpha3>
+    <langEN>Cocos (Keeling) Islands</langEN>
+    <langDE>Kokosinseln</langDE>
+    <langES>Islas Cocos</langES>
+    <langFR>Îles Cocos</langFR>
+    <langIT>Isole Cocos (Keeling)</langIT>
+    <tld>.cc</tld>
+  </CC>
+  <CD>
+    <number>180</number>
+    <alpha2>CD</alpha2>
+    <alpha3>COD</alpha3>
+    <langEN>Democratic Republic of the Congo</langEN>
+    <langDE>Kongo, Demokratische Republik</langDE>
+    <langES>República Democrática del Congo</langES>
+    <langFR>République démocratique du Congo</langFR>
+    <langIT>Repubblica Democratica del Congo</langIT>
+    <tld>.cd</tld>
+  </CD>
+  <CF>
+    <number>140</number>
+    <alpha2>CF</alpha2>
+    <alpha3>CAF</alpha3>
+    <langEN>Central African Republic</langEN>
+    <langDE>Zentralafrikanische Republik</langDE>
+    <langES>República Centroafricana</langES>
+    <langFR>République centrafricaine</langFR>
+    <langIT>Repubblica centrale africana</langIT>
+    <tld>.cf</tld>
+  </CF>
+  <CG>
+    <number>178</number>
+    <alpha2>CG</alpha2>
+    <alpha3>COG</alpha3>
+    <langEN>Congo</langEN>
+    <langDE>Republik Kongo</langDE>
+    <langES>República del Congo</langES>
+    <langFR>République du Congo</langFR>
+    <langIT>Congo</langIT>
+    <tld>.cg</tld>
+  </CG>
+  <CH>
+    <number>756</number>
+    <alpha2>CH</alpha2>
+    <alpha3>CHE</alpha3>
+    <langEN>Switzerland</langEN>
+    <langDE>Schweiz</langDE>
+    <langES>Suiza</langES>
+    <langFR>Suisse</langFR>
+    <langIT>Switzerland</langIT>
+    <tld>.ch</tld>
+  </CH>
+  <CI>
+    <number>384</number>
+    <alpha2>CI</alpha2>
+    <alpha3>CIV</alpha3>
+    <langEN>Côte 'Ivoire</langEN>
+    <langDE>Côte 'Ivoire</langDE>
+    <langES>Costa de Marfil</langES>
+    <langFR>Côte 'Ivoire</langFR>
+    <langIT>Costa 'Avoire</langIT>
+    <tld>.ci</tld>
+  </CI>
+  <CK>
+    <number>184</number>
+    <alpha2>CK</alpha2>
+    <alpha3>COK</alpha3>
+    <langEN>Cook Islands</langEN>
+    <langDE>Cookinseln</langDE>
+    <langES>Islas Cook</langES>
+    <langFR>Îles Cook</langFR>
+    <langIT>Isole Cook</langIT>
+    <tld>.ck</tld>
+  </CK>
+  <CL>
+    <number>152</number>
+    <alpha2>CL</alpha2>
+    <alpha3>CHL</alpha3>
+    <langEN>Chile</langEN>
+    <langDE>Chile</langDE>
+    <langES>Chile</langES>
+    <langFR>Chili</langFR>
+    <langIT>Chile</langIT>
+    <tld>.cl</tld>
+  </CL>
+  <CM>
+    <number>120</number>
+    <alpha2>CM</alpha2>
+    <alpha3>CMR</alpha3>
+    <langEN>Cameroon</langEN>
+    <langDE>Kamerun</langDE>
+    <langES>Camerún</langES>
+    <langFR>Cameroun</langFR>
+    <langIT>Camerun</langIT>
+    <tld>.cm</tld>
+  </CM>
+  <CN>
+    <number>156</number>
+    <alpha2>CN</alpha2>
+    <alpha3>CHN</alpha3>
+    <langEN>China</langEN>
+    <langDE>China</langDE>
+    <langES>China</langES>
+    <langFR>Chine</langFR>
+    <langIT>Cina</langIT>
+    <tld>.cn</tld>
+  </CN>
+  <CO>
+    <number>170</number>
+    <alpha2>CO</alpha2>
+    <alpha3>COL</alpha3>
+    <langEN>Colombia</langEN>
+    <langDE>Kolumbien</langDE>
+    <langES>Colombia</langES>
+    <langFR>Colombie</langFR>
+    <langIT>Colombia</langIT>
+    <tld>.co</tld>
+  </CO>
+  <CR>
+    <number>188</number>
+    <alpha2>CR</alpha2>
+    <alpha3>CRI</alpha3>
+    <langEN>Costa Rica</langEN>
+    <langDE>Costa Rica</langDE>
+    <langES>Costa Rica</langES>
+    <langFR>Costa Rica</langFR>
+    <langIT>Costa Rica</langIT>
+    <tld>.cr</tld>
+  </CR>
+  <CU>
+    <number>192</number>
+    <alpha2>CU</alpha2>
+    <alpha3>CUB</alpha3>
+    <langEN>Cuba</langEN>
+    <langDE>Kuba</langDE>
+    <langES>Cuba</langES>
+    <langFR>Cuba</langFR>
+    <langIT>Cuba</langIT>
+    <tld>.cu</tld>
+  </CU>
+  <CV>
+    <number>132</number>
+    <alpha2>CV</alpha2>
+    <alpha3>CPV</alpha3>
+    <langEN>Cabo Verde</langEN>
+    <langDE>Kap Verde</langDE>
+    <langES>Cabo Verde</langES>
+    <langFR>Cap-Vert</langFR>
+    <langIT>Capo Verde</langIT>
+    <tld>.cv</tld>
+  </CV>
+  <CW>
+    <number>531</number>
+    <alpha2>CW</alpha2>
+    <alpha3>CUW</alpha3>
+    <langEN>Curaçao</langEN>
+    <langDE>Curaçao</langDE>
+    <langES>Curazao</langES>
+    <langFR>Curaçao</langFR>
+    <langIT>Curacao</langIT>
+    <tld>.cw</tld>
+  </CW>
+  <CX>
+    <number>162</number>
+    <alpha2>CX</alpha2>
+    <alpha3>CXR</alpha3>
+    <langEN>Christmas Island</langEN>
+    <langDE>Weihnachtsinsel</langDE>
+    <langES>Isla de Navidad</langES>
+    <langFR>Île Christmas</langFR>
+    <langIT>Isola di Natale</langIT>
+    <tld>.cx</tld>
+  </CX>
+  <CY>
+    <number>196</number>
+    <alpha2>CY</alpha2>
+    <alpha3>CYP</alpha3>
+    <langEN>Cyprus</langEN>
+    <langDE>Zypern</langDE>
+    <langES>Chipre</langES>
+    <langFR>Chypre</langFR>
+    <langIT>Cipro</langIT>
+    <tld>.cy</tld>
+  </CY>
+  <CZ>
+    <number>203</number>
+    <alpha2>CZ</alpha2>
+    <alpha3>CZE</alpha3>
+    <langEN>Czechia</langEN>
+    <langDE>Tschechien</langDE>
+    <langES>Chequia</langES>
+    <langFR>Tchéquie</langFR>
+    <langIT>Cechia</langIT>
+    <tld>.cz</tld>
+  </CZ>
+  <DE>
+    <number>276</number>
+    <alpha2>DE</alpha2>
+    <alpha3>DEU</alpha3>
+    <langEN>Germany</langEN>
+    <langDE>Deutschland</langDE>
+    <langES>Alemania</langES>
+    <langFR>Allemagne</langFR>
+    <langIT>Germania</langIT>
+    <tld>.de</tld>
+  </DE>
+  <DJ>
+    <number>262</number>
+    <alpha2>DJ</alpha2>
+    <alpha3>DJI</alpha3>
+    <langEN>Djibouti</langEN>
+    <langDE>Dschibuti</langDE>
+    <langES>Yibuti</langES>
+    <langFR>Djibouti</langFR>
+    <langIT>Djibouti</langIT>
+    <tld>.dj</tld>
+  </DJ>
+  <DK>
+    <number>208</number>
+    <alpha2>DK</alpha2>
+    <alpha3>DNK</alpha3>
+    <langEN>Denmark</langEN>
+    <langDE>Dänemark</langDE>
+    <langES>Dinamarca</langES>
+    <langFR>Danemark</langFR>
+    <langIT>Danimarca</langIT>
+    <tld>.dk</tld>
+  </DK>
+  <DM>
+    <number>212</number>
+    <alpha2>DM</alpha2>
+    <alpha3>DMA</alpha3>
+    <langEN>Dominica</langEN>
+    <langDE>Dominica</langDE>
+    <langES>Dominica</langES>
+    <langFR>Dominique</langFR>
+    <langIT>Dominica</langIT>
+    <tld>.dm</tld>
+  </DM>
+  <DO>
+    <number>214</number>
+    <alpha2>DO</alpha2>
+    <alpha3>DOM</alpha3>
+    <langEN>Dominican Republic</langEN>
+    <langDE>Dominikanische Republik</langDE>
+    <langES>República Dominicana</langES>
+    <langFR>République dominicaine</langFR>
+    <langIT>Repubblica Dominicana</langIT>
+    <tld>.do</tld>
+  </DO>
+  <DZ>
+    <number>12</number>
+    <alpha2>DZ</alpha2>
+    <alpha3>DZA</alpha3>
+    <langEN>Algeria</langEN>
+    <langDE>Algerien</langDE>
+    <langES>Argelia</langES>
+    <langFR>Algérie</langFR>
+    <langIT>Algeria</langIT>
+    <tld>.dz</tld>
+  </DZ>
+  <EC>
+    <number>218</number>
+    <alpha2>EC</alpha2>
+    <alpha3>ECU</alpha3>
+    <langEN>Ecuador</langEN>
+    <langDE>Ecuador</langDE>
+    <langES>Ecuador</langES>
+    <langFR>Équateur</langFR>
+    <langIT>Ecuador</langIT>
+    <tld>.ec</tld>
+  </EC>
+  <EE>
+    <number>233</number>
+    <alpha2>EE</alpha2>
+    <alpha3>EST</alpha3>
+    <langEN>Estonia</langEN>
+    <langDE>Estland</langDE>
+    <langES>Estonia</langES>
+    <langFR>Estonie</langFR>
+    <langIT>Estonia</langIT>
+    <tld>.ee</tld>
+  </EE>
+  <EG>
+    <number>818</number>
+    <alpha2>EG</alpha2>
+    <alpha3>EGY</alpha3>
+    <langEN>Egypt</langEN>
+    <langDE>Ägypten</langDE>
+    <langES>Egipto</langES>
+    <langFR>Égypte</langFR>
+    <langIT>Egitto</langIT>
+    <tld>.eg</tld>
+  </EG>
+  <EH>
+    <number>732</number>
+    <alpha2>EH</alpha2>
+    <alpha3>ESH</alpha3>
+    <langEN>Western Sahara</langEN>
+    <langDE>Westsahara</langDE>
+    <langES>República Árabe Saharaui Democrática</langES>
+    <langFR>République arabe sahraouie démocratique</langFR>
+    <langIT>Sahara occidentale</langIT>
+    <tld>.eh</tld>
+  </EH>
+  <ER>
+    <number>232</number>
+    <alpha2>ER</alpha2>
+    <alpha3>ERI</alpha3>
+    <langEN>Eritrea</langEN>
+    <langDE>Eritrea</langDE>
+    <langES>Eritrea</langES>
+    <langFR>Érythrée</langFR>
+    <langIT>Eritrea</langIT>
+    <tld>.er</tld>
+  </ER>
+  <ES>
+    <number>724</number>
+    <alpha2>ES</alpha2>
+    <alpha3>ESP</alpha3>
+    <langEN>Spain</langEN>
+    <langDE>Spanien</langDE>
+    <langES>España</langES>
+    <langFR>Espagne</langFR>
+    <langIT>Spagna</langIT>
+    <tld>.es</tld>
+  </ES>
+  <ET>
+    <number>231</number>
+    <alpha2>ET</alpha2>
+    <alpha3>ETH</alpha3>
+    <langEN>Ethiopia</langEN>
+    <langDE>Äthiopien</langDE>
+    <langES>Etiopía</langES>
+    <langFR>Éthiopie</langFR>
+    <langIT>Etiopia</langIT>
+    <tld>.et</tld>
+  </ET>
+  <FI>
+    <number>246</number>
+    <alpha2>FI</alpha2>
+    <alpha3>FIN</alpha3>
+    <langEN>Finland</langEN>
+    <langDE>Finnland</langDE>
+    <langES>Finlandia</langES>
+    <langFR>Finlande</langFR>
+    <langIT>Finlandia</langIT>
+    <tld>.fi</tld>
+  </FI>
+  <FJ>
+    <number>242</number>
+    <alpha2>FJ</alpha2>
+    <alpha3>FJI</alpha3>
+    <langEN>Fiji</langEN>
+    <langDE>Fidschi</langDE>
+    <langES>Fiyi</langES>
+    <langFR>Fidji</langFR>
+    <langIT>Figi</langIT>
+    <tld>.fj</tld>
+  </FJ>
+  <FK>
+    <number>238</number>
+    <alpha2>FK</alpha2>
+    <alpha3>FLK</alpha3>
+    <langEN>Falkland Islands</langEN>
+    <langDE>Falklandinseln</langDE>
+    <langES>Islas Malvinas</langES>
+    <langFR>Malouines</langFR>
+    <langIT>Isole Falkland</langIT>
+    <tld>.fk</tld>
+  </FK>
+  <FM>
+    <number>583</number>
+    <alpha2>FM</alpha2>
+    <alpha3>FSM</alpha3>
+    <langEN>Micronesia</langEN>
+    <langDE>Mikronesien</langDE>
+    <langES>Micronesia</langES>
+    <langFR>Micronésie</langFR>
+    <langIT>Micronesia</langIT>
+    <tld>.fm</tld>
+  </FM>
+  <FO>
+    <number>234</number>
+    <alpha2>FO</alpha2>
+    <alpha3>FRO</alpha3>
+    <langEN>Faroe Islands</langEN>
+    <langDE>Färöer</langDE>
+    <langES>Islas Feroe</langES>
+    <langFR>Îles Féroé</langFR>
+    <langIT>Isole Faroe</langIT>
+    <tld>.fo</tld>
+  </FO>
+  <FR>
+    <number>250</number>
+    <alpha2>FR</alpha2>
+    <alpha3>FRA</alpha3>
+    <langEN>France</langEN>
+    <langDE>Frankreich</langDE>
+    <langES>Francia</langES>
+    <langFR>France</langFR>
+    <langIT>Francia</langIT>
+    <tld>.fr</tld>
+  </FR>
+  <GA>
+    <number>266</number>
+    <alpha2>GA</alpha2>
+    <alpha3>GAB</alpha3>
+    <langEN>Gabon</langEN>
+    <langDE>Gabun</langDE>
+    <langES>Gabón</langES>
+    <langFR>Gabon</langFR>
+    <langIT>Gabon</langIT>
+    <tld>.ga</tld>
+  </GA>
+  <GB>
+    <number>826</number>
+    <alpha2>GB</alpha2>
+    <alpha3>GBR</alpha3>
+    <langEN>United Kingdom</langEN>
+    <langDE>Vereinigte Königreich</langDE>
+    <langES>Reino Unido</langES>
+    <langFR>Royaume-Uni</langFR>
+    <langIT>Regno Unito</langIT>
+    <tld>.uk</tld>
+  </GB>
+  <GD>
+    <number>308</number>
+    <alpha2>GD</alpha2>
+    <alpha3>GRD</alpha3>
+    <langEN>Grenada</langEN>
+    <langDE>Grenada</langDE>
+    <langES>Granada</langES>
+    <langFR>Grenade</langFR>
+    <langIT>Grenada</langIT>
+    <tld>.gd</tld>
+  </GD>
+  <GE>
+    <number>268</number>
+    <alpha2>GE</alpha2>
+    <alpha3>GEO</alpha3>
+    <langEN>Georgia</langEN>
+    <langDE>Georgien</langDE>
+    <langES>Georgia</langES>
+    <langFR>Géorgie</langFR>
+    <langIT>Georgia</langIT>
+    <tld>.ge</tld>
+  </GE>
+  <GF>
+    <number>254</number>
+    <alpha2>GF</alpha2>
+    <alpha3>GUF</alpha3>
+    <langEN>French Guiana</langEN>
+    <langDE>Französisch-Guayana</langDE>
+    <langES>Guayana Francesa</langES>
+    <langFR>Guyane</langFR>
+    <langIT>Guiana francese</langIT>
+    <tld>.gf</tld>
+  </GF>
+  <GG>
+    <number>831</number>
+    <alpha2>GG</alpha2>
+    <alpha3>GGY</alpha3>
+    <langEN>Guernsey</langEN>
+    <langDE>Guernsey</langDE>
+    <langES>Guernsey</langES>
+    <langFR>Guernesey</langFR>
+    <langIT>Guernsey</langIT>
+    <tld>.gg</tld>
+  </GG>
+  <GH>
+    <number>288</number>
+    <alpha2>GH</alpha2>
+    <alpha3>GHA</alpha3>
+    <langEN>Ghana</langEN>
+    <langDE>Ghana</langDE>
+    <langES>Ghana</langES>
+    <langFR>Ghana</langFR>
+    <langIT>Ghana</langIT>
+    <tld>.gh</tld>
+  </GH>
+  <GI>
+    <number>292</number>
+    <alpha2>GI</alpha2>
+    <alpha3>GIB</alpha3>
+    <langEN>Gibraltar</langEN>
+    <langDE>Gibraltar</langDE>
+    <langES>Gibraltar</langES>
+    <langFR>Gibraltar</langFR>
+    <langIT>Gibilterra</langIT>
+    <tld>.gi</tld>
+  </GI>
+  <GL>
+    <number>304</number>
+    <alpha2>GL</alpha2>
+    <alpha3>GRL</alpha3>
+    <langEN>Greenland</langEN>
+    <langDE>Grönland</langDE>
+    <langES>Groenlandia</langES>
+    <langFR>Groenland</langFR>
+    <langIT>Groenlandia</langIT>
+    <tld>.gl</tld>
+  </GL>
+  <GM>
+    <number>270</number>
+    <alpha2>GM</alpha2>
+    <alpha3>GMB</alpha3>
+    <langEN>Gambia</langEN>
+    <langDE>Gambia</langDE>
+    <langES>Gambia</langES>
+    <langFR>Gambie</langFR>
+    <langIT>Gambia</langIT>
+    <tld>.gm</tld>
+  </GM>
+  <GN>
+    <number>324</number>
+    <alpha2>GN</alpha2>
+    <alpha3>GIN</alpha3>
+    <langEN>Guinea</langEN>
+    <langDE>Guinea</langDE>
+    <langES>Guinea</langES>
+    <langFR>Guinée</langFR>
+    <langIT>Guinea</langIT>
+    <tld>.gn</tld>
+  </GN>
+  <GP>
+    <number>312</number>
+    <alpha2>GP</alpha2>
+    <alpha3>GLP</alpha3>
+    <langEN>Guadeloupe</langEN>
+    <langDE>Guadeloupe</langDE>
+    <langES>Guadalupe</langES>
+    <langFR>Guadeloupe</langFR>
+    <langIT>Guadeloupe</langIT>
+    <tld>.gp</tld>
+  </GP>
+  <GQ>
+    <number>226</number>
+    <alpha2>GQ</alpha2>
+    <alpha3>GNQ</alpha3>
+    <langEN>Equatorial Guinea</langEN>
+    <langDE>Äquatorialguinea</langDE>
+    <langES>Guinea Ecuatorial</langES>
+    <langFR>Guinée équatoriale</langFR>
+    <langIT>Guinea Equatoriale</langIT>
+    <tld>.gq</tld>
+  </GQ>
+  <GR>
+    <number>300</number>
+    <alpha2>GR</alpha2>
+    <alpha3>GRC</alpha3>
+    <langEN>Greece</langEN>
+    <langDE>Griechenland</langDE>
+    <langES>Grecia</langES>
+    <langFR>Grèce</langFR>
+    <langIT>Grecia</langIT>
+    <tld>.gr</tld>
+  </GR>
+  <GS>
+    <number>239</number>
+    <alpha2>GS</alpha2>
+    <alpha3>SGS</alpha3>
+    <langEN>South Georgia and the South Sandwich Islands</langEN>
+    <langDE>Südgeorgien und die Südlichen Sandwichinseln</langDE>
+    <langES>Islas Georgias del Sur y Sandwich del Sur</langES>
+    <langFR>Géorgie du Sud-et-les Îles Sandwich du Sud</langFR>
+    <langIT>Georgia del Sud e Isole Sandwich Australi</langIT>
+    <tld>.gs</tld>
+  </GS>
+  <GT>
+    <number>320</number>
+    <alpha2>GT</alpha2>
+    <alpha3>GTM</alpha3>
+    <langEN>Guatemala</langEN>
+    <langDE>Guatemala</langDE>
+    <langES>Guatemala</langES>
+    <langFR>Guatemala</langFR>
+    <langIT>Guatemala</langIT>
+    <tld>.gt</tld>
+  </GT>
+  <GU>
+    <number>316</number>
+    <alpha2>GU</alpha2>
+    <alpha3>GUM</alpha3>
+    <langEN>Guam</langEN>
+    <langDE>Guam</langDE>
+    <langES>Guam</langES>
+    <langFR>Guam</langFR>
+    <langIT>Guam</langIT>
+    <tld>.gu</tld>
+  </GU>
+  <GW>
+    <number>624</number>
+    <alpha2>GW</alpha2>
+    <alpha3>GNB</alpha3>
+    <langEN>Guinea-Bissau</langEN>
+    <langDE>Guinea-Bissau</langDE>
+    <langES>Guinea-Bisáu</langES>
+    <langFR>Guinée-Bissau</langFR>
+    <langIT>Guinea-Bissau</langIT>
+    <tld>.gw</tld>
+  </GW>
+  <GY>
+    <number>328</number>
+    <alpha2>GY</alpha2>
+    <alpha3>GUY</alpha3>
+    <langEN>Guyana</langEN>
+    <langDE>Guyana</langDE>
+    <langES>Guyana</langES>
+    <langFR>Guyana</langFR>
+    <langIT>Guyana</langIT>
+    <tld>.gy</tld>
+  </GY>
+  <HK>
+    <number>344</number>
+    <alpha2>HK</alpha2>
+    <alpha3>HKG</alpha3>
+    <langEN>Hong Kong</langEN>
+    <langDE>Hongkong</langDE>
+    <langES>Hong Kong</langES>
+    <langFR>Hong Kong</langFR>
+    <langIT>Hong Kong</langIT>
+    <tld>.hk</tld>
+  </HK>
+  <HM>
+    <number>334</number>
+    <alpha2>HM</alpha2>
+    <alpha3>HMD</alpha3>
+    <langEN>Heard Island and McDonald Islands</langEN>
+    <langDE>Heard und McDonaldinseln</langDE>
+    <langES>Islas Heard y McDonald</langES>
+    <langFR>Îles Heard-et-MacDonald</langFR>
+    <langIT>Isole Heard e McDonald</langIT>
+    <tld>.hm</tld>
+  </HM>
+  <HN>
+    <number>340</number>
+    <alpha2>HN</alpha2>
+    <alpha3>HND</alpha3>
+    <langEN>Honduras</langEN>
+    <langDE>Honduras</langDE>
+    <langES>Honduras</langES>
+    <langFR>Honduras</langFR>
+    <langIT>Honduras</langIT>
+    <tld>.hn</tld>
+  </HN>
+  <HR>
+    <number>191</number>
+    <alpha2>HR</alpha2>
+    <alpha3>HRV</alpha3>
+    <langEN>Croatia</langEN>
+    <langDE>Kroatien</langDE>
+    <langES>Croacia</langES>
+    <langFR>Croatie</langFR>
+    <langIT>Croazia</langIT>
+    <tld>.hr</tld>
+  </HR>
+  <HT>
+    <number>332</number>
+    <alpha2>HT</alpha2>
+    <alpha3>HTI</alpha3>
+    <langEN>Haiti</langEN>
+    <langDE>Haiti</langDE>
+    <langES>Haití</langES>
+    <langFR>Haïti</langFR>
+    <langIT>Haiti</langIT>
+    <tld>.ht</tld>
+  </HT>
+  <HU>
+    <number>348</number>
+    <alpha2>HU</alpha2>
+    <alpha3>HUN</alpha3>
+    <langEN>Hungary</langEN>
+    <langDE>Ungarn</langDE>
+    <langES>Hungría</langES>
+    <langFR>Hongrie</langFR>
+    <langIT>Ungheria</langIT>
+    <tld>.hu</tld>
+  </HU>
+  <ID>
+    <number>360</number>
+    <alpha2>ID</alpha2>
+    <alpha3>IDN</alpha3>
+    <langEN>Indonesia</langEN>
+    <langDE>Indonesien</langDE>
+    <langES>Indonesia</langES>
+    <langFR>Indonésie</langFR>
+    <langIT>Indonesia</langIT>
+    <tld>.id</tld>
+  </ID>
+  <IE>
+    <number>372</number>
+    <alpha2>IE</alpha2>
+    <alpha3>IRL</alpha3>
+    <langEN>Ireland</langEN>
+    <langDE>Irland</langDE>
+    <langES>Irlanda</langES>
+    <langFR>Irlande</langFR>
+    <langIT>Irlanda</langIT>
+    <tld>.ie</tld>
+  </IE>
+  <IL>
+    <number>376</number>
+    <alpha2>IL</alpha2>
+    <alpha3>ISR</alpha3>
+    <langEN>Israel</langEN>
+    <langDE>Israel</langDE>
+    <langES>Israel</langES>
+    <langFR>Israël</langFR>
+    <langIT>Israele</langIT>
+    <tld>.il</tld>
+  </IL>
+  <IM>
+    <number>833</number>
+    <alpha2>IM</alpha2>
+    <alpha3>IMN</alpha3>
+    <langEN>Isle of Man</langEN>
+    <langDE>Insel Man</langDE>
+    <langES>Isla de Man</langES>
+    <langFR>Île de Man</langFR>
+    <langIT>Isola di Man</langIT>
+    <tld>.im</tld>
+  </IM>
+  <IN>
+    <number>356</number>
+    <alpha2>IN</alpha2>
+    <alpha3>IND</alpha3>
+    <langEN>India</langEN>
+    <langDE>Indien</langDE>
+    <langES>India</langES>
+    <langFR>Inde</langFR>
+    <langIT>India</langIT>
+    <tld>.in</tld>
+  </IN>
+  <IO>
+    <number>86</number>
+    <alpha2>IO</alpha2>
+    <alpha3>IOT</alpha3>
+    <langEN>British Indian Ocean Territory</langEN>
+    <langDE>Britisches Territorium im Indischen Ozean</langDE>
+    <langES>Territorio Británico del Océano Índico</langES>
+    <langFR>Territoire britannique de l'océan Indien</langFR>
+    <langIT>Territorio britannico dell'Oceano Indiano</langIT>
+    <tld>.io</tld>
+  </IO>
+  <IQ>
+    <number>368</number>
+    <alpha2>IQ</alpha2>
+    <alpha3>IRQ</alpha3>
+    <langEN>Iraq</langEN>
+    <langDE>Irak</langDE>
+    <langES>Irak</langES>
+    <langFR>Irak</langFR>
+    <langIT>Iraq</langIT>
+    <tld>.iq</tld>
+  </IQ>
+  <IR>
+    <number>364</number>
+    <alpha2>IR</alpha2>
+    <alpha3>IRN</alpha3>
+    <langEN>Iran</langEN>
+    <langDE>Iran</langDE>
+    <langES>Irán</langES>
+    <langFR>Iran</langFR>
+    <langIT>Iran</langIT>
+    <tld>.ir</tld>
+  </IR>
+  <IS>
+    <number>352</number>
+    <alpha2>IS</alpha2>
+    <alpha3>ISL</alpha3>
+    <langEN>Iceland</langEN>
+    <langDE>Island</langDE>
+    <langES>Islandia</langES>
+    <langFR>Islande</langFR>
+    <langIT>Islanda</langIT>
+    <tld>.is</tld>
+  </IS>
+  <IT>
+    <number>380</number>
+    <alpha2>IT</alpha2>
+    <alpha3>ITA</alpha3>
+    <langEN>Italy</langEN>
+    <langDE>Italien</langDE>
+    <langES>Italia</langES>
+    <langFR>Italie</langFR>
+    <langIT>Italia</langIT>
+    <tld>.it</tld>
+  </IT>
+  <JE>
+    <number>832</number>
+    <alpha2>JE</alpha2>
+    <alpha3>JEY</alpha3>
+    <langEN>Jersey</langEN>
+    <langDE>Jersey</langDE>
+    <langES>Jersey</langES>
+    <langFR>Jersey</langFR>
+    <langIT>Maglia</langIT>
+    <tld>.je</tld>
+  </JE>
+  <JM>
+    <number>388</number>
+    <alpha2>JM</alpha2>
+    <alpha3>JAM</alpha3>
+    <langEN>Jamaica</langEN>
+    <langDE>Jamaika</langDE>
+    <langES>Jamaica</langES>
+    <langFR>Jamaïque</langFR>
+    <langIT>Giamaica</langIT>
+    <tld>.jm</tld>
+  </JM>
+  <JO>
+    <number>400</number>
+    <alpha2>JO</alpha2>
+    <alpha3>JOR</alpha3>
+    <langEN>Jordan</langEN>
+    <langDE>Jordanien</langDE>
+    <langES>Jordania</langES>
+    <langFR>Jordanie</langFR>
+    <langIT>Giordania</langIT>
+    <tld>.jo</tld>
+  </JO>
+  <JP>
+    <number>392</number>
+    <alpha2>JP</alpha2>
+    <alpha3>JPN</alpha3>
+    <langEN>Japan</langEN>
+    <langDE>Japan</langDE>
+    <langES>Japón</langES>
+    <langFR>Japon</langFR>
+    <langIT>Giappone</langIT>
+    <tld>.jp</tld>
+  </JP>
+  <KE>
+    <number>404</number>
+    <alpha2>KE</alpha2>
+    <alpha3>KEN</alpha3>
+    <langEN>Kenya</langEN>
+    <langDE>Kenia</langDE>
+    <langES>Kenia</langES>
+    <langFR>Kenya</langFR>
+    <langIT>Kenya</langIT>
+    <tld>.ke</tld>
+  </KE>
+  <KG>
+    <number>417</number>
+    <alpha2>KG</alpha2>
+    <alpha3>KGZ</alpha3>
+    <langEN>Kyrgyzstan</langEN>
+    <langDE>Kirgisistan</langDE>
+    <langES>Kirguistán</langES>
+    <langFR>Kirghizistan</langFR>
+    <langIT>Kirghizistan</langIT>
+    <tld>.kg</tld>
+  </KG>
+  <KH>
+    <number>116</number>
+    <alpha2>KH</alpha2>
+    <alpha3>KHM</alpha3>
+    <langEN>Cambodia</langEN>
+    <langDE>Kambodscha</langDE>
+    <langES>Camboya</langES>
+    <langFR>Cambodge</langFR>
+    <langIT>Cambogia</langIT>
+    <tld>.kh</tld>
+  </KH>
+  <KI>
+    <number>296</number>
+    <alpha2>KI</alpha2>
+    <alpha3>KIR</alpha3>
+    <langEN>Kiribati</langEN>
+    <langDE>Kiribati</langDE>
+    <langES>Kiribati</langES>
+    <langFR>Kiribati</langFR>
+    <langIT>Kiribati</langIT>
+    <tld>.ki</tld>
+  </KI>
+  <KM>
+    <number>174</number>
+    <alpha2>KM</alpha2>
+    <alpha3>COM</alpha3>
+    <langEN>Comoros</langEN>
+    <langDE>Komoren</langDE>
+    <langES>Comoras</langES>
+    <langFR>Comores</langFR>
+    <langIT>Comore</langIT>
+    <tld>.km</tld>
+  </KM>
+  <KN>
+    <number>659</number>
+    <alpha2>KN</alpha2>
+    <alpha3>KNA</alpha3>
+    <langEN>Saint Kitts and Nevis</langEN>
+    <langDE>St. Kitts und Nevis</langDE>
+    <langES>San Cristóbal y Nieves</langES>
+    <langFR>Saint-Christophe-et-Niévès</langFR>
+    <langIT>Saint Kitts e Nevis</langIT>
+    <tld>.kn</tld>
+  </KN>
+  <KP>
+    <number>408</number>
+    <alpha2>KP</alpha2>
+    <alpha3>PRK</alpha3>
+    <langEN>North Korea</langEN>
+    <langDE>Korea, Demokratische Volksrepublik (Nordkorea)</langDE>
+    <langES>Corea del Norte</langES>
+    <langFR>Corée du Nord</langFR>
+    <langIT>Corea del nord</langIT>
+    <tld>.kp</tld>
+  </KP>
+  <KR>
+    <number>410</number>
+    <alpha2>KR</alpha2>
+    <alpha3>KOR</alpha3>
+    <langEN>South Korea</langEN>
+    <langDE>Korea, Republik (Südkorea)</langDE>
+    <langES>Corea del Sur</langES>
+    <langFR>Corée du Sud</langFR>
+    <langIT>Corea del Sud</langIT>
+    <tld>.kr</tld>
+  </KR>
+  <KW>
+    <number>414</number>
+    <alpha2>KW</alpha2>
+    <alpha3>KWT</alpha3>
+    <langEN>Kuwait</langEN>
+    <langDE>Kuwait</langDE>
+    <langES>Kuwait</langES>
+    <langFR>Koweït</langFR>
+    <langIT>Kuwait</langIT>
+    <tld>.kw</tld>
+  </KW>
+  <KY>
+    <number>136</number>
+    <alpha2>KY</alpha2>
+    <alpha3>CYM</alpha3>
+    <langEN>Cayman Islands</langEN>
+    <langDE>Kaimaninseln</langDE>
+    <langES>Islas Caimán</langES>
+    <langFR>Îles Caïmans</langFR>
+    <langIT>Isole Cayman</langIT>
+    <tld>.ky</tld>
+  </KY>
+  <KZ>
+    <number>398</number>
+    <alpha2>KZ</alpha2>
+    <alpha3>KAZ</alpha3>
+    <langEN>Kazakhstan</langEN>
+    <langDE>Kasachstan</langDE>
+    <langES>Kazajistán</langES>
+    <langFR>Kazakhstan</langFR>
+    <langIT>Kazakistan</langIT>
+    <tld>.kz</tld>
+  </KZ>
+  <LA>
+    <number>418</number>
+    <alpha2>LA</alpha2>
+    <alpha3>LAO</alpha3>
+    <langEN>Laos</langEN>
+    <langDE>Laos, Demokratische Volksrepublik</langDE>
+    <langES>Laos</langES>
+    <langFR>Laos</langFR>
+    <langIT>Laos</langIT>
+    <tld>.la</tld>
+  </LA>
+  <LB>
+    <number>422</number>
+    <alpha2>LB</alpha2>
+    <alpha3>LBN</alpha3>
+    <langEN>Lebanon</langEN>
+    <langDE>Libanon</langDE>
+    <langES>Líbano</langES>
+    <langFR>Liban</langFR>
+    <langIT>Libano</langIT>
+    <tld>.lb</tld>
+  </LB>
+  <LC>
+    <number>662</number>
+    <alpha2>LC</alpha2>
+    <alpha3>LCA</alpha3>
+    <langEN>Saint Lucia</langEN>
+    <langDE>St. Lucia</langDE>
+    <langES>Santa Lucía</langES>
+    <langFR>Sainte-Lucie</langFR>
+    <langIT>Santa Lucia</langIT>
+    <tld>.lc</tld>
+  </LC>
+  <LI>
+    <number>438</number>
+    <alpha2>LI</alpha2>
+    <alpha3>LIE</alpha3>
+    <langEN>Liechtenstein</langEN>
+    <langDE>Liechtenstein</langDE>
+    <langES>Liechtenstein</langES>
+    <langFR>Liechtenstein</langFR>
+    <langIT>Liechtenstein</langIT>
+    <tld>.li</tld>
+  </LI>
+  <LK>
+    <number>144</number>
+    <alpha2>LK</alpha2>
+    <alpha3>LKA</alpha3>
+    <langEN>Sri Lanka</langEN>
+    <langDE>Sri Lanka</langDE>
+    <langES>Sri Lanka</langES>
+    <langFR>Sri Lanka</langFR>
+    <langIT>Sri Lanka</langIT>
+    <tld>.lk</tld>
+  </LK>
+  <LR>
+    <number>430</number>
+    <alpha2>LR</alpha2>
+    <alpha3>LBR</alpha3>
+    <langEN>Liberia</langEN>
+    <langDE>Liberia</langDE>
+    <langES>Liberia</langES>
+    <langFR>Liberia</langFR>
+    <langIT>Liberia</langIT>
+    <tld>.lr</tld>
+  </LR>
+  <LS>
+    <number>426</number>
+    <alpha2>LS</alpha2>
+    <alpha3>LSO</alpha3>
+    <langEN>Lesotho</langEN>
+    <langDE>Lesotho</langDE>
+    <langES>Lesoto</langES>
+    <langFR>Lesotho</langFR>
+    <langIT>Lesotho</langIT>
+    <tld>.ls</tld>
+  </LS>
+  <LT>
+    <number>440</number>
+    <alpha2>LT</alpha2>
+    <alpha3>LTU</alpha3>
+    <langEN>Lithuania</langEN>
+    <langDE>Litauen</langDE>
+    <langES>Lituania</langES>
+    <langFR>Lituanie</langFR>
+    <langIT>Lituania</langIT>
+    <tld>.lt</tld>
+  </LT>
+  <LU>
+    <number>442</number>
+    <alpha2>LU</alpha2>
+    <alpha3>LUX</alpha3>
+    <langEN>Luxembourg</langEN>
+    <langDE>Luxemburg</langDE>
+    <langES>Luxemburgo</langES>
+    <langFR>Luxembourg</langFR>
+    <langIT>Lussemburgo</langIT>
+    <tld>.lu</tld>
+  </LU>
+  <LV>
+    <number>428</number>
+    <alpha2>LV</alpha2>
+    <alpha3>LVA</alpha3>
+    <langEN>Latvia</langEN>
+    <langDE>Lettland</langDE>
+    <langES>Letonia</langES>
+    <langFR>Lettonie</langFR>
+    <langIT>Lettonia</langIT>
+    <tld>.lv</tld>
+  </LV>
+  <LY>
+    <number>434</number>
+    <alpha2>LY</alpha2>
+    <alpha3>LBY</alpha3>
+    <langEN>Libya</langEN>
+    <langDE>Libyen</langDE>
+    <langES>Libia</langES>
+    <langFR>Libye</langFR>
+    <langIT>Libia</langIT>
+    <tld>.ly</tld>
+  </LY>
+  <MA>
+    <number>504</number>
+    <alpha2>MA</alpha2>
+    <alpha3>MAR</alpha3>
+    <langEN>Morocco</langEN>
+    <langDE>Marokko</langDE>
+    <langES>Marruecos</langES>
+    <langFR>Maroc</langFR>
+    <langIT>Marocco</langIT>
+    <tld>.ma</tld>
+  </MA>
+  <MC>
+    <number>492</number>
+    <alpha2>MC</alpha2>
+    <alpha3>MCO</alpha3>
+    <langEN>Monaco</langEN>
+    <langDE>Monaco</langDE>
+    <langES>Mónaco</langES>
+    <langFR>Monaco</langFR>
+    <langIT>Monaco</langIT>
+    <tld>.mc</tld>
+  </MC>
+  <MD>
+    <number>498</number>
+    <alpha2>MD</alpha2>
+    <alpha3>MDA</alpha3>
+    <langEN>Moldova</langEN>
+    <langDE>Moldawien (Republik Moldau)</langDE>
+    <langES>Moldavia</langES>
+    <langFR>Moldavie</langFR>
+    <langIT>Moldavia</langIT>
+    <tld>.md</tld>
+  </MD>
+  <ME>
+    <number>499</number>
+    <alpha2>ME</alpha2>
+    <alpha3>MNE</alpha3>
+    <langEN>Montenegro</langEN>
+    <langDE>Montenegro</langDE>
+    <langES>Montenegro</langES>
+    <langFR>Monténégro</langFR>
+    <langIT>Montenegro</langIT>
+    <tld>.me</tld>
+  </ME>
+  <MF>
+    <number>663</number>
+    <alpha2>MF</alpha2>
+    <alpha3>MAF</alpha3>
+    <langEN>Saint Martin</langEN>
+    <langDE>Saint-Martin (franz. Teil)</langDE>
+    <langES>San Martín</langES>
+    <langFR>Saint-Martin</langFR>
+    <langIT>San Martin</langIT>
+    <tld>.mf</tld>
+  </MF>
+  <MG>
+    <number>450</number>
+    <alpha2>MG</alpha2>
+    <alpha3>MDG</alpha3>
+    <langEN>Madagascar</langEN>
+    <langDE>Madagaskar</langDE>
+    <langES>Madagascar</langES>
+    <langFR>Madagascar</langFR>
+    <langIT>Madagascar</langIT>
+    <tld>.mg</tld>
+  </MG>
+  <MH>
+    <number>584</number>
+    <alpha2>MH</alpha2>
+    <alpha3>MHL</alpha3>
+    <langEN>Marshall Islands</langEN>
+    <langDE>Marshallinseln</langDE>
+    <langES>Islas Marshall</langES>
+    <langFR>Îles Marshall</langFR>
+    <langIT>Isole Marshall</langIT>
+    <tld>.mh</tld>
+  </MH>
+  <MK>
+    <number>807</number>
+    <alpha2>MK</alpha2>
+    <alpha3>MKD</alpha3>
+    <langEN>North Macedonia</langEN>
+    <langDE>Nordmazedonien</langDE>
+    <langES>Macedonia del Norte</langES>
+    <langFR>Macédoine du Nord</langFR>
+    <langIT>Macedonia settentrionale</langIT>
+    <tld>.mk</tld>
+  </MK>
+  <ML>
+    <number>466</number>
+    <alpha2>ML</alpha2>
+    <alpha3>MLI</alpha3>
+    <langEN>Mali</langEN>
+    <langDE>Mali</langDE>
+    <langES>Malí</langES>
+    <langFR>Mali</langFR>
+    <langIT>Mali</langIT>
+    <tld>.ml</tld>
+  </ML>
+  <MM>
+    <number>104</number>
+    <alpha2>MM</alpha2>
+    <alpha3>MMR</alpha3>
+    <langEN>Myanmar</langEN>
+    <langDE>Myanmar (Burma)</langDE>
+    <langES>Myanmar</langES>
+    <langFR>Birmanie</langFR>
+    <langIT>Myanmar</langIT>
+    <tld>.mm</tld>
+  </MM>
+  <MN>
+    <number>496</number>
+    <alpha2>MN</alpha2>
+    <alpha3>MNG</alpha3>
+    <langEN>Mongolia</langEN>
+    <langDE>Mongolei</langDE>
+    <langES>Mongolia</langES>
+    <langFR>Mongolie</langFR>
+    <langIT>Mongolia</langIT>
+    <tld>.mn</tld>
+  </MN>
+  <MO>
+    <number>446</number>
+    <alpha2>MO</alpha2>
+    <alpha3>MAC</alpha3>
+    <langEN>Macao</langEN>
+    <langDE>Macau</langDE>
+    <langES>Macao</langES>
+    <langFR>Macao</langFR>
+    <langIT>Macao</langIT>
+    <tld>.mo</tld>
+  </MO>
+  <MP>
+    <number>580</number>
+    <alpha2>MP</alpha2>
+    <alpha3>MNP</alpha3>
+    <langEN>Northern Mariana Islands</langEN>
+    <langDE>Nördliche Marianen</langDE>
+    <langES>Islas Marianas del Norte</langES>
+    <langFR>Îles Mariannes du Nord</langFR>
+    <langIT>Isole Marianne settentrionali</langIT>
+    <tld>.mp</tld>
+  </MP>
+  <MQ>
+    <number>474</number>
+    <alpha2>MQ</alpha2>
+    <alpha3>MTQ</alpha3>
+    <langEN>Martinique</langEN>
+    <langDE>Martinique</langDE>
+    <langES>Martinica</langES>
+    <langFR>Martinique</langFR>
+    <langIT>Martinica</langIT>
+    <tld>.mq</tld>
+  </MQ>
+  <MR>
+    <number>478</number>
+    <alpha2>MR</alpha2>
+    <alpha3>MRT</alpha3>
+    <langEN>Mauritania</langEN>
+    <langDE>Mauretanien</langDE>
+    <langES>Mauritania</langES>
+    <langFR>Mauritanie</langFR>
+    <langIT>Mauritania</langIT>
+    <tld>.mr</tld>
+  </MR>
+  <MS>
+    <number>500</number>
+    <alpha2>MS</alpha2>
+    <alpha3>MSR</alpha3>
+    <langEN>Montserrat</langEN>
+    <langDE>Montserrat</langDE>
+    <langES>Montserrat</langES>
+    <langFR>Montserrat</langFR>
+    <langIT>Montserrat</langIT>
+    <tld>.ms</tld>
+  </MS>
+  <MT>
+    <number>470</number>
+    <alpha2>MT</alpha2>
+    <alpha3>MLT</alpha3>
+    <langEN>Malta</langEN>
+    <langDE>Malta</langDE>
+    <langES>Malta</langES>
+    <langFR>Malte</langFR>
+    <langIT>Malta</langIT>
+    <tld>.mt</tld>
+  </MT>
+  <MU>
+    <number>480</number>
+    <alpha2>MU</alpha2>
+    <alpha3>MUS</alpha3>
+    <langEN>Mauritius</langEN>
+    <langDE>Mauritius</langDE>
+    <langES>Mauricio</langES>
+    <langFR>Maurice</langFR>
+    <langIT>Mauritius</langIT>
+    <tld>.mu</tld>
+  </MU>
+  <MV>
+    <number>462</number>
+    <alpha2>MV</alpha2>
+    <alpha3>MDV</alpha3>
+    <langEN>Maldives</langEN>
+    <langDE>Malediven</langDE>
+    <langES>Maldivas</langES>
+    <langFR>Maldives</langFR>
+    <langIT>Maldive</langIT>
+    <tld>.mv</tld>
+  </MV>
+  <MW>
+    <number>454</number>
+    <alpha2>MW</alpha2>
+    <alpha3>MWI</alpha3>
+    <langEN>Malawi</langEN>
+    <langDE>Malawi</langDE>
+    <langES>Malaui</langES>
+    <langFR>Malawi</langFR>
+    <langIT>Malawi</langIT>
+    <tld>.mw</tld>
+  </MW>
+  <MX>
+    <number>484</number>
+    <alpha2>MX</alpha2>
+    <alpha3>MEX</alpha3>
+    <langEN>Mexico</langEN>
+    <langDE>Mexiko</langDE>
+    <langES>México</langES>
+    <langFR>Mexique</langFR>
+    <langIT>Messico</langIT>
+    <tld>.mx</tld>
+  </MX>
+  <MY>
+    <number>458</number>
+    <alpha2>MY</alpha2>
+    <alpha3>MYS</alpha3>
+    <langEN>Malaysia</langEN>
+    <langDE>Malaysia</langDE>
+    <langES>Malasia</langES>
+    <langFR>Malaisie</langFR>
+    <langIT>Malaysia</langIT>
+    <tld>.my</tld>
+  </MY>
+  <MZ>
+    <number>508</number>
+    <alpha2>MZ</alpha2>
+    <alpha3>MOZ</alpha3>
+    <langEN>Mozambique</langEN>
+    <langDE>Mosambik</langDE>
+    <langES>Mozambique</langES>
+    <langFR>Mozambique</langFR>
+    <langIT>Mozambico</langIT>
+    <tld>.mz</tld>
+  </MZ>
+  <NA>
+    <number>516</number>
+    <alpha2>NA</alpha2>
+    <alpha3>NAM</alpha3>
+    <langEN>Namibia</langEN>
+    <langDE>Namibia</langDE>
+    <langES>Namibia</langES>
+    <langFR>Namibie</langFR>
+    <langIT>Namibia</langIT>
+    <tld>.na</tld>
+  </NA>
+  <NC>
+    <number>540</number>
+    <alpha2>NC</alpha2>
+    <alpha3>NCL</alpha3>
+    <langEN>New Caledonia</langEN>
+    <langDE>Neukaledonien</langDE>
+    <langES>Nueva Caledonia</langES>
+    <langFR>Nouvelle-Calédonie</langFR>
+    <langIT>Nuova Caledonia</langIT>
+    <tld>.nc</tld>
+  </NC>
+  <NE>
+    <number>562</number>
+    <alpha2>NE</alpha2>
+    <alpha3>NER</alpha3>
+    <langEN>Niger</langEN>
+    <langDE>Niger</langDE>
+    <langES>Níger</langES>
+    <langFR>Niger</langFR>
+    <langIT>Niger</langIT>
+    <tld>.ne</tld>
+  </NE>
+  <NF>
+    <number>574</number>
+    <alpha2>NF</alpha2>
+    <alpha3>NFK</alpha3>
+    <langEN>Norfolk Island</langEN>
+    <langDE>Norfolkinsel</langDE>
+    <langES>Norfolk</langES>
+    <langFR>Île Norfolk</langFR>
+    <langIT>Norfolk Island</langIT>
+    <tld>.nf</tld>
+  </NF>
+  <NG>
+    <number>566</number>
+    <alpha2>NG</alpha2>
+    <alpha3>NGA</alpha3>
+    <langEN>Nigeria</langEN>
+    <langDE>Nigeria</langDE>
+    <langES>Nigeria</langES>
+    <langFR>Nigeria</langFR>
+    <langIT>Nigeria</langIT>
+    <tld>.ng</tld>
+  </NG>
+  <NI>
+    <number>558</number>
+    <alpha2>NI</alpha2>
+    <alpha3>NIC</alpha3>
+    <langEN>Nicaragua</langEN>
+    <langDE>Nicaragua</langDE>
+    <langES>Nicaragua</langES>
+    <langFR>Nicaragua</langFR>
+    <langIT>Nicaragua</langIT>
+    <tld>.ni</tld>
+  </NI>
+  <NL>
+    <number>528</number>
+    <alpha2>NL</alpha2>
+    <alpha3>NLD</alpha3>
+    <langEN>Netherlands</langEN>
+    <langDE>Niederlande</langDE>
+    <langES>Países Bajos</langES>
+    <langFR>Pays-Bas</langFR>
+    <langIT>Olanda</langIT>
+    <tld>.nl</tld>
+  </NL>
+  <NO>
+    <number>578</number>
+    <alpha2>NO</alpha2>
+    <alpha3>NOR</alpha3>
+    <langEN>Norway</langEN>
+    <langDE>Norwegen</langDE>
+    <langES>Noruega</langES>
+    <langFR>Norvège</langFR>
+    <langIT>Norvegia</langIT>
+    <tld>.no</tld>
+  </NO>
+  <NP>
+    <number>524</number>
+    <alpha2>NP</alpha2>
+    <alpha3>NPL</alpha3>
+    <langEN>Nepal</langEN>
+    <langDE>Nepal</langDE>
+    <langES>Nepal</langES>
+    <langFR>Népal</langFR>
+    <langIT>Nepal</langIT>
+    <tld>.np</tld>
+  </NP>
+  <NR>
+    <number>520</number>
+    <alpha2>NR</alpha2>
+    <alpha3>NRU</alpha3>
+    <langEN>Nauru</langEN>
+    <langDE>Nauru</langDE>
+    <langES>Nauru</langES>
+    <langFR>Nauru</langFR>
+    <langIT>Nauru</langIT>
+    <tld>.nr</tld>
+  </NR>
+  <NU>
+    <number>570</number>
+    <alpha2>NU</alpha2>
+    <alpha3>NIU</alpha3>
+    <langEN>Niue</langEN>
+    <langDE>Niue</langDE>
+    <langES>Niue</langES>
+    <langFR>Niue</langFR>
+    <langIT>Niue</langIT>
+    <tld>.nu</tld>
+  </NU>
+  <NZ>
+    <number>554</number>
+    <alpha2>NZ</alpha2>
+    <alpha3>NZL</alpha3>
+    <langEN>New Zealand</langEN>
+    <langDE>Neuseeland</langDE>
+    <langES>Nueva Zelanda</langES>
+    <langFR>Nouvelle-Zélande</langFR>
+    <langIT>Nuova Zelanda</langIT>
+    <tld>.nz</tld>
+  </NZ>
+  <OM>
+    <number>512</number>
+    <alpha2>OM</alpha2>
+    <alpha3>OMN</alpha3>
+    <langEN>Oman</langEN>
+    <langDE>Oman</langDE>
+    <langES>Omán</langES>
+    <langFR>Oman</langFR>
+    <langIT>Oman</langIT>
+    <tld>.om</tld>
+  </OM>
+  <PA>
+    <number>591</number>
+    <alpha2>PA</alpha2>
+    <alpha3>PAN</alpha3>
+    <langEN>Panama</langEN>
+    <langDE>Panama</langDE>
+    <langES>Panamá</langES>
+    <langFR>Panama</langFR>
+    <langIT>Panama</langIT>
+    <tld>.pa</tld>
+  </PA>
+  <PE>
+    <number>604</number>
+    <alpha2>PE</alpha2>
+    <alpha3>PER</alpha3>
+    <langEN>Peru</langEN>
+    <langDE>Peru</langDE>
+    <langES>Perú</langES>
+    <langFR>Pérou</langFR>
+    <langIT>Perù</langIT>
+    <tld>.pe</tld>
+  </PE>
+  <PF>
+    <number>258</number>
+    <alpha2>PF</alpha2>
+    <alpha3>PYF</alpha3>
+    <langEN>French Polynesia</langEN>
+    <langDE>Französisch-Polynesien</langDE>
+    <langES>Polinesia Francesa</langES>
+    <langFR>Polynésie française</langFR>
+    <langIT>Polinesia francese</langIT>
+    <tld>.pf</tld>
+  </PF>
+  <PG>
+    <number>598</number>
+    <alpha2>PG</alpha2>
+    <alpha3>PNG</alpha3>
+    <langEN>Papua New Guinea</langEN>
+    <langDE>Papua-Neuguinea</langDE>
+    <langES>Papúa Nueva Guinea</langES>
+    <langFR>Papouasie-Nouvelle-Guinée</langFR>
+    <langIT>Papua Nuova Guinea</langIT>
+    <tld>.pg</tld>
+  </PG>
+  <PH>
+    <number>608</number>
+    <alpha2>PH</alpha2>
+    <alpha3>PHL</alpha3>
+    <langEN>Philippines</langEN>
+    <langDE>Philippinen</langDE>
+    <langES>Filipinas</langES>
+    <langFR>Philippines</langFR>
+    <langIT>Philippines</langIT>
+    <tld>.ph</tld>
+  </PH>
+  <PK>
+    <number>586</number>
+    <alpha2>PK</alpha2>
+    <alpha3>PAK</alpha3>
+    <langEN>Pakistan</langEN>
+    <langDE>Pakistan</langDE>
+    <langES>Pakistán</langES>
+    <langFR>Pakistan</langFR>
+    <langIT>Pakistan</langIT>
+    <tld>.pk</tld>
+  </PK>
+  <PL>
+    <number>616</number>
+    <alpha2>PL</alpha2>
+    <alpha3>POL</alpha3>
+    <langEN>Poland</langEN>
+    <langDE>Polen</langDE>
+    <langES>Polonia</langES>
+    <langFR>Pologne</langFR>
+    <langIT>Polonia</langIT>
+    <tld>.pl</tld>
+  </PL>
+  <PM>
+    <number>666</number>
+    <alpha2>PM</alpha2>
+    <alpha3>SPM</alpha3>
+    <langEN>Saint Pierre and Miquelon</langEN>
+    <langDE>Saint-Pierre und Miquelon</langDE>
+    <langES>San Pedro y Miquelón</langES>
+    <langFR>Saint-Pierre-et-Miquelon</langFR>
+    <langIT>San Pierre e Miquelon</langIT>
+    <tld>.pm</tld>
+  </PM>
+  <PN>
+    <number>612</number>
+    <alpha2>PN</alpha2>
+    <alpha3>PCN</alpha3>
+    <langEN>Pitcairn</langEN>
+    <langDE>Pitcairninseln</langDE>
+    <langES>Islas Pitcairn</langES>
+    <langFR>Îles Pitcairn</langFR>
+    <langIT>Pitcairn</langIT>
+    <tld>.pn</tld>
+  </PN>
+  <PR>
+    <number>630</number>
+    <alpha2>PR</alpha2>
+    <alpha3>PRI</alpha3>
+    <langEN>Puerto Rico</langEN>
+    <langDE>Puerto Rico</langDE>
+    <langES>Puerto Rico</langES>
+    <langFR>Porto Rico</langFR>
+    <langIT>Puerto Rico</langIT>
+    <tld>.pr</tld>
+  </PR>
+  <PS>
+    <number>275</number>
+    <alpha2>PS</alpha2>
+    <alpha3>PSE</alpha3>
+    <langEN>Palestine</langEN>
+    <langDE>Staat Palästina</langDE>
+    <langES>Palestina</langES>
+    <langFR>Palestine</langFR>
+    <langIT>Palestina</langIT>
+    <tld>.ps</tld>
+  </PS>
+  <PT>
+    <number>620</number>
+    <alpha2>PT</alpha2>
+    <alpha3>PRT</alpha3>
+    <langEN>Portugal</langEN>
+    <langDE>Portugal</langDE>
+    <langES>Portugal</langES>
+    <langFR>Portugal</langFR>
+    <langIT>Portogallo</langIT>
+    <tld>.pt</tld>
+  </PT>
+  <PW>
+    <number>585</number>
+    <alpha2>PW</alpha2>
+    <alpha3>PLW</alpha3>
+    <langEN>Palau</langEN>
+    <langDE>Palau</langDE>
+    <langES>Palaos</langES>
+    <langFR>Palaos</langFR>
+    <langIT>Palau</langIT>
+    <tld>.pw</tld>
+  </PW>
+  <PY>
+    <number>600</number>
+    <alpha2>PY</alpha2>
+    <alpha3>PRY</alpha3>
+    <langEN>Paraguay</langEN>
+    <langDE>Paraguay</langDE>
+    <langES>Paraguay</langES>
+    <langFR>Paraguay</langFR>
+    <langIT>Paraguay</langIT>
+    <tld>.py</tld>
+  </PY>
+  <QA>
+    <number>634</number>
+    <alpha2>QA</alpha2>
+    <alpha3>QAT</alpha3>
+    <langEN>Qatar</langEN>
+    <langDE>Katar</langDE>
+    <langES>Catar</langES>
+    <langFR>Qatar</langFR>
+    <langIT>Qatar</langIT>
+    <tld>.qa</tld>
+  </QA>
+  <RE>
+    <number>638</number>
+    <alpha2>RE</alpha2>
+    <alpha3>REU</alpha3>
+    <langEN>Réunion</langEN>
+    <langDE>Réunion</langDE>
+    <langES>Reunión</langES>
+    <langFR>La Réunion</langFR>
+    <langIT>Riunione</langIT>
+    <tld>.re</tld>
+  </RE>
+  <RO>
+    <number>642</number>
+    <alpha2>RO</alpha2>
+    <alpha3>ROU</alpha3>
+    <langEN>Romania</langEN>
+    <langDE>Rumänien</langDE>
+    <langES>Rumania</langES>
+    <langFR>Roumanie</langFR>
+    <langIT>Romania</langIT>
+    <tld>.ro</tld>
+  </RO>
+  <RS>
+    <number>688</number>
+    <alpha2>RS</alpha2>
+    <alpha3>SRB</alpha3>
+    <langEN>Serbia</langEN>
+    <langDE>Serbien</langDE>
+    <langES>Serbia</langES>
+    <langFR>Serbie</langFR>
+    <langIT>Serbia</langIT>
+    <tld>.rs</tld>
+  </RS>
+  <RU>
+    <number>643</number>
+    <alpha2>RU</alpha2>
+    <alpha3>RUS</alpha3>
+    <langEN>Russia</langEN>
+    <langDE>Russische Föderation</langDE>
+    <langES>Rusia</langES>
+    <langFR>Russie</langFR>
+    <langIT>Russia</langIT>
+    <tld>.ru</tld>
+  </RU>
+  <RW>
+    <number>646</number>
+    <alpha2>RW</alpha2>
+    <alpha3>RWA</alpha3>
+    <langEN>Rwanda</langEN>
+    <langDE>Ruanda</langDE>
+    <langES>Ruanda</langES>
+    <langFR>Rwanda</langFR>
+    <langIT>Ruanda</langIT>
+    <tld>.rw</tld>
+  </RW>
+  <SA>
+    <number>682</number>
+    <alpha2>SA</alpha2>
+    <alpha3>SAU</alpha3>
+    <langEN>Saudi Arabia</langEN>
+    <langDE>Saudi-Arabien</langDE>
+    <langES>Arabia Saudita</langES>
+    <langFR>Arabie saoudite</langFR>
+    <langIT>Arabia Saudita</langIT>
+    <tld>.sa</tld>
+  </SA>
+  <SB>
+    <number>90</number>
+    <alpha2>SB</alpha2>
+    <alpha3>SLB</alpha3>
+    <langEN>Solomon Islands</langEN>
+    <langDE>Salomonen</langDE>
+    <langES>Islas Salomón</langES>
+    <langFR>Salomon</langFR>
+    <langIT>Isole Salomone</langIT>
+    <tld>.sb</tld>
+  </SB>
+  <SC>
+    <number>690</number>
+    <alpha2>SC</alpha2>
+    <alpha3>SYC</alpha3>
+    <langEN>Seychelles</langEN>
+    <langDE>Seychellen</langDE>
+    <langES>Seychelles</langES>
+    <langFR>Seychelles</langFR>
+    <langIT>Seychelles</langIT>
+    <tld>.sc</tld>
+  </SC>
+  <SD>
+    <number>729</number>
+    <alpha2>SD</alpha2>
+    <alpha3>SDN</alpha3>
+    <langEN>Sudan</langEN>
+    <langDE>Sudan</langDE>
+    <langES>Sudán</langES>
+    <langFR>Soudan</langFR>
+    <langIT>Sudan</langIT>
+    <tld>.sd</tld>
+  </SD>
+  <SE>
+    <number>752</number>
+    <alpha2>SE</alpha2>
+    <alpha3>SWE</alpha3>
+    <langEN>Sweden</langEN>
+    <langDE>Schweden</langDE>
+    <langES>Suecia</langES>
+    <langFR>Suède</langFR>
+    <langIT>Svezia</langIT>
+    <tld>.se</tld>
+  </SE>
+  <SG>
+    <number>702</number>
+    <alpha2>SG</alpha2>
+    <alpha3>SGP</alpha3>
+    <langEN>Singapore</langEN>
+    <langDE>Singapur</langDE>
+    <langES>Singapur</langES>
+    <langFR>Singapour</langFR>
+    <langIT>Singapore</langIT>
+    <tld>.sg</tld>
+  </SG>
+  <SH>
+    <number>654</number>
+    <alpha2>SH</alpha2>
+    <alpha3>SHN</alpha3>
+    <langEN>Saint Helena, Ascension and Tristan da Cunha</langEN>
+    <langDE>St. Helena</langDE>
+    <langES>Santa Elena, Ascensión y Tristán de Acuña</langES>
+    <langFR>Sainte-Hélène, Ascension et Tristan da Cunha</langFR>
+    <langIT>Saint Helena, Ascension e Tristan Da Cunha</langIT>
+    <tld>.sh</tld>
+  </SH>
+  <SI>
+    <number>705</number>
+    <alpha2>SI</alpha2>
+    <alpha3>SVN</alpha3>
+    <langEN>Slovenia</langEN>
+    <langDE>Slowenien</langDE>
+    <langES>Eslovenia</langES>
+    <langFR>Slovénie</langFR>
+    <langIT>Slovenia</langIT>
+    <tld>.si</tld>
+  </SI>
+  <SJ>
+    <number>744</number>
+    <alpha2>SJ</alpha2>
+    <alpha3>SJM</alpha3>
+    <langEN>Svalbard and Jan Mayen</langEN>
+    <langDE>Svalbard und Jan Mayen</langDE>
+    <langES>Svalbard y Jan Mayen</langES>
+    <langFR>Svalbard et ile Jan Mayen</langFR>
+    <langIT>Svalbard e Jan Mayen</langIT>
+    <tld>.sj</tld>
+  </SJ>
+  <SK>
+    <number>703</number>
+    <alpha2>SK</alpha2>
+    <alpha3>SVK</alpha3>
+    <langEN>Slovakia</langEN>
+    <langDE>Slowakei</langDE>
+    <langES>Eslovaquia</langES>
+    <langFR>Slovaquie</langFR>
+    <langIT>Slovacchia</langIT>
+    <tld>.sk</tld>
+  </SK>
+  <SL>
+    <number>694</number>
+    <alpha2>SL</alpha2>
+    <alpha3>SLE</alpha3>
+    <langEN>Sierra Leone</langEN>
+    <langDE>Sierra Leone</langDE>
+    <langES>Sierra Leona</langES>
+    <langFR>Sierra Leone</langFR>
+    <langIT>Sierra Leone</langIT>
+    <tld>.sl</tld>
+  </SL>
+  <SM>
+    <number>674</number>
+    <alpha2>SM</alpha2>
+    <alpha3>SMR</alpha3>
+    <langEN>San Marino</langEN>
+    <langDE>San Marino</langDE>
+    <langES>San Marino</langES>
+    <langFR>Saint-Marin</langFR>
+    <langIT>San Marino</langIT>
+    <tld>.sm</tld>
+  </SM>
+  <SN>
+    <number>686</number>
+    <alpha2>SN</alpha2>
+    <alpha3>SEN</alpha3>
+    <langEN>Senegal</langEN>
+    <langDE>Senegal</langDE>
+    <langES>Senegal</langES>
+    <langFR>Sénégal</langFR>
+    <langIT>Senegal</langIT>
+    <tld>.sn</tld>
+  </SN>
+  <SO>
+    <number>706</number>
+    <alpha2>SO</alpha2>
+    <alpha3>SOM</alpha3>
+    <langEN>Somalia</langEN>
+    <langDE>Somalia</langDE>
+    <langES>Somalia</langES>
+    <langFR>Somalie</langFR>
+    <langIT>Somalia</langIT>
+    <tld>.so</tld>
+  </SO>
+  <SR>
+    <number>740</number>
+    <alpha2>SR</alpha2>
+    <alpha3>SUR</alpha3>
+    <langEN>Suriname</langEN>
+    <langDE>Suriname</langDE>
+    <langES>Surinam</langES>
+    <langFR>Suriname</langFR>
+    <langIT>Suriname</langIT>
+    <tld>.sr</tld>
+  </SR>
+  <SS>
+    <number>728</number>
+    <alpha2>SS</alpha2>
+    <alpha3>SSD</alpha3>
+    <langEN>South Sudan</langEN>
+    <langDE>Südsudan</langDE>
+    <langES>Sudán del Sur</langES>
+    <langFR>Soudan du Sud</langFR>
+    <langIT>Sudan del Sud</langIT>
+    <tld>.ss</tld>
+  </SS>
+  <ST>
+    <number>678</number>
+    <alpha2>ST</alpha2>
+    <alpha3>STP</alpha3>
+    <langEN>Sao Tome and Principe</langEN>
+    <langDE>São Tomé und Príncipe</langDE>
+    <langES>Santo Tomé y Príncipe</langES>
+    <langFR>Sao Tomé-et-Principe</langFR>
+    <langIT>Sao Tome e Principe</langIT>
+    <tld>.st</tld>
+  </ST>
+  <SV>
+    <number>222</number>
+    <alpha2>SV</alpha2>
+    <alpha3>SLV</alpha3>
+    <langEN>El Salvador</langEN>
+    <langDE>El Salvador</langDE>
+    <langES>El Salvador</langES>
+    <langFR>Salvador</langFR>
+    <langIT>El Salvador</langIT>
+    <tld>.sv</tld>
+  </SV>
+  <SX>
+    <number>534</number>
+    <alpha2>SX</alpha2>
+    <alpha3>SXM</alpha3>
+    <langEN>Sint Maarten</langEN>
+    <langDE>Sint Maarten</langDE>
+    <langES>Sint Maarten</langES>
+    <langFR>Sint Maarten</langFR>
+    <langIT>Sint Maarten</langIT>
+    <tld>.sx</tld>
+  </SX>
+  <SY>
+    <number>760</number>
+    <alpha2>SY</alpha2>
+    <alpha3>SYR</alpha3>
+    <langEN>Syria</langEN>
+    <langDE>Syrien</langDE>
+    <langES>Siria</langES>
+    <langFR>Syrie</langFR>
+    <langIT>Siria</langIT>
+    <tld>.sy</tld>
+  </SY>
+  <SZ>
+    <number>748</number>
+    <alpha2>SZ</alpha2>
+    <alpha3>SWZ</alpha3>
+    <langEN>Eswatini</langEN>
+    <langDE>Eswatini</langDE>
+    <langES>Esuatini</langES>
+    <langFR>Eswatini</langFR>
+    <langIT>Eswatini</langIT>
+    <tld>.sz</tld>
+  </SZ>
+  <TC>
+    <number>796</number>
+    <alpha2>TC</alpha2>
+    <alpha3>TCA</alpha3>
+    <langEN>Turks and Caicos Islands</langEN>
+    <langDE>Turks- und Caicosinseln</langDE>
+    <langES>Islas Turcas y Caicos</langES>
+    <langFR>Îles Turques-et-Caïques</langFR>
+    <langIT>Isole Turks e Caicos</langIT>
+    <tld>.tc</tld>
+  </TC>
+  <TD>
+    <number>148</number>
+    <alpha2>TD</alpha2>
+    <alpha3>TCD</alpha3>
+    <langEN>Chad</langEN>
+    <langDE>Tschad</langDE>
+    <langES>Chad</langES>
+    <langFR>Tchad</langFR>
+    <langIT>Chad</langIT>
+    <tld>.td</tld>
+  </TD>
+  <TF>
+    <number>260</number>
+    <alpha2>TF</alpha2>
+    <alpha3>ATF</alpha3>
+    <langEN>French Southern Territories</langEN>
+    <langDE>Französische Süd- und Antarktisgebiete</langDE>
+    <langES>Tierras Australes y Antárticas Francesas</langES>
+    <langFR>Terres australes et antarctiques françaises</langFR>
+    <langIT>Territori della Francia del sud</langIT>
+    <tld>.tf</tld>
+  </TF>
+  <TG>
+    <number>768</number>
+    <alpha2>TG</alpha2>
+    <alpha3>TGO</alpha3>
+    <langEN>Togo</langEN>
+    <langDE>Togo</langDE>
+    <langES>Togo</langES>
+    <langFR>Togo</langFR>
+    <langIT>Andare</langIT>
+    <tld>.tg</tld>
+  </TG>
+  <TH>
+    <number>764</number>
+    <alpha2>TH</alpha2>
+    <alpha3>THA</alpha3>
+    <langEN>Thailand</langEN>
+    <langDE>Thailand</langDE>
+    <langES>Tailandia</langES>
+    <langFR>Thaïlande</langFR>
+    <langIT>Tailandia</langIT>
+    <tld>.th</tld>
+  </TH>
+  <TJ>
+    <number>762</number>
+    <alpha2>TJ</alpha2>
+    <alpha3>TJK</alpha3>
+    <langEN>Tajikistan</langEN>
+    <langDE>Tadschikistan</langDE>
+    <langES>Tayikistán</langES>
+    <langFR>Tadjikistan</langFR>
+    <langIT>Tajikistan</langIT>
+    <tld>.tj</tld>
+  </TJ>
+  <TK>
+    <number>772</number>
+    <alpha2>TK</alpha2>
+    <alpha3>TKL</alpha3>
+    <langEN>Tokelau</langEN>
+    <langDE>Tokelau</langDE>
+    <langES>Tokelau</langES>
+    <langFR>Tokelau</langFR>
+    <langIT>Tokelau</langIT>
+    <tld>.tk</tld>
+  </TK>
+  <TL>
+    <number>626</number>
+    <alpha2>TL</alpha2>
+    <alpha3>TLS</alpha3>
+    <langEN>Timor-Leste</langEN>
+    <langDE>Osttimor (Timor-Leste)</langDE>
+    <langES>Timor Oriental</langES>
+    <langFR>Timor oriental</langFR>
+    <langIT>Timor Est</langIT>
+    <tld>.tl</tld>
+  </TL>
+  <TM>
+    <number>795</number>
+    <alpha2>TM</alpha2>
+    <alpha3>TKM</alpha3>
+    <langEN>Turkmenistan</langEN>
+    <langDE>Turkmenistan</langDE>
+    <langES>Turkmenistán</langES>
+    <langFR>Turkménistan</langFR>
+    <langIT>Turkmenistan</langIT>
+    <tld>.tm</tld>
+  </TM>
+  <TN>
+    <number>788</number>
+    <alpha2>TN</alpha2>
+    <alpha3>TUN</alpha3>
+    <langEN>Tunisia</langEN>
+    <langDE>Tunesien</langDE>
+    <langES>Túnez</langES>
+    <langFR>Tunisie</langFR>
+    <langIT>Tunisia</langIT>
+    <tld>.tn</tld>
+  </TN>
+  <TO>
+    <number>776</number>
+    <alpha2>TO</alpha2>
+    <alpha3>TON</alpha3>
+    <langEN>Tonga</langEN>
+    <langDE>Tonga</langDE>
+    <langES>Tonga</langES>
+    <langFR>Tonga</langFR>
+    <langIT>Tonga</langIT>
+    <tld>.to</tld>
+  </TO>
+  <TR>
+    <number>792</number>
+    <alpha2>TR</alpha2>
+    <alpha3>TUR</alpha3>
+    <langEN>Turkey</langEN>
+    <langDE>Türkei</langDE>
+    <langES>Turquía</langES>
+    <langFR>Turquie</langFR>
+    <langIT>Turkey</langIT>
+    <tld>.tr</tld>
+  </TR>
+  <TT>
+    <number>780</number>
+    <alpha2>TT</alpha2>
+    <alpha3>TTO</alpha3>
+    <langEN>Trinidad and Tobago</langEN>
+    <langDE>Trinidad und Tobago</langDE>
+    <langES>Trinidad y Tobago</langES>
+    <langFR>Trinité-et-Tobago</langFR>
+    <langIT>Trinidad e Tobago</langIT>
+    <tld>.tt</tld>
+  </TT>
+  <TV>
+    <number>798</number>
+    <alpha2>TV</alpha2>
+    <alpha3>TUV</alpha3>
+    <langEN>Tuvalu</langEN>
+    <langDE>Tuvalu</langDE>
+    <langES>Tuvalu</langES>
+    <langFR>Tuvalu</langFR>
+    <langIT>Tuvalu</langIT>
+    <tld>.tv</tld>
+  </TV>
+  <TW>
+    <number>158</number>
+    <alpha2>TW</alpha2>
+    <alpha3>TWN</alpha3>
+    <langEN>Taiwan</langEN>
+    <langDE>Taiwan</langDE>
+    <langES>Taiwán</langES>
+    <langFR>Taïwan</langFR>
+    <langIT>Taiwan</langIT>
+    <tld>.tw</tld>
+  </TW>
+  <TZ>
+    <number>834</number>
+    <alpha2>TZ</alpha2>
+    <alpha3>TZA</alpha3>
+    <langEN>Tanzania</langEN>
+    <langDE>Tansania, Vereinigte Republik</langDE>
+    <langES>Tanzania</langES>
+    <langFR>Tanzanie</langFR>
+    <langIT>Tanzania</langIT>
+    <tld>.tz</tld>
+  </TZ>
+  <UA>
+    <number>804</number>
+    <alpha2>UA</alpha2>
+    <alpha3>UKR</alpha3>
+    <langEN>Ukraine</langEN>
+    <langDE>Ukraine</langDE>
+    <langES>Ucrania</langES>
+    <langFR>Ukraine</langFR>
+    <langIT>Ukraine</langIT>
+    <tld>.ua</tld>
+  </UA>
+  <UG>
+    <number>800</number>
+    <alpha2>UG</alpha2>
+    <alpha3>UGA</alpha3>
+    <langEN>Uganda</langEN>
+    <langDE>Uganda</langDE>
+    <langES>Uganda</langES>
+    <langFR>Ouganda</langFR>
+    <langIT>Uganda</langIT>
+    <tld>.ug</tld>
+  </UG>
+  <UM>
+    <number>581</number>
+    <alpha2>UM</alpha2>
+    <alpha3>UMI</alpha3>
+    <langEN>United States Minor Outlying Islands</langEN>
+    <langDE>Kleinere Inselbesitzungen der Vereinigten Staaten</langDE>
+    <langES>Islas ultramarinas de Estados Unidos</langES>
+    <langFR>Îles mineures éloignées des États-Unis</langFR>
+    <langIT>Isole periferiche minori degli Stati Uniti</langIT>
+    <tld>.um</tld>
+  </UM>
+  <US>
+    <number>840</number>
+    <alpha2>US</alpha2>
+    <alpha3>USA</alpha3>
+    <langEN>United States of America</langEN>
+    <langDE>Vereinigte Staaten von Amerika</langDE>
+    <langES>Estados Unidos</langES>
+    <langFR>États-Unis</langFR>
+    <langIT>Stati Uniti 'America</langIT>
+    <tld>.us</tld>
+  </US>
+  <UY>
+    <number>858</number>
+    <alpha2>UY</alpha2>
+    <alpha3>URY</alpha3>
+    <langEN>Uruguay</langEN>
+    <langDE>Uruguay</langDE>
+    <langES>Uruguay</langES>
+    <langFR>Uruguay</langFR>
+    <langIT>Uruguay</langIT>
+    <tld>.uy</tld>
+  </UY>
+  <UZ>
+    <number>860</number>
+    <alpha2>UZ</alpha2>
+    <alpha3>UZB</alpha3>
+    <langEN>Uzbekistan</langEN>
+    <langDE>Usbekistan</langDE>
+    <langES>Uzbekistán</langES>
+    <langFR>Ouzbékistan</langFR>
+    <langIT>Uzbekistan</langIT>
+    <tld>.uz</tld>
+  </UZ>
+  <VA>
+    <number>336</number>
+    <alpha2>VA</alpha2>
+    <alpha3>VAT</alpha3>
+    <langEN>Holy See</langEN>
+    <langDE>Heiliger Stuhl</langDE>
+    <langES>Santa Sede</langES>
+    <langFR>Saint-Siège</langFR>
+    <langIT>Santa Sede</langIT>
+    <tld>.va</tld>
+  </VA>
+  <VC>
+    <number>670</number>
+    <alpha2>VC</alpha2>
+    <alpha3>VCT</alpha3>
+    <langEN>Saint Vincent and the Grenadines</langEN>
+    <langDE>St. Vincent und die Grenadinen</langDE>
+    <langES>San Vicente y las Granadinas</langES>
+    <langFR>Saint-Vincent-et-les Grenadines</langFR>
+    <langIT>Saint Vincent e Grenadines</langIT>
+    <tld>.vc</tld>
+  </VC>
+  <VE>
+    <number>862</number>
+    <alpha2>VE</alpha2>
+    <alpha3>VEN</alpha3>
+    <langEN>Venezuela</langEN>
+    <langDE>Venezuela</langDE>
+    <langES>Venezuela</langES>
+    <langFR>Venezuela</langFR>
+    <langIT>Venezuela</langIT>
+    <tld>.ve</tld>
+  </VE>
+  <VG>
+    <number>92</number>
+    <alpha2>VG</alpha2>
+    <alpha3>VGB</alpha3>
+    <langEN>Virgin Islands (British)</langEN>
+    <langDE>Britische Jungferninseln</langDE>
+    <langES>Islas Vírgenes Británicas</langES>
+    <langFR>Îles Vierges britanniques</langFR>
+    <langIT>Isole Vergini (britannici)</langIT>
+    <tld>.vg</tld>
+  </VG>
+  <VI>
+    <number>850</number>
+    <alpha2>VI</alpha2>
+    <alpha3>VIR</alpha3>
+    <langEN>Virgin Islands (U.S.)</langEN>
+    <langDE>Amerikanische Jungferninseln</langDE>
+    <langES>Islas Vírgenes de los Estados Unidos</langES>
+    <langFR>Îles Vierges des États-Unis</langFR>
+    <langIT>Isole Vergini (Stati Uniti)</langIT>
+    <tld>.vi</tld>
+  </VI>
+  <VN>
+    <number>704</number>
+    <alpha2>VN</alpha2>
+    <alpha3>VNM</alpha3>
+    <langEN>Vietnam</langEN>
+    <langDE>Vietnam</langDE>
+    <langES>Vietnam</langES>
+    <langFR>Viêt Nam</langFR>
+    <langIT>Vietnam</langIT>
+    <tld>.vn</tld>
+  </VN>
+  <VU>
+    <number>548</number>
+    <alpha2>VU</alpha2>
+    <alpha3>VUT</alpha3>
+    <langEN>Vanuatu</langEN>
+    <langDE>Vanuatu</langDE>
+    <langES>Vanuatu</langES>
+    <langFR>Vanuatu</langFR>
+    <langIT>Vanuatu</langIT>
+    <tld>.vu</tld>
+  </VU>
+  <WF>
+    <number>876</number>
+    <alpha2>WF</alpha2>
+    <alpha3>WLF</alpha3>
+    <langEN>Wallis and Futuna</langEN>
+    <langDE>Wallis und Futuna</langDE>
+    <langES>Wallis y Futuna</langES>
+    <langFR>Wallis-et-Futuna</langFR>
+    <langIT>Wallis e Futuna</langIT>
+    <tld>.wf</tld>
+  </WF>
+  <WS>
+    <number>882</number>
+    <alpha2>WS</alpha2>
+    <alpha3>WSM</alpha3>
+    <langEN>Samoa</langEN>
+    <langDE>Samoa</langDE>
+    <langES>Samoa</langES>
+    <langFR>Samoa</langFR>
+    <langIT>Samoa</langIT>
+    <tld>.ws</tld>
+  </WS>
+  <YE>
+    <number>887</number>
+    <alpha2>YE</alpha2>
+    <alpha3>YEM</alpha3>
+    <langEN>Yemen</langEN>
+    <langDE>Jemen</langDE>
+    <langES>Yemen</langES>
+    <langFR>Yémen</langFR>
+    <langIT>Yemen</langIT>
+    <tld>.ye</tld>
+  </YE>
+  <YT>
+    <number>175</number>
+    <alpha2>YT</alpha2>
+    <alpha3>MYT</alpha3>
+    <langEN>Mayotte</langEN>
+    <langDE>Mayotte</langDE>
+    <langES>Mayotte</langES>
+    <langFR>Mayotte</langFR>
+    <langIT>Mayotte</langIT>
+    <tld>.yt</tld>
+  </YT>
+  <ZA>
+    <number>710</number>
+    <alpha2>ZA</alpha2>
+    <alpha3>ZAF</alpha3>
+    <langEN>South Africa</langEN>
+    <langDE>Südafrika</langDE>
+    <langES>Sudáfrica</langES>
+    <langFR>Afrique du Sud</langFR>
+    <langIT>Sud Africa</langIT>
+    <tld>.za</tld>
+  </ZA>
+  <ZM>
+    <number>894</number>
+    <alpha2>ZM</alpha2>
+    <alpha3>ZMB</alpha3>
+    <langEN>Zambia</langEN>
+    <langDE>Sambia</langDE>
+    <langES>Zambia</langES>
+    <langFR>Zambie</langFR>
+    <langIT>Zambia</langIT>
+    <tld>.zm</tld>
+  </ZM>
+  <ZW>
+    <number>716</number>
+    <alpha2>ZW</alpha2>
+    <alpha3>ZWE</alpha3>
+    <langEN>Zimbabwe</langEN>
+    <langDE>Simbabwe</langDE>
+    <langES>Zimbabue</langES>
+    <langFR>Zimbabwe</langFR>
+    <langIT>Zimbabwe</langIT>
+    <tld>.zw</tld>
+  </ZW>
+</countries>

@@ -1,0 +1,1284 @@
+# World Languages (ISO 639)
+# YAML | v3.0.0 (2024)
+# https://github.com/ccmars/world-data
+aa:
+  alpha2: aa
+  langDE: Danakil-Sprache
+  langEN: Afar
+  langES: afar
+  langFR: afar
+  langIT: Afar
+ab:
+  alpha2: ab
+  langDE: Abchasisch
+  langEN: Abkhazian
+  langES: abjaso
+  langFR: abkhaze
+  langIT: Abkhaz
+ae:
+  alpha2: ae
+  langDE: Avestisch
+  langEN: Avestan
+  langES: "av\xE9stico"
+  langFR: avestique
+  langIT: Avestico
+af:
+  alpha2: af
+  langDE: Afrikaans
+  langEN: Afrikaans
+  langES: afrikaans
+  langFR: afrikaans
+  langIT: Afrikaans
+ak:
+  alpha2: ak
+  langDE: Akan-Sprache
+  langEN: Akan
+  langES: akano
+  langFR: akan
+  langIT: Akan
+am:
+  alpha2: am
+  langDE: Amharisch
+  langEN: Amharic
+  langES: "am\xE1rico"
+  langFR: amharique
+  langIT: Amarico
+an:
+  alpha2: an
+  langDE: Aragonesisch
+  langEN: Aragonese
+  langES: "aragon\xE9s"
+  langFR: aragonais
+  langIT: Aragonese
+ar:
+  alpha2: ar
+  langDE: Arabisch
+  langEN: Arabic
+  langES: "\xE1rabe"
+  langFR: arabe
+  langIT: Arabo
+as:
+  alpha2: as
+  langDE: Assamesisch
+  langEN: Assamese
+  langES: "asam\xE9s"
+  langFR: assamais
+  langIT: Assamese
+av:
+  alpha2: av
+  langDE: Awarisch
+  langEN: Avaric
+  langES: avar
+  langFR: avar
+  langIT: Avaro
+ay:
+  alpha2: ay
+  langDE: "Aymar\xE1-Sprache"
+  langEN: Aymara
+  langES: aimara
+  langFR: aymara
+  langIT: Aymara
+az:
+  alpha2: az
+  langDE: Aserbeidschanisch
+  langEN: Azerbaijani
+  langES: "azer\xED"
+  langFR: "az\xE9ri"
+  langIT: Azero
+ba:
+  alpha2: ba
+  langDE: Baschkirisch
+  langEN: Bashkir
+  langES: baskir
+  langFR: bachkir
+  langIT: Bashkir
+be:
+  alpha2: be
+  langDE: "Wei\xDFrussisch"
+  langEN: Belarusian
+  langES: bielorruso
+  langFR: "bi\xE9lorusse"
+  langIT: Bielorusso
+bg:
+  alpha2: bg
+  langDE: Bulgarisch
+  langEN: Bulgarian
+  langES: "b\xFAlgaro"
+  langFR: bulgare
+  langIT: Bulgaro
+bi:
+  alpha2: bi
+  langDE: Beach-la-mar
+  langEN: Bislama
+  langES: bislama
+  langFR: bichlamar
+  langIT: Bislama
+bm:
+  alpha2: bm
+  langDE: Bambara-Sprache
+  langEN: Bambara
+  langES: bambara
+  langFR: bambara
+  langIT: Bambara
+bn:
+  alpha2: bn
+  langDE: Bengali
+  langEN: Bengali
+  langES: "bengal\xED"
+  langFR: bengali
+  langIT: Bengalese
+bo:
+  alpha2: bo
+  langDE: Tibetisch
+  langEN: Tibetan
+  langES: tibetano
+  langFR: "tib\xE9tain"
+  langIT: Tibetano
+br:
+  alpha2: br
+  langDE: Bretonisch
+  langEN: Breton
+  langES: "bret\xF3n"
+  langFR: breton
+  langIT: Bretone
+bs:
+  alpha2: bs
+  langDE: Bosnisch
+  langEN: Bosnian
+  langES: bosnio
+  langFR: bosniaque
+  langIT: Bosniaco
+ca:
+  alpha2: ca
+  langDE: Katalanisch
+  langEN: Catalan
+  langES: "catal\xE1n"
+  langFR: catalan
+  langIT: Catalano
+ce:
+  alpha2: ce
+  langDE: Tschetschenisch
+  langEN: Chechen
+  langES: checheno
+  langFR: "tch\xE9tch\xE8ne"
+  langIT: Ceceno
+ch:
+  alpha2: ch
+  langDE: Chamorro-Sprache
+  langEN: Chamorro
+  langES: chamorro
+  langFR: chamorro
+  langIT: Chamorro
+co:
+  alpha2: co
+  langDE: Korsisch
+  langEN: Corsican
+  langES: corso
+  langFR: corse
+  langIT: Corso
+cr:
+  alpha2: cr
+  langDE: Cree-Sprache
+  langEN: Cree
+  langES: cree
+  langFR: cree
+  langIT: Cree
+cs:
+  alpha2: cs
+  langDE: Tschechisch
+  langEN: Czech
+  langES: checo
+  langFR: "tch\xE8que"
+  langIT: Ceco
+cu:
+  alpha2: cu
+  langDE: Kirchenslawisch
+  langEN: Old Slavonic
+  langES: "eslavo eclesi\xE1stico antiguo"
+  langFR: vieux slave
+  langIT: Antico slavo ecclesiastico
+cv:
+  alpha2: cv
+  langDE: Tschuwaschisch
+  langEN: Chuvash
+  langES: chuvasio
+  langFR: tchouvache
+  langIT: Ciuvascio
+cy:
+  alpha2: cy
+  langDE: Kymrisch
+  langEN: Welsh
+  langES: "gal\xE9s"
+  langFR: gallois
+  langIT: Gallese
+da:
+  alpha2: da
+  langDE: "D\xE4nisch"
+  langEN: Danish
+  langES: "dan\xE9s"
+  langFR: danois
+  langIT: Danese
+de:
+  alpha2: de
+  langDE: Deutsch
+  langEN: German
+  langES: "alem\xE1n"
+  langFR: allemand
+  langIT: Tedesco
+dv:
+  alpha2: dv
+  langDE: Maledivisch
+  langEN: Maldivian
+  langES: maldivo
+  langFR: maldivien
+  langIT: Divehi, Dhivehi, Maldiviano
+dz:
+  alpha2: dz
+  langDE: Dzongkha
+  langEN: Dzongkha
+  langES: dzongkha
+  langFR: dzongkha
+  langIT: Dzongkha
+ee:
+  alpha2: ee
+  langDE: Ewe-Sprache
+  langEN: Ewe
+  langES: ewe
+  langFR: "\xE9w\xE9"
+  langIT: Ewe
+el:
+  alpha2: el
+  langDE: Neugriechisch
+  langEN: Greek
+  langES: griego
+  langFR: grec moderne
+  langIT: Greco, moderno
+en:
+  alpha2: en
+  langDE: Englisch
+  langEN: English
+  langES: "ingl\xE9s"
+  langFR: anglais
+  langIT: Inglese
+eo:
+  alpha2: eo
+  langDE: Esperanto
+  langEN: Esperanto
+  langES: esperanto
+  langFR: "esp\xE9ranto"
+  langIT: Esperanto
+es:
+  alpha2: es
+  langDE: Spanisch
+  langEN: Spanish
+  langES: "espa\xF1ol"
+  langFR: espagnol
+  langIT: Spagnolo, Castigliano
+et:
+  alpha2: et
+  langDE: Estnisch
+  langEN: Estonian
+  langES: estonio
+  langFR: estonien
+  langIT: Estone
+eu:
+  alpha2: eu
+  langDE: Baskisch
+  langEN: Basque
+  langES: vascuence
+  langFR: basque
+  langIT: Basco
+fa:
+  alpha2: fa
+  langDE: Persisch
+  langEN: Persian
+  langES: persa
+  langFR: persan
+  langIT: "Persiano, F\u0101rs\xEC"
+ff:
+  alpha2: ff
+  langDE: Ful
+  langEN: Fulah
+  langES: fula
+  langFR: peul
+  langIT: Fula, Fulah, Pulaar, Pular
+fi:
+  alpha2: fi
+  langDE: Finnisch
+  langEN: Finnish
+  langES: "fin\xE9s"
+  langFR: finnois
+  langIT: Finlandese
+fj:
+  alpha2: fj
+  langDE: Fidschi-Sprache
+  langEN: Fijian
+  langES: fijiano
+  langFR: fidjien
+  langIT: Figiano
+fo:
+  alpha2: fo
+  langDE: "F\xE4r\xF6isch"
+  langEN: Faroese
+  langES: "fero\xE9s"
+  langFR: "f\xE9ro\xEFen"
+  langIT: Faroese
+fr:
+  alpha2: fr
+  langDE: "Franz\xF6sisch"
+  langEN: French
+  langES: "franc\xE9s"
+  langFR: "fran\xE7ais"
+  langIT: Francese
+fy:
+  alpha2: fy
+  langDE: Friesisch
+  langEN: Western Frisian
+  langES: "fris\xF3n"
+  langFR: frison occidental
+  langIT: Frisone occidentale
+ga:
+  alpha2: ga
+  langDE: Irisch
+  langEN: Irish
+  langES: "irland\xE9s"
+  langFR: irlandais
+  langIT: Irlandese
+gd:
+  alpha2: gd
+  langDE: "G\xE4lisch-Schottisch"
+  langEN: Gaelic
+  langES: "ga\xE9lico escoc\xE9s"
+  langFR: "ga\xE9lique"
+  langIT: Gaelico scozzese
+gl:
+  alpha2: gl
+  langDE: Galicisch
+  langEN: Galician
+  langES: gallego
+  langFR: galicien
+  langIT: Galiziano
+gn:
+  alpha2: gn
+  langDE: "Guaran\xED-Sprache"
+  langEN: Guarani
+  langES: "guaran\xED"
+  langFR: guarani
+  langIT: "Guaran\xED"
+gu:
+  alpha2: gu
+  langDE: Gujarati-Sprache
+  langEN: Gujarati
+  langES: "guyarat\xED"
+  langFR: goudjrati
+  langIT: Gujarati
+gv:
+  alpha2: gv
+  langDE: Manx
+  langEN: Manx
+  langES: "man\xE9s"
+  langFR: manx; mannois
+  langIT: Mannese
+ha:
+  alpha2: ha
+  langDE: Haussa-Sprache
+  langEN: Hausa
+  langES: hausa
+  langFR: haoussa
+  langIT: Hausa
+he:
+  alpha2: he
+  langDE: "Hebr\xE4isch"
+  langEN: Hebrew
+  langES: hebreo
+  langFR: "h\xE9breu"
+  langIT: Ebraico (moderno)
+hi:
+  alpha2: hi
+  langDE: Hindi
+  langEN: Hindi
+  langES: hindi
+  langFR: hindi
+  langIT: Hindi
+ho:
+  alpha2: ho
+  langDE: Hiri-Motu
+  langEN: Hiri Motu
+  langES: hiri motu
+  langFR: hiri motu
+  langIT: Hiri Motu
+hr:
+  alpha2: hr
+  langDE: Kroatisch
+  langEN: Croatian
+  langES: croata
+  langFR: croate
+  langIT: Croato
+ht:
+  alpha2: ht
+  langDE: "Ha\xEFtien"
+  langEN: Haitian
+  langES: haitiano
+  langFR: "ha\xEFtien"
+  langIT: Creolo haitiano
+hu:
+  alpha2: hu
+  langDE: Ungarisch
+  langEN: Hungarian
+  langES: "h\xFAngaro"
+  langFR: hongrois
+  langIT: Ungherese
+hy:
+  alpha2: hy
+  langDE: Armenisch
+  langEN: Armenian
+  langES: armenio
+  langFR: "arm\xE9nien"
+  langIT: Armeno
+hz:
+  alpha2: hz
+  langDE: Herero-Sprache
+  langEN: Herero
+  langES: herero
+  langFR: herero
+  langIT: Herero
+ia:
+  alpha2: ia
+  langDE: Interlingua
+  langEN: Interlingua
+  langES: interlingua
+  langFR: interlingua
+  langIT: Interlingua
+id:
+  alpha2: id
+  langDE: Bahasa Indonesia
+  langEN: Indonesian
+  langES: indonesio
+  langFR: "indon\xE9sien"
+  langIT: Indonesiano
+ie:
+  alpha2: ie
+  langDE: Interlingue
+  langEN: Interlingue
+  langES: occidental
+  langFR: interlingue
+  langIT: Interlingue
+ig:
+  alpha2: ig
+  langDE: Ibo-Sprache
+  langEN: Igbo
+  langES: igbo
+  langFR: igbo
+  langIT: Igbo
+ii:
+  alpha2: ii
+  langDE: Lalo-Sprache
+  langEN: Sichuan Yi
+  langES: "yi de Sichu\xE1n"
+  langFR: yi de Sichuan
+  langIT: Nuosu
+ik:
+  alpha2: ik
+  langDE: Inupik
+  langEN: Inupiaq
+  langES: inupiaq
+  langFR: inupiaq
+  langIT: Inupiaq
+io:
+  alpha2: io
+  langDE: Ido
+  langEN: Ido
+  langES: ido
+  langFR: ido
+  langIT: Ido
+is:
+  alpha2: is
+  langDE: "Isl\xE4ndisch"
+  langEN: Icelandic
+  langES: "island\xE9s"
+  langFR: islandais
+  langIT: Islandese
+it:
+  alpha2: it
+  langDE: Italienisch
+  langEN: Italian
+  langES: italiano
+  langFR: italien
+  langIT: Italiano
+iu:
+  alpha2: iu
+  langDE: Inuktitut
+  langEN: Inuktitut
+  langES: inuktitut
+  langFR: inuktitut
+  langIT: Inuktitut
+ja:
+  alpha2: ja
+  langDE: Japanisch
+  langEN: Japanese
+  langES: "japon\xE9s"
+  langFR: japonais
+  langIT: Giapponese
+jv:
+  alpha2: jv
+  langDE: Javanisch
+  langEN: Javanese
+  langES: "javan\xE9s"
+  langFR: javanais
+  langIT: Giavanese
+ka:
+  alpha2: ka
+  langDE: Georgisch
+  langEN: Georgian
+  langES: georgiano
+  langFR: "g\xE9orgien"
+  langIT: Georgiano
+kg:
+  alpha2: kg
+  langDE: Kongo-Sprache
+  langEN: Kongo
+  langES: kongo
+  langFR: kongo
+  langIT: Kikongo
+ki:
+  alpha2: ki
+  langDE: Kikuyu-Sprache
+  langEN: Kikuyu
+  langES: kikuyu
+  langFR: kikuyu
+  langIT: Kikuyu, Gikuyu
+kj:
+  alpha2: kj
+  langDE: Kwanyama-Sprache
+  langEN: Kwanyama
+  langES: kuanyama
+  langFR: kwanyama
+  langIT: Kuanyama
+kk:
+  alpha2: kk
+  langDE: Kasachisch
+  langEN: Kazakh
+  langES: kazajo
+  langFR: kazakh
+  langIT: Kazaco
+kl:
+  alpha2: kl
+  langDE: "Gr\xF6nl\xE4ndisch"
+  langEN: Greenlandic
+  langES: "groenland\xE9s"
+  langFR: groenlandais
+  langIT: Groenlandese
+km:
+  alpha2: km
+  langDE: Kambodschanisch
+  langEN: Central Khmer
+  langES: camboyano
+  langFR: khmer central
+  langIT: Khmer
+kn:
+  alpha2: kn
+  langDE: Kannada
+  langEN: Kannada
+  langES: "canar\xE9s"
+  langFR: kannada
+  langIT: Kannada
+ko:
+  alpha2: ko
+  langDE: Koreanisch
+  langEN: Korean
+  langES: coreano
+  langFR: "cor\xE9en"
+  langIT: Coreano
+kr:
+  alpha2: kr
+  langDE: Kanuri-Sprache
+  langEN: Kanuri
+  langES: kanuri
+  langFR: kanouri
+  langIT: Kanuri
+ks:
+  alpha2: ks
+  langDE: Kaschmiri
+  langEN: Kashmiri
+  langES: cachemiro
+  langFR: kashmiri
+  langIT: Kashmiri
+ku:
+  alpha2: ku
+  langDE: Kurdisch
+  langEN: Kurdish
+  langES: kurdo
+  langFR: kurde
+  langIT: Curdo
+kv:
+  alpha2: kv
+  langDE: Komi-Sprache
+  langEN: Komi
+  langES: komi
+  langFR: kom
+  langIT: Komi
+kw:
+  alpha2: kw
+  langDE: Kornisch
+  langEN: Cornish
+  langES: "c\xF3rnico"
+  langFR: cornique
+  langIT: Cornico
+ky:
+  alpha2: ky
+  langDE: Kirgisisch
+  langEN: Kirghiz
+  langES: "kirgu\xEDs"
+  langFR: kirghiz
+  langIT: Chirghiso
+la:
+  alpha2: la
+  langDE: Latein
+  langEN: Latin
+  langES: "lat\xEDn"
+  langFR: latin
+  langIT: Latino
+lb:
+  alpha2: lb
+  langDE: Luxemburgisch
+  langEN: Luxembourgish
+  langES: "luxemburgu\xE9s"
+  langFR: luxembourgeois
+  langIT: Lussemburghese
+lg:
+  alpha2: lg
+  langDE: Ganda-Sprache
+  langEN: Ganda
+  langES: luganda
+  langFR: ganda
+  langIT: Luganda
+li:
+  alpha2: li
+  langDE: Limburgisch
+  langEN: Limburgish
+  langES: "limburgu\xE9s"
+  langFR: limbourgeois
+  langIT: Limburghese
+ln:
+  alpha2: ln
+  langDE: Lingala
+  langEN: Lingala
+  langES: lingala
+  langFR: lingala
+  langIT: Lingala
+lo:
+  alpha2: lo
+  langDE: Laotisch
+  langEN: Lao
+  langES: lao
+  langFR: lao
+  langIT: Lao
+lt:
+  alpha2: lt
+  langDE: Litauisch
+  langEN: Lithuanian
+  langES: lituano
+  langFR: lituanien
+  langIT: Lituano
+lu:
+  alpha2: lu
+  langDE: Luba-Katanga-Sprache
+  langEN: Luba-Katanga
+  langES: luba-katanga
+  langFR: luba-katanga
+  langIT: Luba-Katanga
+lv:
+  alpha2: lv
+  langDE: Lettisch
+  langEN: Latvian
+  langES: "let\xF3n"
+  langFR: letton
+  langIT: Lettone
+mg:
+  alpha2: mg
+  langDE: Malagassi-Sprache
+  langEN: Malagasy
+  langES: malgache
+  langFR: malgache
+  langIT: Malgascio
+mh:
+  alpha2: mh
+  langDE: Marschallesisch
+  langEN: Marshallese
+  langES: "marshal\xE9s"
+  langFR: marshall
+  langIT: Marshallese
+mi:
+  alpha2: mi
+  langDE: Maori-Sprache
+  langEN: Maori
+  langES: "maor\xED"
+  langFR: maori
+  langIT: Maori
+mk:
+  alpha2: mk
+  langDE: Makedonisch
+  langEN: Macedonian
+  langES: macedonio
+  langFR: "mac\xE9donien"
+  langIT: Macedone
+ml:
+  alpha2: ml
+  langDE: Malayalam
+  langEN: Malayalam
+  langES: malayalam
+  langFR: malayalam
+  langIT: Malayalam
+mn:
+  alpha2: mn
+  langDE: Mongolisch
+  langEN: Mongolian
+  langES: mongol
+  langFR: mongol
+  langIT: Mongolo
+mr:
+  alpha2: mr
+  langDE: Marathi
+  langEN: Marathi
+  langES: "marat\xED"
+  langFR: marathe
+  langIT: Marathi
+ms:
+  alpha2: ms
+  langDE: Malaiisch
+  langEN: Malay
+  langES: malayo
+  langFR: malais
+  langIT: Malese
+mt:
+  alpha2: mt
+  langDE: Maltesisch
+  langEN: Maltese
+  langES: "malt\xE9s"
+  langFR: maltais
+  langIT: Maltese
+my:
+  alpha2: my
+  langDE: Birmanisch
+  langEN: Burmese
+  langES: birmano
+  langFR: birman
+  langIT: Birmano
+na:
+  alpha2: na
+  langDE: Nauruanisch
+  langEN: Nauru
+  langES: nauruano
+  langFR: nauruan
+  langIT: Nauruano
+nb:
+  alpha2: nb
+  langDE: "Bokm\xE5l"
+  langEN: Norwegian
+  langES: "noruego bokm\xE5l"
+  langFR: "norv\xE9gien bokm\xE5l"
+  langIT: Norvegese
+nd:
+  alpha2: nd
+  langDE: Ndebele-Sprache (Simbabwe)
+  langEN: North Ndebele
+  langES: ndebele del norte
+  langFR: "nd\xE9b\xE9l\xE9 du Nord"
+  langIT: Ndebele del Nord
+ne:
+  alpha2: ne
+  langDE: Nepali
+  langEN: Nepali
+  langES: "nepal\xED"
+  langFR: "n\xE9palais"
+  langIT: Nepalese
+ng:
+  alpha2: ng
+  langDE: Ndonga
+  langEN: Ndonga
+  langES: ndonga
+  langFR: ndonga
+  langIT: Ndonga
+nl:
+  alpha2: nl
+  langDE: "Niederl\xE4ndisch"
+  langEN: Dutch
+  langES: "neerland\xE9s"
+  langFR: "n\xE9erlandais"
+  langIT: Olandese
+nn:
+  alpha2: nn
+  langDE: Nynorsk
+  langEN: Norwegian Nynorsk
+  langES: nynorsk
+  langFR: "norv\xE9gien nynorsk"
+  langIT: Norvegese Nynorsk
+'no':
+  alpha2: 'no'
+  langDE: Norwegisch
+  langEN: Norwegian
+  langES: noruego
+  langFR: "norv\xE9gien"
+  langIT: Norvegese
+nr:
+  alpha2: nr
+  langDE: Ndebele-Sprache (Transvaal)
+  langEN: South Ndebele
+  langES: ndebele del sur
+  langFR: "nd\xE9b\xE9l\xE9 du Sud"
+  langIT: Ndebele del Sud
+nv:
+  alpha2: nv
+  langDE: Navajo-Sprache
+  langEN: Navajo
+  langES: navajo
+  langFR: navaho
+  langIT: Navajo, Navaho
+ny:
+  alpha2: ny
+  langDE: Nyanja-Sprache
+  langEN: Nyanja
+  langES: chichewa
+  langFR: nyanja
+  langIT: Nyanja
+oc:
+  alpha2: oc
+  langDE: Okzitanisch
+  langEN: Occitan
+  langES: occitano
+  langFR: occitan
+  langIT: Occitano
+oj:
+  alpha2: oj
+  langDE: Ojibwa-Sprache
+  langEN: Ojibwa
+  langES: ojibwa
+  langFR: ojibwa
+  langIT: Ojibwa
+om:
+  alpha2: om
+  langDE: Galla-Sprache
+  langEN: Oromo
+  langES: oromo
+  langFR: galla
+  langIT: Oromo
+or:
+  alpha2: or
+  langDE: Oriya-Sprache
+  langEN: Oriya
+  langES: oriya
+  langFR: oriya
+  langIT: Oriya
+os:
+  alpha2: os
+  langDE: Ossetisch
+  langEN: Ossetic
+  langES: "os\xE9tico"
+  langFR: "oss\xE8te"
+  langIT: Osseto
+pa:
+  alpha2: pa
+  langDE: Pandschabi-Sprache
+  langEN: Punjabi
+  langES: "panyab\xED"
+  langFR: pendjabi
+  langIT: Punjabi
+pi:
+  alpha2: pi
+  langDE: Pali
+  langEN: Pali
+  langES: pali
+  langFR: pali
+  langIT: "P\u0101li"
+pl:
+  alpha2: pl
+  langDE: Polnisch
+  langEN: Polish
+  langES: polaco
+  langFR: polonais
+  langIT: Polacco
+ps:
+  alpha2: ps
+  langDE: Paschtu
+  langEN: Pashto
+  langES: pashto
+  langFR: pachto
+  langIT: Pashtu
+pt:
+  alpha2: pt
+  langDE: Portugiesisch
+  langEN: Portuguese
+  langES: "portugu\xE9s"
+  langFR: portugais
+  langIT: Portoghese
+qu:
+  alpha2: qu
+  langDE: Quechua-Sprache
+  langEN: Quechua
+  langES: quechua
+  langFR: quechua
+  langIT: Quechua
+rm:
+  alpha2: rm
+  langDE: "R\xE4toromanisch"
+  langEN: Romansh
+  langES: "retorrom\xE1nico"
+  langFR: romanche
+  langIT: Romancio
+rn:
+  alpha2: rn
+  langDE: Rundi-Sprache
+  langEN: Rundi
+  langES: kirundi
+  langFR: rundi
+  langIT: Kirundi
+ro:
+  alpha2: ro
+  langDE: "Rum\xE4nisch"
+  langEN: Romanian
+  langES: rumano
+  langFR: roumain
+  langIT: Rumeno
+ru:
+  alpha2: ru
+  langDE: Russisch
+  langEN: Russian
+  langES: ruso
+  langFR: russe
+  langIT: Russo
+rw:
+  alpha2: rw
+  langDE: Rwanda-Sprache
+  langEN: Kinyarwanda
+  langES: "ruand\xE9s"
+  langFR: rwanda
+  langIT: Kinyarwanda
+sa:
+  alpha2: sa
+  langDE: Sanskrit
+  langEN: Sanskrit
+  langES: "s\xE1nscrito"
+  langFR: sanskrit
+  langIT: Sanscrito
+sc:
+  alpha2: sc
+  langDE: Sardisch
+  langEN: Sardinian
+  langES: sardo
+  langFR: sarde
+  langIT: Sardo
+sd:
+  alpha2: sd
+  langDE: Sindhi-Sprache
+  langEN: Sindhi
+  langES: sindhi
+  langFR: sindhi
+  langIT: Sindhi
+se:
+  alpha2: se
+  langDE: Nordsaamisch
+  langEN: Northern Sami
+  langES: sami septentrional
+  langFR: sami du Nord
+  langIT: Sami settentrionale
+sg:
+  alpha2: sg
+  langDE: Sango-Sprache
+  langEN: Sango
+  langES: sango
+  langFR: sango
+  langIT: Sango
+si:
+  alpha2: si
+  langDE: Singhalesisch
+  langEN: Sinhalese
+  langES: "cingal\xE9s"
+  langFR: singhalais
+  langIT: Singalese
+sk:
+  alpha2: sk
+  langDE: Slowakisch
+  langEN: Slovak
+  langES: eslovaco
+  langFR: slovaque
+  langIT: Slovacco
+sl:
+  alpha2: sl
+  langDE: Slowenisch
+  langEN: Slovenian
+  langES: esloveno
+  langFR: "slov\xE8ne"
+  langIT: Sloveno
+sm:
+  alpha2: sm
+  langDE: Samoanisch
+  langEN: Samoan
+  langES: samoano
+  langFR: samoan
+  langIT: Samoano
+sn:
+  alpha2: sn
+  langDE: Schona-Sprache
+  langEN: Shona
+  langES: shona
+  langFR: shona
+  langIT: Shona
+so:
+  alpha2: so
+  langDE: Somali
+  langEN: Somali
+  langES: "somal\xED"
+  langFR: somali
+  langIT: Somalo
+sq:
+  alpha2: sq
+  langDE: Albanisch
+  langEN: Albanian
+  langES: "alban\xE9s"
+  langFR: albanais
+  langIT: Albanese
+sr:
+  alpha2: sr
+  langDE: Serbisch
+  langEN: Serbian
+  langES: serbio
+  langFR: serbe
+  langIT: Serbo
+ss:
+  alpha2: ss
+  langDE: Swasi-Sprache
+  langEN: Swati
+  langES: suazi
+  langFR: swati
+  langIT: Swazi
+st:
+  alpha2: st
+  langDE: "S\xFCd-Sotho-Sprache"
+  langEN: Southern Sotho
+  langES: sesotho
+  langFR: sotho du Sud
+  langIT: Sesotho del Sud
+su:
+  alpha2: su
+  langDE: Sundanesisch
+  langEN: Sundanese
+  langES: "sundan\xE9s"
+  langFR: soundanais
+  langIT: Sondanese
+sv:
+  alpha2: sv
+  langDE: Schwedisch
+  langEN: Swedish
+  langES: sueco
+  langFR: "su\xE9dois"
+  langIT: Svedese
+sw:
+  alpha2: sw
+  langDE: Swahili
+  langEN: Swahili
+  langES: suajili
+  langFR: swahili
+  langIT: Swahili
+ta:
+  alpha2: ta
+  langDE: Tamil
+  langEN: Tamil
+  langES: tamil
+  langFR: tamoul
+  langIT: Tamil
+te:
+  alpha2: te
+  langDE: Telugu-Sprache
+  langEN: Telugu
+  langES: "telug\xFA"
+  langFR: "t\xE9lougou"
+  langIT: Telugu
+tg:
+  alpha2: tg
+  langDE: Tadschikisch
+  langEN: Tajik
+  langES: tayiko
+  langFR: tadjik
+  langIT: Tagiko
+th:
+  alpha2: th
+  langDE: "Thail\xE4ndisch"
+  langEN: Thai
+  langES: "tailand\xE9s"
+  langFR: "tha\xEF"
+  langIT: Thailandese
+ti:
+  alpha2: ti
+  langDE: Tigrinja-Sprache
+  langEN: Tigrinya
+  langES: "tigri\xF1a"
+  langFR: tigrigna
+  langIT: Tigrino
+tk:
+  alpha2: tk
+  langDE: Turkmenisch
+  langEN: Turkmen
+  langES: turcomano
+  langFR: "turkm\xE8ne"
+  langIT: Turkmeno
+tl:
+  alpha2: tl
+  langDE: Tagalog
+  langEN: Tagalog
+  langES: tagalo
+  langFR: tagalog
+  langIT: Tagalog
+tn:
+  alpha2: tn
+  langDE: Tswana-Sprache
+  langEN: Tswana
+  langES: setsuana
+  langFR: tswana
+  langIT: Tswana
+to:
+  alpha2: to
+  langDE: Tongaisch
+  langEN: Tonga
+  langES: tongano
+  langFR: tongan
+  langIT: Tongano
+tr:
+  alpha2: tr
+  langDE: "T\xFCrkisch"
+  langEN: Turkish
+  langES: turco
+  langFR: turc
+  langIT: Turco
+ts:
+  alpha2: ts
+  langDE: Tsonga-Sprache
+  langEN: Tsonga
+  langES: tsonga
+  langFR: tsonga
+  langIT: Tsonga
+tt:
+  alpha2: tt
+  langDE: Tatarisch
+  langEN: Tatar
+  langES: "t\xE1rtaro"
+  langFR: tatar
+  langIT: Tataro
+tw:
+  alpha2: tw
+  langDE: Twi-Sprache
+  langEN: Twi
+  langES: twi
+  langFR: twi
+  langIT: Twi
+ty:
+  alpha2: ty
+  langDE: Tahitisch
+  langEN: Tahitian
+  langES: tahitiano
+  langFR: tahitien
+  langIT: Tahitiano
+ug:
+  alpha2: ug
+  langDE: Uigurisch
+  langEN: Uighur
+  langES: uigur
+  langFR: "ou\xEFgour"
+  langIT: Uiguro
+uk:
+  alpha2: uk
+  langDE: Ukrainisch
+  langEN: Ukrainian
+  langES: ucraniano
+  langFR: ukrainien
+  langIT: Ucraino
+ur:
+  alpha2: ur
+  langDE: Urdu
+  langEN: Urdu
+  langES: urdu
+  langFR: ourdou
+  langIT: Urdu
+uz:
+  alpha2: uz
+  langDE: Usbekisch
+  langEN: Uzbek
+  langES: uzbeko
+  langFR: ouszbek
+  langIT: Usbeco
+ve:
+  alpha2: ve
+  langDE: Venda-Sprache
+  langEN: Venda
+  langES: venda
+  langFR: venda
+  langIT: Venda
+vi:
+  alpha2: vi
+  langDE: Vietnamesisch
+  langEN: Vietnamese
+  langES: vietnamita
+  langFR: vietnamien
+  langIT: Vietnamita
+vo:
+  alpha2: vo
+  langDE: "Volap\xFCk"
+  langEN: "Volap\xFCk"
+  langES: "volap\xFCk"
+  langFR: "volap\xFCk"
+  langIT: "Volap\xFCk"
+wa:
+  alpha2: wa
+  langDE: Wallonisch
+  langEN: Walloon
+  langES: "val\xF3n"
+  langFR: wallon
+  langIT: Vallone
+wo:
+  alpha2: wo
+  langDE: Wolof-Sprache
+  langEN: Wolof
+  langES: wolof
+  langFR: wolof
+  langIT: Wolof
+xh:
+  alpha2: xh
+  langDE: Xhosa-Sprache
+  langEN: Xhosa
+  langES: xhosa
+  langFR: xhosa
+  langIT: Xhosa
+yi:
+  alpha2: yi
+  langDE: Jiddisch
+  langEN: Yiddish
+  langES: yiddish
+  langFR: yiddish
+  langIT: Yiddish
+yo:
+  alpha2: yo
+  langDE: Yoruba-Sprache
+  langEN: Yoruba
+  langES: yoruba
+  langFR: yoruba
+  langIT: Yoruba
+za:
+  alpha2: za
+  langDE: Zhuang
+  langEN: Zhuang
+  langES: zhuang
+  langFR: zhuang
+  langIT: Zhuang
+zh:
+  alpha2: zh
+  langDE: Chinesisch
+  langEN: Chinese
+  langES: chino
+  langFR: chinois
+  langIT: Cinese
+zu:
+  alpha2: zu
+  langDE: Zulu-Sprache
+  langEN: Zulu
+  langES: "zul\xFA"
+  langFR: zoulou
+  langIT: Zulu
