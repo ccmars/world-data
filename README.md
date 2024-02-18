@@ -30,9 +30,9 @@ World data is available in the following formats:
 
 ### Markdown
 
-- [/dist/markdown/world_countries.md](https://github.com/ccmars/world-data/blob/master/dist/markdown/world_countries.md)
-- [/dist/markdown/world_currencies.md](https://github.com/ccmars/world-data/blob/master/dist/markdown/world_currencies.md)
-- [/dist/markdown/world_languages.md](https://github.com/ccmars/world-data/blob/master/dist/markdown/world_languages.md)
+- [/dist/md/world_countries.md](https://github.com/ccmars/world-data/blob/master/dist/md/world_countries.md)
+- [/dist/md/world_currencies.md](https://github.com/ccmars/world-data/blob/master/dist/md/world_currencies.md)
+- [/dist/md/world_languages.md](https://github.com/ccmars/world-data/blob/master/dist/md/world_languages.md)
 
 ### PHP
 
