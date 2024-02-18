@@ -7,15 +7,15 @@ parser.add_argument("version_string")
 args = parser.parse_args()
 
 def to_php_array(data, indent=''):
-    newIndent = "    ";
+    new_indent = "    ";
     if isinstance(data, dict):
         items = []
         for key, value in data.items():
-            items.append(f'"{key}" => {to_php_array(value, indent + newIndent)}')
-        return "[\n" + ",\n".join(indent + newIndent + item for item in items) + "\n" + indent + "]"
+            items.append(f'"{key}" => {to_php_array(value, indent + new_indent)}')
+        return "[\n" + ",\n".join(indent + new_indent + item for item in items) + "\n" + indent + "]"
     elif isinstance(data, list):
-        items = [to_php_array(value, indent + newIndent) for value in data]
-        return "[\n" + ",\n".join(indent + newIndent + item for item in items) + "\n" + indent + "]"
+        items = [to_php_array(value, indent + new_indent) for value in data]
+        return "[\n" + ",\n".join(indent + new_indent + item for item in items) + "\n" + indent + "]"
     elif data is None:
         return "null"
     else:
