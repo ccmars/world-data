@@ -209,7 +209,7 @@
   "BYN": {
     "number": 933,
     "alpha3": "BYN",
-    "decimals": 0,
+    "decimals": 2,
     "langEN": "Belarusian ruble",
     "langIT": "Rublo Bielorusso",
     "symbol_decimal": "112;46",
@@ -299,7 +299,7 @@
   "CVE": {
     "number": 132,
     "alpha3": "CVE",
-    "decimals": 0,
+    "decimals": 2,
     "langEN": "Cape Verdean escudo",
     "langIT": "Cabo Verde Escudo",
     "symbol_decimal": "36",
@@ -749,7 +749,7 @@
   "MGA": {
     "number": 969,
     "alpha3": "MGA",
-    "decimals": 1,
+    "decimals": 2,
     "langEN": "Malagasy ariary",
     "langIT": "Ariary Malgascio",
     "symbol_decimal": "65;114",
@@ -768,7 +768,7 @@
     "number": 104,
     "alpha3": "MMK",
     "decimals": 2,
-    "langEN": "Burmese kyat",
+    "langEN": "Myanmar kyat",
     "langIT": "Kyat",
     "symbol_decimal": "75",
     "symbol_hex": "004B"
@@ -794,7 +794,7 @@
   "MRU": {
     "number": 929,
     "alpha3": "MRU",
-    "decimals": 1,
+    "decimals": 2,
     "langEN": "Mauritanian ouguiya",
     "langIT": "Rupia Mauriziana",
     "symbol_decimal": "85;77",
@@ -1092,17 +1092,8 @@
     "number": 925,
     "alpha3": "SLE",
     "decimals": 2,
-    "langEN": "Sierra Leonean new leone",
+    "langEN": "Sierra Leonean leone",
     "langIT": "Nuovo leone",
-    "symbol_decimal": "76;101",
-    "symbol_hex": "004C;0065"
-  },
-  "SLL": {
-    "number": 694,
-    "alpha3": "SLL",
-    "decimals": 2,
-    "langEN": "Sierra Leonean old leone",
-    "langIT": "Vecchia leone",
     "symbol_decimal": "76;101",
     "symbol_hex": "004C;0065"
   },
@@ -1110,7 +1101,7 @@
     "number": 706,
     "alpha3": "SOS",
     "decimals": 2,
-    "langEN": "Somali shilling",
+    "langEN": "Somalian shilling",
     "langIT": "Scellino somalo",
     "symbol_decimal": "83",
     "symbol_hex": "0053"
@@ -1290,7 +1281,7 @@
     "number": 860,
     "alpha3": "UZS",
     "decimals": 2,
-    "langEN": "Uzbekistan som",
+    "langEN": "Uzbekistani sum",
     "langIT": "Sum dell'Uzbekistan",
     "symbol_decimal": "1083;1074",
     "symbol_hex": "043B;0432"

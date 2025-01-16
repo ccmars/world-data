@@ -1,6 +1,6 @@
 <?php
 // World Languages (ISO 639)
-// PHP | v3.0.0 (2024)
+// PHP | v3.0.1 (2025)
 // https://github.com/ccmars/world-data
 $world_languages = [
     "aa" => [

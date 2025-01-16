@@ -149,7 +149,7 @@ pip install -r src/requirements.txt
 In `src/main.py`, increase the *minor version* by one (or *patch version* by one if no new languages or formats were added) in the `version_string` variable, and then run the main script to complete the data generation process:
 
 ```bash:
-python3 src/main.py
+python src/main.py
 ```
 
 Finally, submit a pull request with your changes and it will be reviewed promptly. Thank you for your contribution!

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <currencies>
   <!--World Currencies (ISO 4217)-->
-  <!--XML | v3.0.0 (2024)-->
+  <!--XML | v3.0.1 (2025)-->
   <!--https://github.com/ccmars/world-data-->
   <AED>
     <number>784</number>
@@ -213,7 +213,7 @@
   <BYN>
     <number>933</number>
     <alpha3>BYN</alpha3>
-    <decimals>0</decimals>
+    <decimals>2</decimals>
     <langEN>Belarusian ruble</langEN>
     <langIT>Rublo Bielorusso</langIT>
     <symbol_decimal>112;46</symbol_decimal>
@@ -303,7 +303,7 @@
   <CVE>
     <number>132</number>
     <alpha3>CVE</alpha3>
-    <decimals>0</decimals>
+    <decimals>2</decimals>
     <langEN>Cape Verdean escudo</langEN>
     <langIT>Cabo Verde Escudo</langIT>
     <symbol_decimal>36</symbol_decimal>
@@ -753,7 +753,7 @@
   <MGA>
     <number>969</number>
     <alpha3>MGA</alpha3>
-    <decimals>1</decimals>
+    <decimals>2</decimals>
     <langEN>Malagasy ariary</langEN>
     <langIT>Ariary Malgascio</langIT>
     <symbol_decimal>65;114</symbol_decimal>
@@ -772,7 +772,7 @@
     <number>104</number>
     <alpha3>MMK</alpha3>
     <decimals>2</decimals>
-    <langEN>Burmese kyat</langEN>
+    <langEN>Myanmar kyat</langEN>
     <langIT>Kyat</langIT>
     <symbol_decimal>75</symbol_decimal>
     <symbol_hex>004B</symbol_hex>
@@ -798,7 +798,7 @@
   <MRU>
     <number>929</number>
     <alpha3>MRU</alpha3>
-    <decimals>1</decimals>
+    <decimals>2</decimals>
     <langEN>Mauritanian ouguiya</langEN>
     <langIT>Rupia Mauriziana</langIT>
     <symbol_decimal>85;77</symbol_decimal>
@@ -1096,25 +1096,16 @@
     <number>925</number>
     <alpha3>SLE</alpha3>
     <decimals>2</decimals>
-    <langEN>Sierra Leonean new leone</langEN>
+    <langEN>Sierra Leonean leone</langEN>
     <langIT>Nuovo leone</langIT>
     <symbol_decimal>76;101</symbol_decimal>
     <symbol_hex>004C;0065</symbol_hex>
   </SLE>
-  <SLL>
-    <number>694</number>
-    <alpha3>SLL</alpha3>
-    <decimals>2</decimals>
-    <langEN>Sierra Leonean old leone</langEN>
-    <langIT>Vecchia leone</langIT>
-    <symbol_decimal>76;101</symbol_decimal>
-    <symbol_hex>004C;0065</symbol_hex>
-  </SLL>
   <SOS>
     <number>706</number>
     <alpha3>SOS</alpha3>
     <decimals>2</decimals>
-    <langEN>Somali shilling</langEN>
+    <langEN>Somalian shilling</langEN>
     <langIT>Scellino somalo</langIT>
     <symbol_decimal>83</symbol_decimal>
     <symbol_hex>0053</symbol_hex>
@@ -1294,7 +1285,7 @@
     <number>860</number>
     <alpha3>UZS</alpha3>
     <decimals>2</decimals>
-    <langEN>Uzbekistan som</langEN>
+    <langEN>Uzbekistani sum</langEN>
     <langIT>Sum dell'Uzbekistan</langIT>
     <symbol_decimal>1083;1074</symbol_decimal>
     <symbol_hex>043B;0432</symbol_hex>

@@ -1,5 +1,5 @@
 -- World Currencies (ISO 4217)
--- SQL Table | v3.0.0 (2024)
+-- SQL Table | v3.0.1 (2025)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_currencies`;
@@ -37,7 +37,7 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (44, 'BSD', 2, 'Bahamian dollar', 'Dollaro delle Bahamas', '36', '0024'),
 (64, 'BTN', 2, 'Bhutanese ngultrum', 'Ngultrum', '78;117', '004E;0075'),
 (72, 'BWP', 2, 'Botswana pula', 'Pula', '80', '0050'),
-(933, 'BYN', 0, 'Belarusian ruble', 'Rublo Bielorusso', '112;46', '0070;002E'),
+(933, 'BYN', 2, 'Belarusian ruble', 'Rublo Bielorusso', '112;46', '0070;002E'),
 (84, 'BZD', 2, 'Belize dollar', 'Dollaro Belize', '66;90;36', '0042;005A;0024'),
 (124, 'CAD', 2, 'Canadian dollar', 'Dollaro Canadese', '36', '0024'),
 (976, 'CDF', 2, 'Congolese franc', 'Franco congolese', '70;67', '0046;0043'),
@@ -47,7 +47,7 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (170, 'COP', 2, 'Colombian peso', 'Peso Colombiano', '36', '0024'),
 (188, 'CRC', 2, 'Costa Rican colon', 'Colón costaricano', '8353', '20A1'),
 (192, 'CUP', 2, 'Cuban peso', 'Peso cubano', '8369', '20B1'),
-(132, 'CVE', 0, 'Cape Verdean escudo', 'Cabo Verde Escudo', '36', '0024'),
+(132, 'CVE', 2, 'Cape Verdean escudo', 'Cabo Verde Escudo', '36', '0024'),
 (203, 'CZK', 2, 'Czech koruna', 'Corona Ceca', '75;269', '004B;010D'),
 (262, 'DJF', 0, 'Djiboutian franc', 'Franco del Gibuti', '70;100;106', '0046;0064;006A'),
 (208, 'DKK', 2, 'Danish krone', 'Corona Danese', '107;114', '006B;0072'),
@@ -97,12 +97,12 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (434, 'LYD', 3, 'Libyan dinar', 'Dinaro Libico', '1604;46;1583', '0644;002E;062F'),
 (504, 'MAD', 2, 'Moroccan dirham', 'Dirham Marocchino', '77;65;68', '004D;0041;0044'),
 (498, 'MDL', 2, 'Moldovan leu', 'Leu Moldavo', '76', '004C'),
-(969, 'MGA', 1, 'Malagasy ariary', 'Ariary Malgascio', '65;114', '0041;0072'),
+(969, 'MGA', 2, 'Malagasy ariary', 'Ariary Malgascio', '65;114', '0041;0072'),
 (807, 'MKD', 2, 'Macedonian denar', 'Denar', '1076;1077;1085', '0434;0435;043D'),
-(104, 'MMK', 2, 'Burmese kyat', 'Kyat', '75', '004B'),
+(104, 'MMK', 2, 'Myanmar kyat', 'Kyat', '75', '004B'),
 (496, 'MNT', 2, 'Mongolian tögrög', 'Tugrik', '8366', '20AE'),
 (446, 'MOP', 2, 'Macanese pataca', 'Pataca', '77;79;80;36', '004D;004F;0050;0024'),
-(929, 'MRU', 1, 'Mauritanian ouguiya', 'Rupia Mauriziana', '85;77', '0055;004D'),
+(929, 'MRU', 2, 'Mauritanian ouguiya', 'Rupia Mauriziana', '85;77', '0055;004D'),
 (480, 'MUR', 2, 'Mauritian rupee', 'Rupia delle Mauritius', '8360', '20A8'),
 (462, 'MVR', 2, 'Maldivian rufiyaa', 'Rufiyaa', '45;1923', '002D;0783'),
 (454, 'MWK', 2, 'Malawian kwacha', 'Kwacha', '77;75', '004D;004B'),
@@ -135,9 +135,8 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (752, 'SEK', 2, 'Swedish krona/kronor', 'Corona svedese', '107;114', '006B;0072'),
 (702, 'SGD', 2, 'Singapore dollar', 'Dollaro di Singapore', '36', '0024'),
 (654, 'SHP', 2, 'Saint Helena pound', 'Saint Helena Pound', '163', '00A3'),
-(925, 'SLE', 2, 'Sierra Leonean new leone', 'Nuovo leone', '76;101', '004C;0065'),
-(694, 'SLL', 2, 'Sierra Leonean old leone', 'Vecchia leone', '76;101', '004C;0065'),
-(706, 'SOS', 2, 'Somali shilling', 'Scellino somalo', '83', '0053'),
+(925, 'SLE', 2, 'Sierra Leonean leone', 'Nuovo leone', '76;101', '004C;0065'),
+(706, 'SOS', 2, 'Somalian shilling', 'Scellino somalo', '83', '0053'),
 (968, 'SRD', 2, 'Surinamese dollar', 'Dollaro del Suriname', '36', '0024'),
 (728, 'SSP', 2, 'South Sudanese pound', 'Sterlina sud-sudanese', '36', '0024'),
 (930, 'STN', 2, 'São Tomé and Príncipe dobra', 'Dobra di São Tomé e Principe', '68;98', '0044;0062'),
@@ -157,7 +156,7 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (800, 'UGX', 0, 'Ugandan shilling', 'Scellino dell''Uganda', '85;83;104', '0055;0053;0068'),
 (840, 'USD', 2, 'United States dollar', 'Dollaro Americano', '36', '0024'),
 (858, 'UYU', 2, 'Uruguayan peso', 'Peso Uruguayo', '36;85', '0024;0055'),
-(860, 'UZS', 2, 'Uzbekistan som', 'Sum dell''Uzbekistan', '1083;1074', '043B;0432'),
+(860, 'UZS', 2, 'Uzbekistani sum', 'Sum dell''Uzbekistan', '1083;1074', '043B;0432'),
 (926, 'VED', 2, 'Venezuelan digital bolívar', 'Bolívar digitale venezuelano', '66;115;46;68', '0042;0073;002E;0044'),
 (928, 'VES', 2, 'Venezuelan sovereign bolívar', 'Bolívar sovrano venezuelano', '66;115;46;83', '0042;0073;002E;0053'),
 (704, 'VND', 0, 'Vietnamese đồng', 'Dong', '8363', '20AB'),

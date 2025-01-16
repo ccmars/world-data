@@ -1,5 +1,5 @@
 # World Languages (ISO 639)
-## Markdown | v3.0.0 (2024) | https://github.com/ccmars/world-data
+## Markdown | v3.0.1 (2025) | https://github.com/ccmars/world-data
 | alpha2   | langEN            | langDE                      | langFR            | langES                      | langIT                      |
 |:---------|:------------------|:----------------------------|:------------------|:----------------------------|:----------------------------|
 | aa       | Afar              | Danakil-Sprache             | afar              | afar                        | Afar                        |

@@ -6,7 +6,7 @@ scripts_dir = 'src/scripts'
 scripts = [os.path.join(scripts_dir, f) for f in os.listdir(scripts_dir) if f.endswith('.py')]
 
 processes = []
-version_string = "v3.0.0 (2024)"
+version_string = "v3.0.1 (2025)"
 
 # Run each script in a separate process, asynchronously
 for script in scripts:

@@ -1,5 +1,5 @@
 # World Currencies (ISO 4217)
-# YAML | v3.0.0 (2024)
+# YAML | v3.0.1 (2025)
 # https://github.com/ccmars/world-data
 AED:
   alpha3: AED
@@ -187,7 +187,7 @@ BWP:
   symbol_hex: '0050'
 BYN:
   alpha3: BYN
-  decimals: 0
+  decimals: 2
   langEN: Belarusian ruble
   langIT: Rublo Bielorusso
   number: 933
@@ -267,7 +267,7 @@ CUP:
   symbol_hex: 20B1
 CVE:
   alpha3: CVE
-  decimals: 0
+  decimals: 2
   langEN: Cape Verdean escudo
   langIT: Cabo Verde Escudo
   number: 132
@@ -667,7 +667,7 @@ MDL:
   symbol_hex: 004C
 MGA:
   alpha3: MGA
-  decimals: 1
+  decimals: 2
   langEN: Malagasy ariary
   langIT: Ariary Malgascio
   number: 969
@@ -684,7 +684,7 @@ MKD:
 MMK:
   alpha3: MMK
   decimals: 2
-  langEN: Burmese kyat
+  langEN: Myanmar kyat
   langIT: Kyat
   number: 104
   symbol_decimal: '75'
@@ -707,7 +707,7 @@ MOP:
   symbol_hex: 004D;004F;0050;0024
 MRU:
   alpha3: MRU
-  decimals: 1
+  decimals: 2
   langEN: Mauritanian ouguiya
   langIT: Rupia Mauriziana
   number: 929
@@ -972,23 +972,15 @@ SHP:
 SLE:
   alpha3: SLE
   decimals: 2
-  langEN: Sierra Leonean new leone
+  langEN: Sierra Leonean leone
   langIT: Nuovo leone
   number: 925
-  symbol_decimal: 76;101
-  symbol_hex: 004C;0065
-SLL:
-  alpha3: SLL
-  decimals: 2
-  langEN: Sierra Leonean old leone
-  langIT: Vecchia leone
-  number: 694
   symbol_decimal: 76;101
   symbol_hex: 004C;0065
 SOS:
   alpha3: SOS
   decimals: 2
-  langEN: Somali shilling
+  langEN: Somalian shilling
   langIT: Scellino somalo
   number: 706
   symbol_decimal: '83'
@@ -1148,7 +1140,7 @@ UYU:
 UZS:
   alpha3: UZS
   decimals: 2
-  langEN: Uzbekistan som
+  langEN: Uzbekistani sum
   langIT: Sum dell'Uzbekistan
   number: 860
   symbol_decimal: 1083;1074

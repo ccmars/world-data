@@ -1,5 +1,5 @@
 # World Currencies (ISO 4217)
-## Markdown | v3.0.0 (2024) | https://github.com/ccmars/world-data
+## Markdown | v3.0.1 (2025) | https://github.com/ccmars/world-data
 | alpha3   |   number |   decimals | langEN                                  | langIT                           | symbol_decimal           | symbol_hex               |
 |:---------|---------:|-----------:|:----------------------------------------|:---------------------------------|:-------------------------|:-------------------------|
 | AED      |      784 |          2 | United Arab Emirates dirham             | Dirham degli Emirati Arabi Uniti | 1583;46;1573             | 062F;002E;0625           |
@@ -25,7 +25,7 @@
 | BSD      |       44 |          2 | Bahamian dollar                         | Dollaro delle Bahamas            | 36                       | 0024                     |
 | BTN      |       64 |          2 | Bhutanese ngultrum                      | Ngultrum                         | 78;117                   | 004E;0075                |
 | BWP      |       72 |          2 | Botswana pula                           | Pula                             | 80                       | 0050                     |
-| BYN      |      933 |          0 | Belarusian ruble                        | Rublo Bielorusso                 | 112;46                   | 0070;002E                |
+| BYN      |      933 |          2 | Belarusian ruble                        | Rublo Bielorusso                 | 112;46                   | 0070;002E                |
 | BZD      |       84 |          2 | Belize dollar                           | Dollaro Belize                   | 66;90;36                 | 0042;005A;0024           |
 | CAD      |      124 |          2 | Canadian dollar                         | Dollaro Canadese                 | 36                       | 0024                     |
 | CDF      |      976 |          2 | Congolese franc                         | Franco congolese                 | 70;67                    | 0046;0043                |
@@ -35,7 +35,7 @@
 | COP      |      170 |          2 | Colombian peso                          | Peso Colombiano                  | 36                       | 0024                     |
 | CRC      |      188 |          2 | Costa Rican colon                       | Colón costaricano                | 8353                     | 20A1                     |
 | CUP      |      192 |          2 | Cuban peso                              | Peso cubano                      | 8369                     | 20B1                     |
-| CVE      |      132 |          0 | Cape Verdean escudo                     | Cabo Verde Escudo                | 36                       | 0024                     |
+| CVE      |      132 |          2 | Cape Verdean escudo                     | Cabo Verde Escudo                | 36                       | 0024                     |
 | CZK      |      203 |          2 | Czech koruna                            | Corona Ceca                      | 75;269                   | 004B;010D                |
 | DJF      |      262 |          0 | Djiboutian franc                        | Franco del Gibuti                | 70;100;106               | 0046;0064;006A           |
 | DKK      |      208 |          2 | Danish krone                            | Corona Danese                    | 107;114                  | 006B;0072                |
@@ -85,12 +85,12 @@
 | LYD      |      434 |          3 | Libyan dinar                            | Dinaro Libico                    | 1604;46;1583             | 0644;002E;062F           |
 | MAD      |      504 |          2 | Moroccan dirham                         | Dirham Marocchino                | 77;65;68                 | 004D;0041;0044           |
 | MDL      |      498 |          2 | Moldovan leu                            | Leu Moldavo                      | 76                       | 004C                     |
-| MGA      |      969 |          1 | Malagasy ariary                         | Ariary Malgascio                 | 65;114                   | 0041;0072                |
+| MGA      |      969 |          2 | Malagasy ariary                         | Ariary Malgascio                 | 65;114                   | 0041;0072                |
 | MKD      |      807 |          2 | Macedonian denar                        | Denar                            | 1076;1077;1085           | 0434;0435;043D           |
-| MMK      |      104 |          2 | Burmese kyat                            | Kyat                             | 75                       | 004B                     |
+| MMK      |      104 |          2 | Myanmar kyat                            | Kyat                             | 75                       | 004B                     |
 | MNT      |      496 |          2 | Mongolian tögrög                        | Tugrik                           | 8366                     | 20AE                     |
 | MOP      |      446 |          2 | Macanese pataca                         | Pataca                           | 77;79;80;36              | 004D;004F;0050;0024      |
-| MRU      |      929 |          1 | Mauritanian ouguiya                     | Rupia Mauriziana                 | 85;77                    | 0055;004D                |
+| MRU      |      929 |          2 | Mauritanian ouguiya                     | Rupia Mauriziana                 | 85;77                    | 0055;004D                |
 | MUR      |      480 |          2 | Mauritian rupee                         | Rupia delle Mauritius            | 8360                     | 20A8                     |
 | MVR      |      462 |          2 | Maldivian rufiyaa                       | Rufiyaa                          | 45;1923                  | 002D;0783                |
 | MWK      |      454 |          2 | Malawian kwacha                         | Kwacha                           | 77;75                    | 004D;004B                |
@@ -123,9 +123,8 @@
 | SEK      |      752 |          2 | Swedish krona/kronor                    | Corona svedese                   | 107;114                  | 006B;0072                |
 | SGD      |      702 |          2 | Singapore dollar                        | Dollaro di Singapore             | 36                       | 0024                     |
 | SHP      |      654 |          2 | Saint Helena pound                      | Saint Helena Pound               | 163                      | 00A3                     |
-| SLE      |      925 |          2 | Sierra Leonean new leone                | Nuovo leone                      | 76;101                   | 004C;0065                |
-| SLL      |      694 |          2 | Sierra Leonean old leone                | Vecchia leone                    | 76;101                   | 004C;0065                |
-| SOS      |      706 |          2 | Somali shilling                         | Scellino somalo                  | 83                       | 0053                     |
+| SLE      |      925 |          2 | Sierra Leonean leone                    | Nuovo leone                      | 76;101                   | 004C;0065                |
+| SOS      |      706 |          2 | Somalian shilling                       | Scellino somalo                  | 83                       | 0053                     |
 | SRD      |      968 |          2 | Surinamese dollar                       | Dollaro del Suriname             | 36                       | 0024                     |
 | SSP      |      728 |          2 | South Sudanese pound                    | Sterlina sud-sudanese            | 36                       | 0024                     |
 | STN      |      930 |          2 | São Tomé and Príncipe dobra             | Dobra di São Tomé e Principe     | 68;98                    | 0044;0062                |
@@ -145,7 +144,7 @@
 | UGX      |      800 |          0 | Ugandan shilling                        | Scellino dell'Uganda             | 85;83;104                | 0055;0053;0068           |
 | USD      |      840 |          2 | United States dollar                    | Dollaro Americano                | 36                       | 0024                     |
 | UYU      |      858 |          2 | Uruguayan peso                          | Peso Uruguayo                    | 36;85                    | 0024;0055                |
-| UZS      |      860 |          2 | Uzbekistan som                          | Sum dell'Uzbekistan              | 1083;1074                | 043B;0432                |
+| UZS      |      860 |          2 | Uzbekistani sum                         | Sum dell'Uzbekistan              | 1083;1074                | 043B;0432                |
 | VED      |      926 |          2 | Venezuelan digital bolívar              | Bolívar digitale venezuelano     | 66;115;46;68             | 0042;0073;002E;0044      |
 | VES      |      928 |          2 | Venezuelan sovereign bolívar            | Bolívar sovrano venezuelano      | 66;115;46;83             | 0042;0073;002E;0053      |
 | VND      |      704 |          0 | Vietnamese đồng                         | Dong                             | 8363                     | 20AB                     |

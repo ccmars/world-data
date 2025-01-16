@@ -1,5 +1,5 @@
 # World Countries (ISO 3166)
-## Markdown | v3.0.0 (2024) | https://github.com/ccmars/world-data
+## Markdown | v3.0.1 (2025) | https://github.com/ccmars/world-data
 |   number | alpha2   | alpha3   | langEN                                       | langDE                                            | langES                                    | langFR                                       | langIT                                     | tld   |
 |---------:|:---------|:---------|:---------------------------------------------|:--------------------------------------------------|:------------------------------------------|:---------------------------------------------|:-------------------------------------------|:------|
 |       20 | AD       | AND      | Andorra                                      | Andorra                                           | Andorra                                   | Andorre                                      | Andorra                                    | .ad   |

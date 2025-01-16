@@ -1,5 +1,5 @@
 -- World Countries (ISO 3166)
--- SQL Table | v3.0.0 (2024)
+-- SQL Table | v3.0.1 (2025)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_countries`;
