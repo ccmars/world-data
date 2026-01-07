@@ -1,5 +1,5 @@
 # World Countries (ISO 3166)
-# YAML | v3.0.1 (2025)
+# YAML | v3.0.2 (2026)
 # https://github.com/ccmars/world-data
 AD:
   alpha2: AD
@@ -2245,10 +2245,10 @@ TR:
   alpha2: TR
   alpha3: TUR
   langDE: "T\xFCrkei"
-  langEN: Turkey
+  langEN: "T\xFCrkiye"
   langES: "Turqu\xEDa"
   langFR: Turquie
-  langIT: Turkey
+  langIT: "T\xFCrkiye"
   number: 792
   tld: .tr
 TT:

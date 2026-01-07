@@ -1,6 +1,6 @@
 <?php
 // World Currencies (ISO 4217)
-// PHP | v3.0.1 (2025)
+// PHP | v3.0.2 (2026)
 // https://github.com/ccmars/world-data
 $world_currencies = [
     "AED" => [
@@ -119,15 +119,6 @@ $world_currencies = [
         "langIT" => "Taka",
         "symbol_decimal" => "2547",
         "symbol_hex" => "09F3"
-    ],
-    "BGN" => [
-        "number" => "975",
-        "alpha3" => "BGN",
-        "decimals" => "2",
-        "langEN" => "Bulgarian lev",
-        "langIT" => "Lev Bulgaro",
-        "symbol_decimal" => "1083;1074",
-        "symbol_hex" => "043B;0432"
     ],
     "BHD" => [
         "number" => "48",
@@ -1407,12 +1398,12 @@ $world_currencies = [
         "symbol_decimal" => "90;36",
         "symbol_hex" => "005A;0024"
     ],
-    "ZWL" => [
-        "number" => "932",
-        "alpha3" => "ZWL",
+    "ZWG" => [
+        "number" => "924",
+        "alpha3" => "ZWG",
         "decimals" => "2",
-        "langEN" => "Zimbabwean dollar",
-        "langIT" => "Dollaro dello Zimbabwe",
+        "langEN" => "Zimbabwe Gold",
+        "langIT" => "Oro dello Zimbabwe",
         "symbol_decimal" => "36",
         "symbol_hex" => "0024"
     ]

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <currencies>
   <!--World Currencies (ISO 4217)-->
-  <!--XML | v3.0.1 (2025)-->
+  <!--XML | v3.0.2 (2026)-->
   <!--https://github.com/ccmars/world-data-->
   <AED>
     <number>784</number>
@@ -120,15 +120,6 @@
     <symbol_decimal>2547</symbol_decimal>
     <symbol_hex>09F3</symbol_hex>
   </BDT>
-  <BGN>
-    <number>975</number>
-    <alpha3>BGN</alpha3>
-    <decimals>2</decimals>
-    <langEN>Bulgarian lev</langEN>
-    <langIT>Lev Bulgaro</langIT>
-    <symbol_decimal>1083;1074</symbol_decimal>
-    <symbol_hex>043B;0432</symbol_hex>
-  </BGN>
   <BHD>
     <number>48</number>
     <alpha3>BHD</alpha3>
@@ -1407,13 +1398,13 @@
     <symbol_decimal>90;36</symbol_decimal>
     <symbol_hex>005A;0024</symbol_hex>
   </ZMW>
-  <ZWL>
-    <number>932</number>
-    <alpha3>ZWL</alpha3>
+  <ZWG>
+    <number>924</number>
+    <alpha3>ZWG</alpha3>
     <decimals>2</decimals>
-    <langEN>Zimbabwean dollar</langEN>
-    <langIT>Dollaro dello Zimbabwe</langIT>
+    <langEN>Zimbabwe Gold</langEN>
+    <langIT>Oro dello Zimbabwe</langIT>
     <symbol_decimal>36</symbol_decimal>
     <symbol_hex>0024</symbol_hex>
-  </ZWL>
+  </ZWG>
 </currencies>
