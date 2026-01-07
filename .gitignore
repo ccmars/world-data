@@ -1,5 +1,8 @@
 # Ignore project files
 .idea
 .vscode
+.claude
+CLAUDE.MD
+AGENTS.MD
 
 __pycache__

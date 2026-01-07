@@ -1,5 +1,5 @@
 -- World Countries (ISO 3166)
--- SQL Table | v3.0.1 (2025)
+-- SQL Table | v3.0.2 (2026)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_countries`;
@@ -240,7 +240,7 @@ INSERT INTO `world_countries` (`number`, `alpha2`, `alpha3`, `langEN`, `langDE`,
 (795, 'TM', 'TKM', 'Turkmenistan', 'Turkmenistan', 'Turkmenistán', 'Turkménistan', 'Turkmenistan', '.tm'),
 (788, 'TN', 'TUN', 'Tunisia', 'Tunesien', 'Túnez', 'Tunisie', 'Tunisia', '.tn'),
 (776, 'TO', 'TON', 'Tonga', 'Tonga', 'Tonga', 'Tonga', 'Tonga', '.to'),
-(792, 'TR', 'TUR', 'Turkey', 'Türkei', 'Turquía', 'Turquie', 'Turkey', '.tr'),
+(792, 'TR', 'TUR', 'Türkiye', 'Türkei', 'Turquía', 'Turquie', 'Türkiye', '.tr'),
 (780, 'TT', 'TTO', 'Trinidad and Tobago', 'Trinidad und Tobago', 'Trinidad y Tobago', 'Trinité-et-Tobago', 'Trinidad e Tobago', '.tt'),
 (798, 'TV', 'TUV', 'Tuvalu', 'Tuvalu', 'Tuvalu', 'Tuvalu', 'Tuvalu', '.tv'),
 (158, 'TW', 'TWN', 'Taiwan', 'Taiwan', 'Taiwán', 'Taïwan', 'Taiwan', '.tw'),

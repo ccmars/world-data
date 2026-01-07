@@ -1,5 +1,5 @@
 # World Currencies (ISO 4217)
-## Markdown | v3.0.1 (2025) | https://github.com/ccmars/world-data
+## Markdown | v3.0.2 (2026) | https://github.com/ccmars/world-data
 | alpha3   |   number |   decimals | langEN                                  | langIT                           | symbol_decimal           | symbol_hex               |
 |:---------|---------:|-----------:|:----------------------------------------|:---------------------------------|:-------------------------|:-------------------------|
 | AED      |      784 |          2 | United Arab Emirates dirham             | Dirham degli Emirati Arabi Uniti | 1583;46;1573             | 062F;002E;0625           |
@@ -15,7 +15,6 @@
 | BAM      |      977 |          2 | Bosnia and Herzegovina convertible mark | Marco Convertibile               | 75;77                    | 004B;004D                |
 | BBD      |       52 |          2 | Barbados dollar                         | Dollaro delle Barbados           | 36                       | 0024                     |
 | BDT      |       50 |          2 | Bangladeshi taka                        | Taka                             | 2547                     | 09F3                     |
-| BGN      |      975 |          2 | Bulgarian lev                           | Lev Bulgaro                      | 1083;1074                | 043B;0432                |
 | BHD      |       48 |          3 | Bahraini dinar                          | Dinaro del Bahrain               | 46;1583;46;1576          | 002E;062F;002E;0628      |
 | BIF      |      108 |          0 | Burundian franc                         | Burundi Franco                   | 70;66;117                | 0046;0042;0075           |
 | BMD      |       60 |          2 | Bermudian dollar                        | Dollaro delle Bermuda            | 36                       | 0024                     |
@@ -158,4 +157,4 @@
 | YER      |      886 |          2 | Yemeni rial                             | Rial Yemenita                    | 65020                    | FDFC                     |
 | ZAR      |      710 |          2 | South African rand                      | Rand                             | 82                       | 0052                     |
 | ZMW      |      967 |          2 | Zambian kwacha                          | Kwacha dello Zambia              | 90;36                    | 005A;0024                |
-| ZWL      |      932 |          2 | Zimbabwean dollar                       | Dollaro dello Zimbabwe           | 36                       | 0024                     |
+| ZWG      |      924 |          2 | Zimbabwe Gold                           | Oro dello Zimbabwe               | 36                       | 0024                     |

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <countries>
   <!--World Countries (ISO 3166)-->
-  <!--XML | v3.0.1 (2025)-->
+  <!--XML | v3.0.2 (2026)-->
   <!--https://github.com/ccmars/world-data-->
   <AD>
     <number>20</number>
@@ -2471,11 +2471,11 @@
     <number>792</number>
     <alpha2>TR</alpha2>
     <alpha3>TUR</alpha3>
-    <langEN>Turkey</langEN>
+    <langEN>Türkiye</langEN>
     <langDE>Türkei</langDE>
     <langES>Turquía</langES>
     <langFR>Turquie</langFR>
-    <langIT>Turkey</langIT>
+    <langIT>Türkiye</langIT>
     <tld>.tr</tld>
   </TR>
   <TT>

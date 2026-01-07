@@ -1,5 +1,5 @@
 # World Currencies (ISO 4217)
-# YAML | v3.0.1 (2025)
+# YAML | v3.0.2 (2026)
 # https://github.com/ccmars/world-data
 AED:
   alpha3: AED
@@ -105,14 +105,6 @@ BDT:
   number: 50
   symbol_decimal: '2547'
   symbol_hex: 09F3
-BGN:
-  alpha3: BGN
-  decimals: 2
-  langEN: Bulgarian lev
-  langIT: Lev Bulgaro
-  number: 975
-  symbol_decimal: 1083;1074
-  symbol_hex: 043B;0432
 BHD:
   alpha3: BHD
   decimals: 3
@@ -1249,11 +1241,11 @@ ZMW:
   number: 967
   symbol_decimal: 90;36
   symbol_hex: 005A;0024
-ZWL:
-  alpha3: ZWL
+ZWG:
+  alpha3: ZWG
   decimals: 2
-  langEN: Zimbabwean dollar
-  langIT: Dollaro dello Zimbabwe
-  number: 932
+  langEN: Zimbabwe Gold
+  langIT: Oro dello Zimbabwe
+  number: 924
   symbol_decimal: '36'
   symbol_hex: '0024'

@@ -116,15 +116,6 @@
     "symbol_decimal": "2547",
     "symbol_hex": "09F3"
   },
-  "BGN": {
-    "number": 975,
-    "alpha3": "BGN",
-    "decimals": 2,
-    "langEN": "Bulgarian lev",
-    "langIT": "Lev Bulgaro",
-    "symbol_decimal": "1083;1074",
-    "symbol_hex": "043B;0432"
-  },
   "BHD": {
     "number": 48,
     "alpha3": "BHD",
@@ -1403,12 +1394,12 @@
     "symbol_decimal": "90;36",
     "symbol_hex": "005A;0024"
   },
-  "ZWL": {
-    "number": 932,
-    "alpha3": "ZWL",
+  "ZWG": {
+    "number": 924,
+    "alpha3": "ZWG",
     "decimals": 2,
-    "langEN": "Zimbabwean dollar",
-    "langIT": "Dollaro dello Zimbabwe",
+    "langEN": "Zimbabwe Gold",
+    "langIT": "Oro dello Zimbabwe",
     "symbol_decimal": "36",
     "symbol_hex": "0024"
   }

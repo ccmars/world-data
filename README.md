@@ -5,7 +5,7 @@
 
 Any developer that works with an international user base will eventually need to determine what country their users are from, what language they speak and read, and sometimes even what currency their users make purchases in. The best way to keep track of that information is to follow the standards set forth by the [International Organization for Standardization (ISO)](http://www.iso.org/), which have become universally accepted since their development in the 1960s and 1970s.
 
-This repository contains the 2024 ISO standard data for countries, currencies, and languages, in a variety of the most common data formats, including CSV, SQL, JSON, XML, YAML, and more.
+This repository contains the ISO standard data for countries, currencies, and languages, in a variety of the most common data formats, including CSV, SQL, JSON, XML, YAML, and more.
 
 🗂️ Formats
 ----------

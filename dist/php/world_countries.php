@@ -1,6 +1,6 @@
 <?php
 // World Countries (ISO 3166)
-// PHP | v3.0.1 (2025)
+// PHP | v3.0.2 (2026)
 // https://github.com/ccmars/world-data
 $world_countries = [
     "AD" => [
@@ -2471,11 +2471,11 @@ $world_countries = [
         "number" => "792",
         "alpha2" => "TR",
         "alpha3" => "TUR",
-        "langEN" => "Turkey",
+        "langEN" => "Türkiye",
         "langDE" => "Türkei",
         "langES" => "Turquía",
         "langFR" => "Turquie",
-        "langIT" => "Turkey",
+        "langIT" => "Türkiye",
         "tld" => ".tr"
     ],
     "TT" => [

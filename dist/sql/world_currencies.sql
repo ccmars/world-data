@@ -1,5 +1,5 @@
 -- World Currencies (ISO 4217)
--- SQL Table | v3.0.1 (2025)
+-- SQL Table | v3.0.2 (2026)
 -- https://github.com/ccmars/world-data
 
 DROP TABLE IF EXISTS `world_currencies`;
@@ -27,7 +27,6 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (977, 'BAM', 2, 'Bosnia and Herzegovina convertible mark', 'Marco Convertibile', '75;77', '004B;004D'),
 (52, 'BBD', 2, 'Barbados dollar', 'Dollaro delle Barbados', '36', '0024'),
 (50, 'BDT', 2, 'Bangladeshi taka', 'Taka', '2547', '09F3'),
-(975, 'BGN', 2, 'Bulgarian lev', 'Lev Bulgaro', '1083;1074', '043B;0432'),
 (48, 'BHD', 3, 'Bahraini dinar', 'Dinaro del Bahrain', '46;1583;46;1576', '002E;062F;002E;0628'),
 (108, 'BIF', 0, 'Burundian franc', 'Burundi Franco', '70;66;117', '0046;0042;0075'),
 (60, 'BMD', 2, 'Bermudian dollar', 'Dollaro delle Bermuda', '36', '0024'),
@@ -170,7 +169,7 @@ INSERT INTO `world_currencies` (`number`, `alpha3`, `decimals`, `langEN`, `langI
 (886, 'YER', 2, 'Yemeni rial', 'Rial Yemenita', '65020', 'FDFC'),
 (710, 'ZAR', 2, 'South African rand', 'Rand', '82', '0052'),
 (967, 'ZMW', 2, 'Zambian kwacha', 'Kwacha dello Zambia', '90;36', '005A;0024'),
-(932, 'ZWL', 2, 'Zimbabwean dollar', 'Dollaro dello Zimbabwe', '36', '0024');
+(924, 'ZWG', 2, 'Zimbabwe Gold', 'Oro dello Zimbabwe', '36', '0024');
 
 ALTER TABLE `world_currencies`
   ADD PRIMARY KEY (`number`),
