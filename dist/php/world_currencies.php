@@ -1,6 +1,6 @@
 <?php
 // World Currencies (ISO 4217)
-// PHP | v3.0.2 (2026)
+// PHP | v3.0.3 (2026)
 // https://github.com/ccmars/world-data
 $world_currencies = [
     "AED" => [

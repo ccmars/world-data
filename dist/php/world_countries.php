@@ -1,6 +1,6 @@
 <?php
 // World Countries (ISO 3166)
-// PHP | v3.0.2 (2026)
+// PHP | v3.0.3 (2026)
 // https://github.com/ccmars/world-data
 $world_countries = [
     "AD" => [

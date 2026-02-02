@@ -1,5 +1,5 @@
 # World Currencies (ISO 4217)
-## Markdown | v3.0.2 (2026) | https://github.com/ccmars/world-data
+## Markdown | v3.0.3 (2026) | https://github.com/ccmars/world-data
 | alpha3   |   number |   decimals | langEN                                  | langIT                           | symbol_decimal           | symbol_hex               |
 |:---------|---------:|-----------:|:----------------------------------------|:---------------------------------|:-------------------------|:-------------------------|
 | AED      |      784 |          2 | United Arab Emirates dirham             | Dirham degli Emirati Arabi Uniti | 1583;46;1573             | 062F;002E;0625           |
