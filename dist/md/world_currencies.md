@@ -1,12 +1,11 @@
 # World Currencies (ISO 4217)
-## Markdown | v3.0.2 (2026) | https://github.com/ccmars/world-data
+## Markdown | v3.0.3 (2026) | https://github.com/ccmars/world-data
 | alpha3   |   number |   decimals | langEN                                  | langIT                           | symbol_decimal           | symbol_hex               |
 |:---------|---------:|-----------:|:----------------------------------------|:---------------------------------|:-------------------------|:-------------------------|
 | AED      |      784 |          2 | United Arab Emirates dirham             | Dirham degli Emirati Arabi Uniti | 1583;46;1573             | 062F;002E;0625           |
 | AFN      |      971 |          2 | Afghan afghani                          | Afghani                          | 1547                     | 060B                     |
 | ALL      |        8 |          2 | Albanian lek                            | Lek                              | 76;101;107               | 004C;0065;006B           |
 | AMD      |       51 |          2 | Armenian dram                           | Dram Armeno                      | 1423                     | 058F                     |
-| ANG      |      532 |          2 | Netherlands Antillean guilder           | Fiorino delle Antille olandesi   | 402                      | 0192                     |
 | AOA      |      973 |          2 | Angolan kwanza                          | Kwanza                           | 75;122                   | 004B;007A                |
 | ARS      |       32 |          2 | Argentine peso                          | Peso Argentino                   | 36                       | 0024                     |
 | AUD      |       36 |          2 | Australian dollar                       | Dollaro australiano              | 36                       | 0024                     |
@@ -127,7 +126,7 @@
 | SRD      |      968 |          2 | Surinamese dollar                       | Dollaro del Suriname             | 36                       | 0024                     |
 | SSP      |      728 |          2 | South Sudanese pound                    | Sterlina sud-sudanese            | 36                       | 0024                     |
 | STN      |      930 |          2 | São Tomé and Príncipe dobra             | Dobra di São Tomé e Principe     | 68;98                    | 0044;0062                |
-| SVC      |      222 |          2 | Salvadoran colón                        | Colón Salvadoregno               | 20A1                     | 8353                     |
+| SVC      |      222 |          2 | Salvadoran colón                        | Colón Salvadoregno               | 8353                     | 20A1                     |
 | SYP      |      760 |          2 | Syrian pound                            | Sterlina siriana                 | 163                      | 00A3                     |
 | SZL      |      748 |          2 | Swazi lilangeni                         | Lilangeni                        | 76                       | 004C                     |
 | THB      |      764 |          2 | Thai baht                               | Baht                             | 3647                     | 0E3F                     |
@@ -151,6 +150,7 @@
 | WST      |      882 |          2 | Samoan tala                             | Tala                             | 87;83;36                 | 0057;0053;0024           |
 | XAF      |      950 |          0 | CFA franc BEAC                          | CFA Franco BEAC                  | 70;67;70;65              | 0046;0043;0046;0041      |
 | XCD      |      951 |          2 | East Caribbean dollar                   | Dollaro caraibico orientale      | 36                       | 0024                     |
+| XCG      |      532 |          2 | Caribbean guilder                       | Fiorino caraibico                | 67;103                   | 0043;0067                |
 | XOF      |      952 |          0 | CFA franc BCEAO                         | CFA Franco BCEAO                 | 70;67;70;65              | 0046;0043;0046;0041      |
 | XPF      |      953 |          0 | CFP franc (franc Pacifique)             | Franco CFP                       | 70                       | 0046                     |
 | XXX      |      999 |          0 | No currency                             | Nessuna valuta                   |                          |                          |

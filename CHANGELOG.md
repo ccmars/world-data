@@ -2,14 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v3.0.3 (2026)] - 2026-02-02
+
+### Changes
+
+#### Currencies
+- Fixed reversed decimal and hex symbol codes for Salvadoran colón
+- Removed Netherlands Antillean guilder
+- Added Caribbean guilder
+
+---
+
 ## [v3.0.2 (2026)] - 2026-01-06
 
 ### Changes
 
 #### Currencies
-- Removed BGN (Bulgarian Lev)
-- Removed ZWL (Zimbabwean dollar)
-- Added ZWG (Zimbabwe Gold)
+- Removed Bulgarian lev
+- Removed Zimbabwean dollar
+- Added Zimbabwe Gold
 
 #### Countries
 - Changed Turkey to Türkiye

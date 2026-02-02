@@ -1,6 +1,6 @@
 <?php
 // World Currencies (ISO 4217)
-// PHP | v3.0.2 (2026)
+// PHP | v3.0.3 (2026)
 // https://github.com/ccmars/world-data
 $world_currencies = [
     "AED" => [
@@ -38,15 +38,6 @@ $world_currencies = [
         "langIT" => "Dram Armeno",
         "symbol_decimal" => "1423",
         "symbol_hex" => "058F"
-    ],
-    "ANG" => [
-        "number" => "532",
-        "alpha3" => "ANG",
-        "decimals" => "2",
-        "langEN" => "Netherlands Antillean guilder",
-        "langIT" => "Fiorino delle Antille olandesi",
-        "symbol_decimal" => "402",
-        "symbol_hex" => "0192"
     ],
     "AOA" => [
         "number" => "973",
@@ -1134,8 +1125,8 @@ $world_currencies = [
         "decimals" => "2",
         "langEN" => "Salvadoran colón",
         "langIT" => "Colón Salvadoregno",
-        "symbol_decimal" => "20A1",
-        "symbol_hex" => "8353"
+        "symbol_decimal" => "8353",
+        "symbol_hex" => "20A1"
     ],
     "SYP" => [
         "number" => "760",
@@ -1343,6 +1334,15 @@ $world_currencies = [
         "langIT" => "Dollaro caraibico orientale",
         "symbol_decimal" => "36",
         "symbol_hex" => "0024"
+    ],
+    "XCG" => [
+        "number" => "532",
+        "alpha3" => "XCG",
+        "decimals" => "2",
+        "langEN" => "Caribbean guilder",
+        "langIT" => "Fiorino caraibico",
+        "symbol_decimal" => "67;103",
+        "symbol_hex" => "0043;0067"
     ],
     "XOF" => [
         "number" => "952",

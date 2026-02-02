@@ -1,5 +1,5 @@
 # World Currencies (ISO 4217)
-# YAML | v3.0.2 (2026)
+# YAML | v3.0.3 (2026)
 # https://github.com/ccmars/world-data
 AED:
   alpha3: AED
@@ -33,14 +33,6 @@ AMD:
   number: 51
   symbol_decimal: '1423'
   symbol_hex: 058F
-ANG:
-  alpha3: ANG
-  decimals: 2
-  langEN: Netherlands Antillean guilder
-  langIT: Fiorino delle Antille olandesi
-  number: 532
-  symbol_decimal: '402'
-  symbol_hex: 0192
 AOA:
   alpha3: AOA
   decimals: 2
@@ -1007,8 +999,8 @@ SVC:
   langEN: "Salvadoran col\xF3n"
   langIT: "Col\xF3n Salvadoregno"
   number: 222
-  symbol_decimal: 20A1
-  symbol_hex: '8353'
+  symbol_decimal: '8353'
+  symbol_hex: 20A1
 SYP:
   alpha3: SYP
   decimals: 2
@@ -1193,6 +1185,14 @@ XCD:
   number: 951
   symbol_decimal: '36'
   symbol_hex: '0024'
+XCG:
+  alpha3: XCG
+  decimals: 2
+  langEN: Caribbean guilder
+  langIT: Fiorino caraibico
+  number: 532
+  symbol_decimal: 67;103
+  symbol_hex: 0043;0067
 XOF:
   alpha3: XOF
   decimals: 0

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <currencies>
   <!--World Currencies (ISO 4217)-->
-  <!--XML | v3.0.2 (2026)-->
+  <!--XML | v3.0.3 (2026)-->
   <!--https://github.com/ccmars/world-data-->
   <AED>
     <number>784</number>
@@ -39,15 +39,6 @@
     <symbol_decimal>1423</symbol_decimal>
     <symbol_hex>058F</symbol_hex>
   </AMD>
-  <ANG>
-    <number>532</number>
-    <alpha3>ANG</alpha3>
-    <decimals>2</decimals>
-    <langEN>Netherlands Antillean guilder</langEN>
-    <langIT>Fiorino delle Antille olandesi</langIT>
-    <symbol_decimal>402</symbol_decimal>
-    <symbol_hex>0192</symbol_hex>
-  </ANG>
   <AOA>
     <number>973</number>
     <alpha3>AOA</alpha3>
@@ -1134,8 +1125,8 @@
     <decimals>2</decimals>
     <langEN>Salvadoran colón</langEN>
     <langIT>Colón Salvadoregno</langIT>
-    <symbol_decimal>20A1</symbol_decimal>
-    <symbol_hex>8353</symbol_hex>
+    <symbol_decimal>8353</symbol_decimal>
+    <symbol_hex>20A1</symbol_hex>
   </SVC>
   <SYP>
     <number>760</number>
@@ -1344,6 +1335,15 @@
     <symbol_decimal>36</symbol_decimal>
     <symbol_hex>0024</symbol_hex>
   </XCD>
+  <XCG>
+    <number>532</number>
+    <alpha3>XCG</alpha3>
+    <decimals>2</decimals>
+    <langEN>Caribbean guilder</langEN>
+    <langIT>Fiorino caraibico</langIT>
+    <symbol_decimal>67;103</symbol_decimal>
+    <symbol_hex>0043;0067</symbol_hex>
+  </XCG>
   <XOF>
     <number>952</number>
     <alpha3>XOF</alpha3>

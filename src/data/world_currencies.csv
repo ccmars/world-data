@@ -3,7 +3,6 @@ number,alpha3,decimals,langEN,langIT,symbol_decimal,symbol_hex
 971,AFN,2,"Afghan afghani",Afghani,1547,060B
 8,ALL,2,"Albanian lek",Lek,76;101;107,004C;0065;006B
 51,AMD,2,"Armenian dram","Dram Armeno",1423,058F
-532,ANG,2,"Netherlands Antillean guilder","Fiorino delle Antille olandesi",402,0192
 973,AOA,2,"Angolan kwanza",Kwanza,75;122,004B;007A
 32,ARS,2,"Argentine peso","Peso Argentino",36,0024
 36,AUD,2,"Australian dollar","Dollaro australiano",36,0024
@@ -124,7 +123,7 @@ number,alpha3,decimals,langEN,langIT,symbol_decimal,symbol_hex
 968,SRD,2,"Surinamese dollar","Dollaro del Suriname",36,0024
 728,SSP,2,"South Sudanese pound","Sterlina sud-sudanese",36,0024
 930,STN,2,"São Tomé and Príncipe dobra","Dobra di São Tomé e Principe",68;98,0044;0062
-222,SVC,2,"Salvadoran colón","Colón Salvadoregno",20A1,8353
+222,SVC,2,"Salvadoran colón","Colón Salvadoregno",8353,20A1
 760,SYP,2,"Syrian pound","Sterlina siriana",163,00A3
 748,SZL,2,"Swazi lilangeni",Lilangeni,76,004C
 764,THB,2,"Thai baht",Baht,3647,0E3F
@@ -148,6 +147,7 @@ number,alpha3,decimals,langEN,langIT,symbol_decimal,symbol_hex
 882,WST,2,"Samoan tala",Tala,87;83;36,0057;0053;0024
 950,XAF,0,"CFA franc BEAC","CFA Franco BEAC",70;67;70;65,0046;0043;0046;0041
 951,XCD,2,"East Caribbean dollar","Dollaro caraibico orientale",36,0024
+532,XCG,2,"Caribbean guilder","Fiorino caraibico",67;103,0043;0067
 952,XOF,0,"CFA franc BCEAO","CFA Franco BCEAO",70;67;70;65,0046;0043;0046;0041
 953,XPF,0,"CFP franc (franc Pacifique)","Franco CFP",70,0046
 999,XXX,0,"No currency","Nessuna valuta",,
